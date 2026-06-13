@@ -1,0 +1,1136 @@
+[
+  {
+    "name": "Karak 1977 — Arad",
+    "city": "Arad",
+    "address": "Avenue 29, Arad, Muharraq Governorate",
+    "lat": 26.252,
+    "lng": 50.6258,
+    "note": "Drive-through stall on Avenue 29; open 7am to midnight.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "07:00",
+        "24:00"
+      ],
+      "tue": [
+        "07:00",
+        "24:00"
+      ],
+      "wed": [
+        "07:00",
+        "24:00"
+      ],
+      "thu": [
+        "07:00",
+        "24:00"
+      ],
+      "fri": [
+        "07:00",
+        "24:00"
+      ],
+      "sat": [
+        "07:00",
+        "24:00"
+      ],
+      "sun": [
+        "07:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Shabbati with cheese",
+        "price": 0.2
+      },
+      {
+        "item": "Samosa",
+        "price": 0.1
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafe",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "Karak 1977 — Galali",
+    "city": "Galali",
+    "address": "Road 2, Galali, Muharraq",
+    "lat": 26.27148,
+    "lng": 50.6515,
+    "note": "Small Galali branch listed on Foursquare and Snapchat maps.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "07:00",
+        "24:00"
+      ],
+      "tue": [
+        "07:00",
+        "24:00"
+      ],
+      "wed": [
+        "07:00",
+        "24:00"
+      ],
+      "thu": [
+        "07:00",
+        "24:00"
+      ],
+      "fri": [
+        "07:00",
+        "24:00"
+      ],
+      "sat": [
+        "07:00",
+        "24:00"
+      ],
+      "sun": [
+        "07:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Shabbati with cheese",
+        "price": 0.2
+      },
+      {
+        "item": "Samosa",
+        "price": 0.1
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafe",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "Karak 1977 — Hidd",
+    "city": "Hidd",
+    "address": "Hidd, Muharraq Governorate",
+    "lat": 26.2455,
+    "lng": 50.654,
+    "note": "Hidd branch of the Seventies Karak 1977 chain.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "07:00",
+        "24:00"
+      ],
+      "tue": [
+        "07:00",
+        "24:00"
+      ],
+      "wed": [
+        "07:00",
+        "24:00"
+      ],
+      "thu": [
+        "07:00",
+        "24:00"
+      ],
+      "fri": [
+        "07:00",
+        "24:00"
+      ],
+      "sat": [
+        "07:00",
+        "24:00"
+      ],
+      "sun": [
+        "07:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Shabbati with cheese",
+        "price": 0.2
+      },
+      {
+        "item": "Samosa",
+        "price": 0.1
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafe",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "Karak 1977 — Umm Al Hassam",
+    "city": "Umm Al Hassam",
+    "address": "Umm Al Hassam Avenue, Manama",
+    "lat": 26.2086,
+    "lng": 50.596,
+    "note": "Branch on Umm Al Hassam Avenue; phone 3512 6520.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "07:00",
+        "24:00"
+      ],
+      "tue": [
+        "07:00",
+        "24:00"
+      ],
+      "wed": [
+        "07:00",
+        "24:00"
+      ],
+      "thu": [
+        "07:00",
+        "24:00"
+      ],
+      "fri": [
+        "07:00",
+        "24:00"
+      ],
+      "sat": [
+        "07:00",
+        "24:00"
+      ],
+      "sun": [
+        "07:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Shabbati with cheese",
+        "price": 0.2
+      },
+      {
+        "item": "Samosa",
+        "price": 0.1
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafe",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "Karak 1977 — Budaiya",
+    "city": "Budaiya",
+    "address": "Road 5363, Block 538, Budaiya",
+    "lat": 26.2115,
+    "lng": 50.4523,
+    "note": "Roadside branch on Road 5363 in Budaiya.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "07:00",
+        "24:00"
+      ],
+      "tue": [
+        "07:00",
+        "24:00"
+      ],
+      "wed": [
+        "07:00",
+        "24:00"
+      ],
+      "thu": [
+        "07:00",
+        "24:00"
+      ],
+      "fri": [
+        "07:00",
+        "24:00"
+      ],
+      "sat": [
+        "07:00",
+        "24:00"
+      ],
+      "sun": [
+        "07:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Shabbati with cheese",
+        "price": 0.2
+      },
+      {
+        "item": "Samosa",
+        "price": 0.1
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafe",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "Karak 1977 — Bu Kowarah",
+    "city": "Riffa",
+    "address": "Bu Kowarah, North Riffa, near Isa Town",
+    "lat": 26.156,
+    "lng": 50.553,
+    "note": "Riffa branch near Isa Town; staff serve cars curbside.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "07:00",
+        "24:00"
+      ],
+      "tue": [
+        "07:00",
+        "24:00"
+      ],
+      "wed": [
+        "07:00",
+        "24:00"
+      ],
+      "thu": [
+        "07:00",
+        "24:00"
+      ],
+      "fri": [
+        "07:00",
+        "24:00"
+      ],
+      "sat": [
+        "07:00",
+        "24:00"
+      ],
+      "sun": [
+        "07:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Shabbati with cheese",
+        "price": 0.2
+      },
+      {
+        "item": "Samosa",
+        "price": 0.1
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafe",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "Karak 1977 — Malkiya",
+    "city": "Malkiya",
+    "address": "Malkiya village, Northern Governorate",
+    "lat": 26.0996,
+    "lng": 50.4852,
+    "note": "West-coast village branch in Malkiya.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "07:00",
+        "24:00"
+      ],
+      "tue": [
+        "07:00",
+        "24:00"
+      ],
+      "wed": [
+        "07:00",
+        "24:00"
+      ],
+      "thu": [
+        "07:00",
+        "24:00"
+      ],
+      "fri": [
+        "07:00",
+        "24:00"
+      ],
+      "sat": [
+        "07:00",
+        "24:00"
+      ],
+      "sun": [
+        "07:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Shabbati with cheese",
+        "price": 0.2
+      },
+      {
+        "item": "Samosa",
+        "price": 0.1
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafe",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "Karak 1977 — Sitra",
+    "city": "Sitra",
+    "address": "Avenue 6, Sitra",
+    "lat": 26.1694,
+    "lng": 50.601,
+    "note": "Sitra branch on Avenue 6, north end of the island.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "07:00",
+        "24:00"
+      ],
+      "tue": [
+        "07:00",
+        "24:00"
+      ],
+      "wed": [
+        "07:00",
+        "24:00"
+      ],
+      "thu": [
+        "07:00",
+        "24:00"
+      ],
+      "fri": [
+        "07:00",
+        "24:00"
+      ],
+      "sat": [
+        "07:00",
+        "24:00"
+      ],
+      "sun": [
+        "07:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Shabbati with cheese",
+        "price": 0.2
+      },
+      {
+        "item": "Samosa",
+        "price": 0.1
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafe",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "Karak 1977 — Hamad Town",
+    "city": "Hamad Town",
+    "address": "Hamad Town, Northern Governorate",
+    "lat": 26.118,
+    "lng": 50.504,
+    "note": "Hamad Town branch; phone 3548 0280.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "07:00",
+        "24:00"
+      ],
+      "tue": [
+        "07:00",
+        "24:00"
+      ],
+      "wed": [
+        "07:00",
+        "24:00"
+      ],
+      "thu": [
+        "07:00",
+        "24:00"
+      ],
+      "fri": [
+        "07:00",
+        "24:00"
+      ],
+      "sat": [
+        "07:00",
+        "24:00"
+      ],
+      "sun": [
+        "07:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Shabbati with cheese",
+        "price": 0.2
+      },
+      {
+        "item": "Samosa",
+        "price": 0.1
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafe",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "King Karak — Manama Center",
+    "city": "Manama",
+    "address": "Manama Center, Capital Governorate",
+    "lat": 26.2313,
+    "lng": 50.5905,
+    "note": "Listed on Talabat as King Karak Manama Center.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "06:00",
+        "24:00"
+      ],
+      "tue": [
+        "06:00",
+        "24:00"
+      ],
+      "wed": [
+        "06:00",
+        "24:00"
+      ],
+      "thu": [
+        "06:00",
+        "24:00"
+      ],
+      "fri": [
+        "06:00",
+        "24:00"
+      ],
+      "sat": [
+        "06:00",
+        "24:00"
+      ],
+      "sun": [
+        "06:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Omelette sandwich",
+        "price": 0.4
+      },
+      {
+        "item": "Oman chips sandwich",
+        "price": 0.3
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafeteria",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "King Karak — Muharraq",
+    "city": "Muharraq",
+    "address": "Muharraq town, Muharraq Governorate",
+    "lat": 26.2445,
+    "lng": 50.6154,
+    "note": "Muharraq branch; delivery available on Talabat.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "06:00",
+        "24:00"
+      ],
+      "tue": [
+        "06:00",
+        "24:00"
+      ],
+      "wed": [
+        "06:00",
+        "24:00"
+      ],
+      "thu": [
+        "06:00",
+        "24:00"
+      ],
+      "fri": [
+        "06:00",
+        "24:00"
+      ],
+      "sat": [
+        "06:00",
+        "24:00"
+      ],
+      "sun": [
+        "06:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Omelette sandwich",
+        "price": 0.4
+      },
+      {
+        "item": "Oman chips sandwich",
+        "price": 0.3
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafeteria",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "King Karak — Jurdab",
+    "city": "Jurdab",
+    "address": "Jurdab village, near Salmabad",
+    "lat": 26.1735,
+    "lng": 50.5775,
+    "note": "Jurdab branch; delivery available on Talabat.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "06:00",
+        "24:00"
+      ],
+      "tue": [
+        "06:00",
+        "24:00"
+      ],
+      "wed": [
+        "06:00",
+        "24:00"
+      ],
+      "thu": [
+        "06:00",
+        "24:00"
+      ],
+      "fri": [
+        "06:00",
+        "24:00"
+      ],
+      "sat": [
+        "06:00",
+        "24:00"
+      ],
+      "sun": [
+        "06:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Omelette sandwich",
+        "price": 0.4
+      },
+      {
+        "item": "Oman chips sandwich",
+        "price": 0.3
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafeteria",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "King Karak — Umm Al Hassam",
+    "city": "Umm Al Hassam",
+    "address": "Umm Al Hassam, Manama",
+    "lat": 26.2095,
+    "lng": 50.5975,
+    "note": "Umm Al Hassam branch; delivers to Adliya via Talabat.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "06:00",
+        "24:00"
+      ],
+      "tue": [
+        "06:00",
+        "24:00"
+      ],
+      "wed": [
+        "06:00",
+        "24:00"
+      ],
+      "thu": [
+        "06:00",
+        "24:00"
+      ],
+      "fri": [
+        "06:00",
+        "24:00"
+      ],
+      "sat": [
+        "06:00",
+        "24:00"
+      ],
+      "sun": [
+        "06:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Omelette sandwich",
+        "price": 0.4
+      },
+      {
+        "item": "Oman chips sandwich",
+        "price": 0.3
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafeteria",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "King Karak — West Riffa",
+    "city": "Riffa",
+    "address": "Riffa Al Gharbi (West Riffa), Southern Governorate",
+    "lat": 26.1312,
+    "lng": 50.558,
+    "note": "West Riffa shop, on OpenStreetMap and Talabat.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "06:00",
+        "24:00"
+      ],
+      "tue": [
+        "06:00",
+        "24:00"
+      ],
+      "wed": [
+        "06:00",
+        "24:00"
+      ],
+      "thu": [
+        "06:00",
+        "24:00"
+      ],
+      "fri": [
+        "06:00",
+        "24:00"
+      ],
+      "sat": [
+        "06:00",
+        "24:00"
+      ],
+      "sun": [
+        "06:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Omelette sandwich",
+        "price": 0.4
+      },
+      {
+        "item": "Oman chips sandwich",
+        "price": 0.3
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafeteria",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "King Karak — East Riffa",
+    "city": "Riffa",
+    "address": "Baineh Avenue, East Riffa",
+    "lat": 26.1269,
+    "lng": 50.5747,
+    "note": "Cafeteria on Baineh Avenue near Lulu Hypermarket.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "06:00",
+        "24:00"
+      ],
+      "tue": [
+        "06:00",
+        "24:00"
+      ],
+      "wed": [
+        "06:00",
+        "24:00"
+      ],
+      "thu": [
+        "06:00",
+        "24:00"
+      ],
+      "fri": [
+        "06:00",
+        "24:00"
+      ],
+      "sat": [
+        "06:00",
+        "24:00"
+      ],
+      "sun": [
+        "06:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Omelette sandwich",
+        "price": 0.4
+      },
+      {
+        "item": "Oman chips sandwich",
+        "price": 0.3
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafeteria",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "King Karak — Budaiya",
+    "city": "Budaiya",
+    "address": "Budaiya village, Northern Governorate",
+    "lat": 26.211,
+    "lng": 50.456,
+    "note": "Budaiya village branch, listed on Talabat.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "06:00",
+        "24:00"
+      ],
+      "tue": [
+        "06:00",
+        "24:00"
+      ],
+      "wed": [
+        "06:00",
+        "24:00"
+      ],
+      "thu": [
+        "06:00",
+        "24:00"
+      ],
+      "fri": [
+        "06:00",
+        "24:00"
+      ],
+      "sat": [
+        "06:00",
+        "24:00"
+      ],
+      "sun": [
+        "06:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Omelette sandwich",
+        "price": 0.4
+      },
+      {
+        "item": "Oman chips sandwich",
+        "price": 0.3
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafeteria",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "King Karak — Budaiya Highway",
+    "city": "Saar",
+    "address": "Budaiya Highway, Saar area",
+    "lat": 26.2185,
+    "lng": 50.505,
+    "note": "Branch off Budaiya Highway near Saar.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "06:00",
+        "24:00"
+      ],
+      "tue": [
+        "06:00",
+        "24:00"
+      ],
+      "wed": [
+        "06:00",
+        "24:00"
+      ],
+      "thu": [
+        "06:00",
+        "24:00"
+      ],
+      "fri": [
+        "06:00",
+        "24:00"
+      ],
+      "sat": [
+        "06:00",
+        "24:00"
+      ],
+      "sun": [
+        "06:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Omelette sandwich",
+        "price": 0.4
+      },
+      {
+        "item": "Oman chips sandwich",
+        "price": 0.3
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafeteria",
+      "late-night"
+    ],
+    "priceEstimated": true
+  },
+  {
+    "name": "King Karak — Hidd",
+    "city": "Hidd",
+    "address": "Hidd, Muharraq Governorate",
+    "lat": 26.2415,
+    "lng": 50.6552,
+    "note": "Hidd cafeteria branch, recorded in OpenStreetMap.",
+    "state": "BH",
+    "country": "BH",
+    "currency": "BHD",
+    "rating": null,
+    "reviews": null,
+    "hours": {
+      "mon": [
+        "06:00",
+        "24:00"
+      ],
+      "tue": [
+        "06:00",
+        "24:00"
+      ],
+      "wed": [
+        "06:00",
+        "24:00"
+      ],
+      "thu": [
+        "06:00",
+        "24:00"
+      ],
+      "fri": [
+        "06:00",
+        "24:00"
+      ],
+      "sat": [
+        "06:00",
+        "24:00"
+      ],
+      "sun": [
+        "06:00",
+        "24:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 0.1
+      },
+      {
+        "item": "Omelette sandwich",
+        "price": 0.4
+      },
+      {
+        "item": "Oman chips sandwich",
+        "price": 0.3
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafeteria",
+      "late-night"
+    ],
+    "priceEstimated": true
+  }
+]

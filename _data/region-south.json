@@ -1,0 +1,1019 @@
+[
+  {
+    "name": "Qamaria Yemeni Coffee Co.",
+    "city": "Houston",
+    "state": "TX",
+    "address": "12102 Westheimer Rd, Houston, TX 77077",
+    "lat": 29.7367,
+    "lng": -95.5896,
+    "rating": 4.7,
+    "reviews": 1100,
+    "hours": {
+      "mon": [
+        "08:00",
+        "22:00"
+      ],
+      "tue": [
+        "08:00",
+        "22:00"
+      ],
+      "wed": [
+        "08:00",
+        "22:00"
+      ],
+      "thu": [
+        "08:00",
+        "22:00"
+      ],
+      "fri": [
+        "08:00",
+        "23:00"
+      ],
+      "sat": [
+        "08:00",
+        "23:00"
+      ],
+      "sun": [
+        "08:00",
+        "22:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni tea (karak-style)",
+        "price": 5.99
+      },
+      {
+        "item": "Adeni chai latte",
+        "price": 7.19
+      },
+      {
+        "item": "Iced pistachio latte",
+        "price": 7.99
+      },
+      {
+        "item": "Adeni tea + honeycomb bread",
+        "price": 9.99
+      }
+    ],
+    "tags": [
+      "adeni",
+      "karak",
+      "yemeni",
+      "cafe",
+      "dessert"
+    ],
+    "note": "Westside outpost of the Michigan-born Yemeni chain. Big patio."
+  },
+  {
+    "name": "Chai Shai Hillcroft",
+    "city": "Houston",
+    "state": "TX",
+    "address": "6632 Southwest Fwy, Houston, TX 77074",
+    "lat": 29.7272,
+    "lng": -95.5005,
+    "rating": 4.4,
+    "reviews": 1000,
+    "hours": {
+      "mon": [
+        "11:00",
+        "22:00"
+      ],
+      "tue": [
+        "11:00",
+        "22:00"
+      ],
+      "wed": [
+        "11:00",
+        "21:00"
+      ],
+      "thu": [
+        "11:00",
+        "22:00"
+      ],
+      "fri": [
+        "11:00",
+        "23:00"
+      ],
+      "sat": [
+        "11:00",
+        "23:00"
+      ],
+      "sun": [
+        "11:00",
+        "22:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 2.99
+      },
+      {
+        "item": "Elaichi chai",
+        "price": 3.25
+      },
+      {
+        "item": "Paratha with kadak chai",
+        "price": 3.99
+      },
+      {
+        "item": "Chapli kabab",
+        "price": 7.99
+      }
+    ],
+    "tags": [
+      "karak",
+      "masala",
+      "pakistani",
+      "cafe"
+    ],
+    "note": "Family-run Pakistani spot on the Hillcroft desi strip.",
+    "priceEstimated": true
+  },
+  {
+    "name": "FiLLi Cafe Hillcroft",
+    "city": "Houston",
+    "state": "TX",
+    "address": "5600 Hillcroft St, Houston, TX 77036",
+    "lat": 29.7186,
+    "lng": -95.4969,
+    "rating": 4.2,
+    "reviews": 400,
+    "hours": {
+      "mon": [
+        "10:00",
+        "23:00"
+      ],
+      "tue": [
+        "10:00",
+        "23:00"
+      ],
+      "wed": [
+        "10:00",
+        "23:00"
+      ],
+      "thu": [
+        "10:00",
+        "23:00"
+      ],
+      "fri": [
+        "10:00",
+        "01:00"
+      ],
+      "sat": [
+        "10:00",
+        "01:00"
+      ],
+      "sun": [
+        "10:00",
+        "23:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak chai",
+        "price": 3.5
+      },
+      {
+        "item": "Zafran chai",
+        "price": 4.95
+      },
+      {
+        "item": "Kashmiri chai",
+        "price": 4.95
+      },
+      {
+        "item": "Zafrani milk cake",
+        "price": 6.99
+      }
+    ],
+    "tags": [
+      "karak",
+      "masala",
+      "cafe",
+      "late-night"
+    ],
+    "note": "Dubai chai franchise. People come for the zafran chai.",
+    "priceEstimated": true
+  },
+  {
+    "name": "Arwa Yemeni Coffee",
+    "city": "Richardson",
+    "state": "TX",
+    "address": "888 S Greenville Ave Ste 223, Richardson, TX 75081",
+    "lat": 32.9387,
+    "lng": -96.7103,
+    "rating": 4.7,
+    "reviews": 1489,
+    "hours": {
+      "mon": [
+        "10:00",
+        "23:00"
+      ],
+      "tue": [
+        "10:00",
+        "23:00"
+      ],
+      "wed": [
+        "10:00",
+        "23:00"
+      ],
+      "thu": [
+        "10:00",
+        "23:00"
+      ],
+      "fri": [
+        "10:00",
+        "23:00"
+      ],
+      "sat": [
+        "10:00",
+        "23:00"
+      ],
+      "sun": [
+        "10:00",
+        "23:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni chai",
+        "price": 5.5
+      },
+      {
+        "item": "Mofawar coffee",
+        "price": 6.5
+      },
+      {
+        "item": "Honeycomb bun (khaliat alnahl)",
+        "price": 4.75
+      }
+    ],
+    "tags": [
+      "adeni",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "DFW's first Yemeni coffee shop. They roast in house.",
+    "priceEstimated": true
+  },
+  {
+    "name": "Karak Tea Bakery & Cafe",
+    "city": "Plano",
+    "state": "TX",
+    "address": "1820 Coit Rd Ste 138, Plano, TX 75075",
+    "lat": 33.0182,
+    "lng": -96.7702,
+    "rating": 4.4,
+    "reviews": 150,
+    "hours": {
+      "mon": null,
+      "tue": [
+        "16:00",
+        "02:00"
+      ],
+      "wed": [
+        "16:00",
+        "02:00"
+      ],
+      "thu": [
+        "16:00",
+        "02:00"
+      ],
+      "fri": [
+        "16:00",
+        "02:00"
+      ],
+      "sat": [
+        "16:00",
+        "02:00"
+      ],
+      "sun": [
+        "12:00",
+        "00:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Karak tea",
+        "price": 3.99
+      },
+      {
+        "item": "Pink Kashmiri tea",
+        "price": 4.99
+      },
+      {
+        "item": "Wood-fired knafeh",
+        "price": 8.99
+      },
+      {
+        "item": "Halloumi samosa",
+        "price": 5.99
+      }
+    ],
+    "tags": [
+      "karak",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "Late-night chai and knafeh out of a wood-fired oven.",
+    "priceEstimated": true
+  },
+  {
+    "name": "Haraz Coffee House",
+    "city": "Irving",
+    "state": "TX",
+    "address": "10009 N MacArthur Blvd Ste 101, Irving, TX 75063",
+    "lat": 32.9098,
+    "lng": -96.9619,
+    "rating": 4.8,
+    "reviews": 1300,
+    "hours": {
+      "mon": [
+        "07:00",
+        "23:00"
+      ],
+      "tue": [
+        "07:00",
+        "23:00"
+      ],
+      "wed": [
+        "07:00",
+        "23:00"
+      ],
+      "thu": [
+        "07:00",
+        "23:00"
+      ],
+      "fri": [
+        "07:00",
+        "00:00"
+      ],
+      "sat": [
+        "07:00",
+        "00:00"
+      ],
+      "sun": [
+        "07:00",
+        "23:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni/Karak chai",
+        "price": 5.65
+      },
+      {
+        "item": "Pistachio latte",
+        "price": 7.95
+      },
+      {
+        "item": "Milk cake",
+        "price": 7.99
+      }
+    ],
+    "tags": [
+      "adeni",
+      "karak",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "Busy Valley Ranch branch of the Dearborn chain."
+  },
+  {
+    "name": "Arwa Yemeni Coffee",
+    "city": "Austin",
+    "state": "TX",
+    "address": "11331 N Lamar Blvd, Austin, TX 78753",
+    "lat": 30.3786,
+    "lng": -97.6932,
+    "rating": 4.6,
+    "reviews": 218,
+    "hours": {
+      "mon": null,
+      "tue": [
+        "08:00",
+        "16:00"
+      ],
+      "wed": [
+        "08:00",
+        "16:00"
+      ],
+      "thu": [
+        "08:00",
+        "16:00"
+      ],
+      "fri": [
+        "08:00",
+        "20:00"
+      ],
+      "sat": [
+        "08:00",
+        "20:00"
+      ],
+      "sun": [
+        "08:00",
+        "19:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni chai",
+        "price": 5.5
+      },
+      {
+        "item": "Mofawar coffee",
+        "price": 6.5
+      },
+      {
+        "item": "Honeycomb bun",
+        "price": 4.75
+      }
+    ],
+    "tags": [
+      "adeni",
+      "yemeni",
+      "cafe",
+      "dessert"
+    ],
+    "note": "Shares a North Lamar storefront with Sana Bakery.",
+    "priceEstimated": true
+  },
+  {
+    "name": "Haraz Coffee House",
+    "city": "Austin",
+    "state": "TX",
+    "address": "500 W Martin Luther King Jr Blvd Ste A, Austin, TX 78701",
+    "lat": 30.2818,
+    "lng": -97.7448,
+    "rating": 4.7,
+    "reviews": 224,
+    "hours": {
+      "mon": [
+        "08:00",
+        "23:00"
+      ],
+      "tue": [
+        "08:00",
+        "23:00"
+      ],
+      "wed": [
+        "08:00",
+        "23:00"
+      ],
+      "thu": [
+        "08:00",
+        "23:00"
+      ],
+      "fri": [
+        "08:00",
+        "00:00"
+      ],
+      "sat": [
+        "08:00",
+        "00:00"
+      ],
+      "sun": [
+        "08:00",
+        "23:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni/Karak chai",
+        "price": 5.65
+      },
+      {
+        "item": "Harazi latte",
+        "price": 7.45
+      },
+      {
+        "item": "Saffron milk cake",
+        "price": 7.99
+      }
+    ],
+    "tags": [
+      "adeni",
+      "karak",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "Downtown, close to UT. Full of laptops.",
+    "priceEstimated": true
+  },
+  {
+    "name": "Haraz Coffee House Midtown",
+    "city": "Atlanta",
+    "state": "GA",
+    "address": "930 Spring St NW Suite 5, Atlanta, GA 30309",
+    "lat": 33.7793,
+    "lng": -84.3886,
+    "rating": 4.8,
+    "reviews": 450,
+    "hours": {
+      "mon": [
+        "08:00",
+        "22:00"
+      ],
+      "tue": [
+        "08:00",
+        "22:00"
+      ],
+      "wed": [
+        "08:00",
+        "22:00"
+      ],
+      "thu": [
+        "08:00",
+        "22:00"
+      ],
+      "fri": [
+        "08:00",
+        "00:00"
+      ],
+      "sat": [
+        "08:00",
+        "00:00"
+      ],
+      "sun": [
+        "08:00",
+        "22:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni chai",
+        "price": 5.65
+      },
+      {
+        "item": "Pistachio latte",
+        "price": 7.95
+      },
+      {
+        "item": "Milk cake",
+        "price": 8.0
+      }
+    ],
+    "tags": [
+      "adeni",
+      "karak",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "Georgia's first Haraz, near Georgia Tech and Tech Square.",
+    "priceEstimated": true
+  },
+  {
+    "name": "Qamaria Yemeni Coffee Co.",
+    "city": "Duluth",
+    "state": "GA",
+    "address": "2645 N Berkeley Lake Rd NW Ste 221, Duluth, GA 30096",
+    "lat": 33.9897,
+    "lng": -84.1675,
+    "rating": 4.6,
+    "reviews": 300,
+    "hours": {
+      "mon": [
+        "08:00",
+        "01:00"
+      ],
+      "tue": [
+        "08:00",
+        "01:00"
+      ],
+      "wed": [
+        "08:00",
+        "01:00"
+      ],
+      "thu": [
+        "08:00",
+        "01:00"
+      ],
+      "fri": [
+        "08:00",
+        "02:00"
+      ],
+      "sat": [
+        "08:00",
+        "02:00"
+      ],
+      "sun": [
+        "08:00",
+        "01:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni tea",
+        "price": 5.99
+      },
+      {
+        "item": "Adeni chai latte",
+        "price": 7.19
+      },
+      {
+        "item": "Qamaria latte",
+        "price": 7.29
+      }
+    ],
+    "tags": [
+      "adeni",
+      "karak",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "Open past 1 a.m. in Duluth's international village corridor."
+  },
+  {
+    "name": "Shibam Coffee",
+    "city": "Alpharetta",
+    "state": "GA",
+    "address": "4000 North Point Pkwy Suite 900, Alpharetta, GA 30022",
+    "lat": 34.0543,
+    "lng": -84.2821,
+    "rating": 4.6,
+    "reviews": 350,
+    "hours": {
+      "mon": [
+        "08:00",
+        "22:00"
+      ],
+      "tue": [
+        "08:00",
+        "22:00"
+      ],
+      "wed": [
+        "08:00",
+        "22:00"
+      ],
+      "thu": [
+        "08:00",
+        "22:00"
+      ],
+      "fri": [
+        "08:00",
+        "00:00"
+      ],
+      "sat": [
+        "08:00",
+        "00:00"
+      ],
+      "sun": [
+        "08:00",
+        "22:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni tea",
+        "price": 5.25
+      },
+      {
+        "item": "Shibam latte",
+        "price": 6.75
+      },
+      {
+        "item": "Honeycomb bread",
+        "price": 5.5
+      }
+    ],
+    "tags": [
+      "adeni",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "One of the first Yemeni cafes in the Atlanta metro.",
+    "priceEstimated": true
+  },
+  {
+    "name": "Qamaria Yemeni Coffee Co.",
+    "city": "Temple Terrace",
+    "state": "FL",
+    "address": "11301 N 56th St Suite 15, Temple Terrace, FL 33617",
+    "lat": 28.0536,
+    "lng": -82.3927,
+    "rating": 4.8,
+    "reviews": 980,
+    "hours": {
+      "mon": [
+        "07:00",
+        "23:00"
+      ],
+      "tue": [
+        "07:00",
+        "23:00"
+      ],
+      "wed": [
+        "07:00",
+        "23:00"
+      ],
+      "thu": [
+        "07:00",
+        "23:00"
+      ],
+      "fri": [
+        "07:00",
+        "00:00"
+      ],
+      "sat": [
+        "07:00",
+        "00:00"
+      ],
+      "sun": [
+        "07:00",
+        "23:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni tea",
+        "price": 5.99
+      },
+      {
+        "item": "Adeni chai latte",
+        "price": 7.19
+      },
+      {
+        "item": "Iced Qamaria latte",
+        "price": 7.49
+      }
+    ],
+    "tags": [
+      "adeni",
+      "karak",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "Near USF. Gold-trimmed interior, serious adeni."
+  },
+  {
+    "name": "Jabal Coffee House",
+    "city": "Orlando",
+    "state": "FL",
+    "address": "8335 S John Young Pkwy, Orlando, FL 32819",
+    "lat": 28.4499,
+    "lng": -81.4258,
+    "rating": 4.8,
+    "reviews": 800,
+    "hours": {
+      "mon": [
+        "08:00",
+        "00:00"
+      ],
+      "tue": [
+        "08:00",
+        "00:00"
+      ],
+      "wed": [
+        "08:00",
+        "00:00"
+      ],
+      "thu": [
+        "08:00",
+        "00:00"
+      ],
+      "fri": [
+        "08:00",
+        "02:00"
+      ],
+      "sat": [
+        "08:00",
+        "02:00"
+      ],
+      "sun": [
+        "08:00",
+        "00:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni chai",
+        "price": 5.75
+      },
+      {
+        "item": "Jabal latte",
+        "price": 6.95
+      },
+      {
+        "item": "Pistachio milk cake",
+        "price": 7.5
+      }
+    ],
+    "tags": [
+      "adeni",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "Yemeni cafe near I-Drive. Chai until 2 a.m. on weekends.",
+    "priceEstimated": true
+  },
+  {
+    "name": "Haraz Coffee House",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "address": "1722 Bruce B Downs Blvd, Wesley Chapel, FL 33544",
+    "lat": 28.1909,
+    "lng": -82.3527,
+    "rating": 4.7,
+    "reviews": 300,
+    "hours": {
+      "mon": [
+        "07:00",
+        "23:00"
+      ],
+      "tue": [
+        "07:00",
+        "23:00"
+      ],
+      "wed": [
+        "07:00",
+        "23:00"
+      ],
+      "thu": [
+        "07:00",
+        "23:00"
+      ],
+      "fri": [
+        "09:00",
+        "23:00"
+      ],
+      "sat": [
+        "09:00",
+        "00:00"
+      ],
+      "sun": [
+        "09:00",
+        "23:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni/Karak chai",
+        "price": 5.45
+      },
+      {
+        "item": "Pistachio latte",
+        "price": 7.25
+      },
+      {
+        "item": "Milk cake",
+        "price": 7.95
+      }
+    ],
+    "tags": [
+      "adeni",
+      "karak",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "Tampa Bay's first Haraz, on the Bruce B Downs strip."
+  },
+  {
+    "name": "Haraz Coffee House",
+    "city": "Pembroke Pines",
+    "state": "FL",
+    "address": "15811 Pines Blvd, Pembroke Pines, FL 33027",
+    "lat": 26.0073,
+    "lng": -80.3577,
+    "rating": 4.7,
+    "reviews": 400,
+    "hours": {
+      "mon": [
+        "07:00",
+        "23:00"
+      ],
+      "tue": [
+        "07:00",
+        "23:00"
+      ],
+      "wed": [
+        "07:00",
+        "23:00"
+      ],
+      "thu": [
+        "07:00",
+        "23:00"
+      ],
+      "fri": [
+        "07:00",
+        "01:00"
+      ],
+      "sat": [
+        "07:00",
+        "01:00"
+      ],
+      "sun": [
+        "07:00",
+        "23:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni chai",
+        "price": 5.45
+      },
+      {
+        "item": "Saffron latte",
+        "price": 7.25
+      },
+      {
+        "item": "Milk cake",
+        "price": 7.95
+      }
+    ],
+    "tags": [
+      "adeni",
+      "karak",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "The Miami-area Haraz. Adeni until 1 a.m. on weekends.",
+    "priceEstimated": true
+  },
+  {
+    "name": "Haraz Coffee House",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "901 Woodland St Suite 105, Nashville, TN 37206",
+    "lat": 36.1772,
+    "lng": -86.7524,
+    "rating": 4.7,
+    "reviews": 440,
+    "hours": {
+      "mon": [
+        "08:00",
+        "22:00"
+      ],
+      "tue": [
+        "08:00",
+        "22:00"
+      ],
+      "wed": [
+        "08:00",
+        "22:00"
+      ],
+      "thu": [
+        "08:00",
+        "23:00"
+      ],
+      "fri": [
+        "08:00",
+        "00:00"
+      ],
+      "sat": [
+        "08:00",
+        "00:00"
+      ],
+      "sun": [
+        "08:00",
+        "22:00"
+      ]
+    },
+    "menu": [
+      {
+        "item": "Adeni/Karak chai",
+        "price": 5.45
+      },
+      {
+        "item": "Pistachio latte",
+        "price": 7.5
+      },
+      {
+        "item": "Mosaic milk cake",
+        "price": 7.95
+      }
+    ],
+    "tags": [
+      "adeni",
+      "karak",
+      "yemeni",
+      "cafe",
+      "dessert",
+      "late-night"
+    ],
+    "note": "East Nashville. Open late, easy to work from.",
+    "priceEstimated": true
+  }
+]

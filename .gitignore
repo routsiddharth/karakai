@@ -1,0 +1,5 @@
+node_modules/
+_data/raw/
+_data/shots/
+.DS_Store
+.vercel/

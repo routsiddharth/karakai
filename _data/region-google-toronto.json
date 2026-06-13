@@ -1,0 +1,1440 @@
+[
+ {
+  "name": "Chaiiwala Of London - Vaughan",
+  "city": "Concord",
+  "state": "ON",
+  "address": "3175 Rutherford Rd, Concord, ON L4K 5Y6, Canada",
+  "lat": 43.8279292,
+  "lng": -79.5381202,
+  "rating": 4.2,
+  "reviews": 353,
+  "hours": {
+   "sun": [
+    "10:00",
+    "22:00"
+   ],
+   "mon": [
+    "11:00",
+    "22:00"
+   ],
+   "tue": [
+    "11:00",
+    "22:00"
+   ],
+   "wed": [
+    "11:00",
+    "22:00"
+   ],
+   "thu": [
+    "11:00",
+    "22:00"
+   ],
+   "fri": [
+    "11:00",
+    "23:00"
+   ],
+   "sat": [
+    "10:00",
+    "23:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=5893718485142513852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chachee's Chai Cafe (East York)",
+  "city": "East York",
+  "state": "ON",
+  "address": "62 Overlea Blvd Unit 7b, East York, ON M4H 1C4, Canada",
+  "lat": 43.708165,
+  "lng": -79.3437107,
+  "rating": 4.7,
+  "reviews": 222,
+  "hours": {
+   "sun": [
+    "11:00",
+    "24:00"
+   ],
+   "mon": [
+    "11:00",
+    "24:00"
+   ],
+   "tue": [
+    "11:00",
+    "24:00"
+   ],
+   "wed": [
+    "11:00",
+    "24:00"
+   ],
+   "thu": [
+    "11:00",
+    "24:00"
+   ],
+   "fri": [
+    "11:00",
+    "00:30"
+   ],
+   "sat": [
+    "11:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=11092584889159990970&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Qahwah Cafe & Shisha Lounge",
+  "city": "East York",
+  "state": "ON",
+  "address": "2134 Danforth Ave, East York, ON M4C 1J9, Canada",
+  "lat": 43.686215399999995,
+  "lng": -79.3112465,
+  "rating": 4.8,
+  "reviews": 326,
+  "hours": {
+   "sun": [
+    "15:00",
+    "03:00"
+   ],
+   "mon": [
+    "15:00",
+    "03:00"
+   ],
+   "tue": [
+    "15:00",
+    "03:00"
+   ],
+   "wed": [
+    "15:00",
+    "03:00"
+   ],
+   "thu": [
+    "15:00",
+    "03:00"
+   ],
+   "fri": [
+    "15:00",
+    "03:00"
+   ],
+   "sat": [
+    "15:00",
+    "03:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=13521379264971667220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "hookah_bar",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chai Stop",
+  "city": "Etobicoke",
+  "state": "ON",
+  "address": "3180 Lake Shore Blvd W Unit 3, Etobicoke, ON M8V 1L7, Canada",
+  "lat": 43.5981137,
+  "lng": -79.5185934,
+  "rating": 4.7,
+  "reviews": 449,
+  "hours": {
+   "sun": [
+    "10:00",
+    "02:00"
+   ],
+   "mon": [
+    "10:00",
+    "02:00"
+   ],
+   "tue": [
+    "10:00",
+    "02:00"
+   ],
+   "wed": [
+    "10:00",
+    "02:00"
+   ],
+   "thu": [
+    "10:00",
+    "02:00"
+   ],
+   "fri": [
+    "10:00",
+    "02:00"
+   ],
+   "sat": [
+    "10:00",
+    "02:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=18442367777294448643&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chaiiwala Of London - Etobicoke",
+  "city": "Etobicoke",
+  "state": "ON",
+  "address": "1780 Albion Rd, Etobicoke, ON M9V 1C1, Canada",
+  "lat": 43.7443247,
+  "lng": -79.6057534,
+  "rating": 4.4,
+  "reviews": 1281,
+  "hours": {
+   "sun": [
+    "08:00",
+    "24:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "24:00"
+   ],
+   "sat": [
+    "08:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=16043462360837075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Qahwah Cafe & Shisha Lounge",
+  "city": "Etobicoke",
+  "state": "ON",
+  "address": "3411 Lake Shore Blvd W, Etobicoke, ON M8W 1N2, Canada",
+  "lat": 43.5953758,
+  "lng": -79.528469,
+  "rating": 4.8,
+  "reviews": 1102,
+  "hours": {
+   "sun": [
+    "15:00",
+    "03:00"
+   ],
+   "mon": [
+    "15:00",
+    "03:00"
+   ],
+   "tue": [
+    "15:00",
+    "03:00"
+   ],
+   "wed": [
+    "15:00",
+    "03:00"
+   ],
+   "thu": [
+    "15:00",
+    "03:00"
+   ],
+   "fri": [
+    "15:00",
+    "03:00"
+   ],
+   "sat": [
+    "15:00",
+    "03:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=1453598090503212012&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Qahwah Cafe & Shisha Lounge",
+  "city": "Etobicoke",
+  "state": "ON",
+  "address": "6 Dixon Rd Unit#6, Etobicoke, ON M9P 2K9, Canada",
+  "lat": 43.701468299999995,
+  "lng": -79.52825010000001,
+  "rating": 4.6,
+  "reviews": 452,
+  "hours": {
+   "sun": [
+    "15:00",
+    "03:00"
+   ],
+   "mon": [
+    "15:00",
+    "03:00"
+   ],
+   "tue": [
+    "15:00",
+    "03:00"
+   ],
+   "wed": [
+    "15:00",
+    "03:00"
+   ],
+   "thu": [
+    "15:00",
+    "03:00"
+   ],
+   "fri": [
+    "15:00",
+    "03:00"
+   ],
+   "sat": [
+    "15:00",
+    "03:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=16825951018232039574&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "hookah_bar",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chachee’s Chai Cafe (Markham)",
+  "city": "Markham",
+  "state": "ON",
+  "address": "7690 Markham Rd Unit 2c, Markham, ON L3S 3K1, Canada",
+  "lat": 43.8531209,
+  "lng": -79.255907,
+  "rating": 4.5,
+  "reviews": 155,
+  "hours": {
+   "sun": [
+    "11:00",
+    "23:00"
+   ],
+   "mon": [
+    "11:00",
+    "23:00"
+   ],
+   "tue": [
+    "11:00",
+    "23:00"
+   ],
+   "wed": [
+    "11:00",
+    "23:00"
+   ],
+   "thu": [
+    "11:00",
+    "23:00"
+   ],
+   "fri": [
+    "11:00",
+    "24:00"
+   ],
+   "sat": [
+    "11:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=7796484965096589184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Alleys Paratha Rolls & Chai (Mississauga)",
+  "city": "Mississauga",
+  "state": "ON",
+  "address": "The Eatery, 5019 Spectrum Way, Mississauga, ON L4W 0E3, Canada",
+  "lat": 43.6498941,
+  "lng": -79.606483,
+  "rating": 4.8,
+  "reviews": 125,
+  "hours": {
+   "sun": [
+    "15:00",
+    "23:00"
+   ],
+   "mon": [
+    "12:00",
+    "23:00"
+   ],
+   "tue": [
+    "11:30",
+    "23:00"
+   ],
+   "wed": [
+    "11:30",
+    "23:00"
+   ],
+   "thu": [
+    "11:30",
+    "23:00"
+   ],
+   "fri": [
+    "11:30",
+    "24:00"
+   ],
+   "sat": [
+    "14:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=4583019715800110466&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "restaurant",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chai Churi",
+  "city": "Mississauga",
+  "state": "ON",
+  "address": "6795 Airport Rd, Mississauga, ON L4V 1E6, Canada",
+  "lat": 43.7003115,
+  "lng": -79.6362625,
+  "rating": 4.1,
+  "reviews": 582,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=13303934921668598262&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chai Pani - Square One, Mississauga",
+  "city": "Mississauga",
+  "state": "ON",
+  "address": "50 Burnhamthorpe Rd W #88, Mississauga, ON L5B 3C3, Canada",
+  "lat": 43.5915588,
+  "lng": -79.63686229999999,
+  "rating": 4.3,
+  "reviews": 618,
+  "hours": {
+   "sun": [
+    "11:00",
+    "24:00"
+   ],
+   "mon": [
+    "11:00",
+    "24:00"
+   ],
+   "tue": [
+    "11:00",
+    "24:00"
+   ],
+   "wed": [
+    "11:00",
+    "24:00"
+   ],
+   "thu": [
+    "11:00",
+    "24:00"
+   ],
+   "fri": [
+    "11:00",
+    "24:00"
+   ],
+   "sat": [
+    "11:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=7979199686201789675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "indian_restaurant",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chai Paratha Express",
+  "city": "Mississauga",
+  "state": "ON",
+  "address": "5775 Atlantic Dr Unit 19, Mississauga, ON L4W 4P3, Canada",
+  "lat": 43.6554979,
+  "lng": -79.6372281,
+  "rating": 4.8,
+  "reviews": 4691,
+  "hours": {
+   "sun": [
+    "07:00",
+    "22:30"
+   ],
+   "mon": [
+    "09:00",
+    "23:00"
+   ],
+   "tue": [
+    "09:00",
+    "23:00"
+   ],
+   "wed": [
+    "09:00",
+    "23:00"
+   ],
+   "thu": [
+    "09:00",
+    "23:00"
+   ],
+   "fri": [
+    "09:00",
+    "24:00"
+   ],
+   "sat": [
+    "07:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=16471064175799090133&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "pakistani_restaurant",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chai Paratha Mississauga",
+  "city": "Mississauga",
+  "state": "ON",
+  "address": "600 Burnhamthorpe Rd W, Mississauga, ON L5B 2C4, Canada",
+  "lat": 43.5807952,
+  "lng": -79.64953480000001,
+  "rating": 4.4,
+  "reviews": 7956,
+  "hours": {
+   "sun": [
+    "09:00",
+    "22:00"
+   ],
+   "tue": [
+    "11:00",
+    "23:00"
+   ],
+   "wed": [
+    "11:00",
+    "23:00"
+   ],
+   "thu": [
+    "11:00",
+    "23:00"
+   ],
+   "fri": [
+    "11:00",
+    "24:00"
+   ],
+   "sat": [
+    "09:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=9703967397274484600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "halal_restaurant",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chaiiwala Of London - Dixie Road (Mississauga)",
+  "city": "Mississauga",
+  "state": "ON",
+  "address": "5150 Dixie Rd, Mississauga, ON L4W 4G1, Canada",
+  "lat": 43.6376071,
+  "lng": -79.6242285,
+  "rating": 4.2,
+  "reviews": 2163,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:00"
+   ],
+   "mon": [
+    "09:00",
+    "23:00"
+   ],
+   "tue": [
+    "09:00",
+    "23:00"
+   ],
+   "wed": [
+    "09:00",
+    "23:00"
+   ],
+   "thu": [
+    "09:00",
+    "23:00"
+   ],
+   "fri": [
+    "09:00",
+    "24:00"
+   ],
+   "sat": [
+    "09:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=993634784549984836&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Karak - Stuffed Naan & Chai Cafe",
+  "city": "Mississauga",
+  "state": "ON",
+  "address": "10 Kingsbridge Garden Cir, Mississauga, ON L5R 3K6, Canada",
+  "lat": 43.6032058,
+  "lng": -79.6490547,
+  "rating": 4.4,
+  "reviews": 969,
+  "hours": {
+   "sun": [
+    "11:00",
+    "22:00"
+   ],
+   "mon": [
+    "11:00",
+    "22:00"
+   ],
+   "tue": [
+    "11:00",
+    "22:00"
+   ],
+   "wed": [
+    "11:00",
+    "22:00"
+   ],
+   "thu": [
+    "11:00",
+    "22:00"
+   ],
+   "fri": [
+    "11:00",
+    "23:00"
+   ],
+   "sat": [
+    "11:00",
+    "23:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=13302403147061439828&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "restaurant",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Tea Time",
+  "city": "North York",
+  "state": "ON",
+  "address": "3905 Don Mills Rd., North York, ON M2H 2S7, Canada",
+  "lat": 43.8078839,
+  "lng": -79.3566723,
+  "rating": 4.8,
+  "reviews": 174,
+  "hours": {
+   "sun": [
+    "12:00",
+    "20:30"
+   ],
+   "mon": [
+    "14:00",
+    "20:30"
+   ],
+   "tue": [
+    "14:00",
+    "20:30"
+   ],
+   "wed": [
+    "14:00",
+    "20:30"
+   ],
+   "thu": [
+    "14:00",
+    "20:30"
+   ],
+   "fri": [
+    "14:00",
+    "20:30"
+   ],
+   "sat": [
+    "12:00",
+    "20:30"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=13607619869709302745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "tea_house",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Alleys Paratha Rolls & Chai (Scarborough)",
+  "city": "Scarborough",
+  "state": "ON",
+  "address": "41 Lebovic Ave Unit A110, Scarborough, ON M1L 0H2, Canada",
+  "lat": 43.7232388,
+  "lng": -79.28889939999999,
+  "rating": 4.6,
+  "reviews": 550,
+  "hours": {
+   "sun": [
+    "12:00",
+    "24:00"
+   ],
+   "mon": [
+    "12:00",
+    "24:00"
+   ],
+   "tue": [
+    "12:00",
+    "24:00"
+   ],
+   "wed": [
+    "12:00",
+    "24:00"
+   ],
+   "thu": [
+    "12:00",
+    "24:00"
+   ],
+   "fri": [
+    "16:00",
+    "01:00"
+   ],
+   "sat": [
+    "12:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=13165008158130163799&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "halal_restaurant",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "CHOLA CHAI CAFE JUICE BAR",
+  "city": "Scarborough",
+  "state": "ON",
+  "address": "2900 Markham Rd, Scarborough, ON M1X 1E6, Canada",
+  "lat": 43.824819399999996,
+  "lng": -79.2490831,
+  "rating": 3.7,
+  "reviews": 62,
+  "hours": {
+   "sun": [
+    "10:00",
+    "21:30"
+   ],
+   "mon": [
+    "10:00",
+    "21:30"
+   ],
+   "tue": [
+    "10:00",
+    "21:30"
+   ],
+   "wed": [
+    "10:00",
+    "21:30"
+   ],
+   "thu": [
+    "10:00",
+    "21:30"
+   ],
+   "fri": [
+    "10:00",
+    "21:30"
+   ],
+   "sat": [
+    "10:00",
+    "21:30"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=6703631809885358105&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chachee's Chai Cafe (Scarborough)",
+  "city": "Scarborough",
+  "state": "ON",
+  "address": "D-101, 69 Lebovic Ave, Scarborough, ON M1L 4T7, Canada",
+  "lat": 43.723206999999995,
+  "lng": -79.28808719999999,
+  "rating": 4.2,
+  "reviews": 2055,
+  "hours": {
+   "sun": [
+    "11:00",
+    "24:00"
+   ],
+   "mon": [
+    "11:00",
+    "24:00"
+   ],
+   "tue": [
+    "11:00",
+    "24:00"
+   ],
+   "wed": [
+    "11:00",
+    "24:00"
+   ],
+   "thu": [
+    "11:00",
+    "24:00"
+   ],
+   "fri": [
+    "11:00",
+    "01:30"
+   ],
+   "sat": [
+    "11:00",
+    "01:30"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=1029652038737063279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chaiiwala Of London - Markham Rd",
+  "city": "Scarborough",
+  "state": "ON",
+  "address": "2250 Markham Rd Unit 3b, Scarborough, ON M1B 2W4, Canada",
+  "lat": 43.8108776,
+  "lng": -79.2446959,
+  "rating": 4.7,
+  "reviews": 2188,
+  "hours": {
+   "sun": [
+    "08:00",
+    "01:00"
+   ],
+   "mon": [
+    "08:00",
+    "01:00"
+   ],
+   "tue": [
+    "08:00",
+    "01:00"
+   ],
+   "wed": [
+    "08:00",
+    "01:00"
+   ],
+   "thu": [
+    "08:00",
+    "01:00"
+   ],
+   "fri": [
+    "08:00",
+    "02:00"
+   ],
+   "sat": [
+    "08:00",
+    "02:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=353627563130240209&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chaiiwala Of London - Scarborough",
+  "city": "Scarborough",
+  "state": "ON",
+  "address": "55 Lebovic Ave #111, Scarborough, ON M1L 0H2, Canada",
+  "lat": 43.7226621,
+  "lng": -79.288709,
+  "rating": 4.3,
+  "reviews": 2065,
+  "hours": {
+   "sun": [
+    "09:00",
+    "24:00"
+   ],
+   "mon": [
+    "10:00",
+    "24:00"
+   ],
+   "tue": [
+    "10:00",
+    "24:00"
+   ],
+   "wed": [
+    "10:00",
+    "24:00"
+   ],
+   "thu": [
+    "10:00",
+    "24:00"
+   ],
+   "fri": [
+    "10:00",
+    "01:00"
+   ],
+   "sat": [
+    "09:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=9911123524981124013&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Karak Coffee & Chai",
+  "city": "Scarborough",
+  "state": "ON",
+  "address": "2623 Lawrence Ave E, Scarborough, ON M1P 2S2, Canada",
+  "lat": 43.75128300000001,
+  "lng": -79.2640053,
+  "rating": 4.5,
+  "reviews": 102,
+  "hours": {
+   "sun": [
+    "12:00",
+    "22:00"
+   ],
+   "mon": [
+    "12:00",
+    "22:00"
+   ],
+   "tue": [
+    "12:00",
+    "22:00"
+   ],
+   "wed": [
+    "12:00",
+    "22:00"
+   ],
+   "thu": [
+    "12:00",
+    "22:00"
+   ],
+   "fri": [
+    "12:00",
+    "24:00"
+   ],
+   "sat": [
+    "12:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=4316798205429779568&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Layali El Sharke Coffee house قهوة ليالي الشرق",
+  "city": "Scarborough",
+  "state": "ON",
+  "address": "1883 Lawrence Ave E, Scarborough, ON M1R 2Y5, Canada",
+  "lat": 43.743489499999995,
+  "lng": -79.3015987,
+  "rating": 4.6,
+  "reviews": 115,
+  "hours": {
+   "sun": [
+    "17:00",
+    "02:00"
+   ],
+   "mon": [
+    "17:00",
+    "02:00"
+   ],
+   "tue": [
+    "17:00",
+    "02:00"
+   ],
+   "wed": [
+    "17:00",
+    "02:00"
+   ],
+   "thu": [
+    "17:00",
+    "02:00"
+   ],
+   "fri": [
+    "17:00",
+    "02:00"
+   ],
+   "sat": [
+    "17:00",
+    "02:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=4412554775438687628&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "hookah_bar",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Secret Teatime",
+  "city": "Scarborough",
+  "state": "ON",
+  "address": "50 Rolark Dr, Scarborough, ON M1R 4G2, Canada",
+  "lat": 43.7663547,
+  "lng": -79.2954711,
+  "rating": 4.6,
+  "reviews": 18,
+  "hours": null,
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=2090103672241579356&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "The Chai Point",
+  "city": "Scarborough",
+  "state": "ON",
+  "address": "8 Glen Watford Dr Unit G12, Scarborough, ON M1S 2C1, Canada",
+  "lat": 43.7870998,
+  "lng": -79.2769323,
+  "rating": null,
+  "reviews": null,
+  "hours": {
+   "sun": [
+    "11:00",
+    "22:00"
+   ],
+   "mon": [
+    "11:00",
+    "22:00"
+   ],
+   "tue": [
+    "11:00",
+    "22:00"
+   ],
+   "wed": [
+    "11:00",
+    "22:00"
+   ],
+   "thu": [
+    "11:00",
+    "22:00"
+   ],
+   "fri": [
+    "11:00",
+    "22:00"
+   ],
+   "sat": [
+    "11:00",
+    "22:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=8257615808900467449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chai",
+  "city": "Toronto",
+  "state": "ON",
+  "address": "1034 St Clair Ave W, Toronto, ON M6E 1A4, Canada",
+  "lat": 43.6791292,
+  "lng": -79.43846409999999,
+  "rating": 4.2,
+  "reviews": 18,
+  "hours": {
+   "sun": [
+    "07:30",
+    "17:00"
+   ],
+   "mon": [
+    "07:30",
+    "17:00"
+   ],
+   "tue": [
+    "07:30",
+    "17:00"
+   ],
+   "wed": [
+    "07:30",
+    "17:00"
+   ],
+   "thu": [
+    "07:30",
+    "17:00"
+   ],
+   "fri": [
+    "07:30",
+    "14:30"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=1222406110998617883&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chai town",
+  "city": "Toronto",
+  "state": "ON",
+  "address": "world food market, 335 Yonge St, Toronto, ON M5B 1R7, Canada",
+  "lat": 43.657373199999995,
+  "lng": -79.3810652,
+  "rating": 4.8,
+  "reviews": 40,
+  "hours": {
+   "sun": [
+    "13:30",
+    "22:00"
+   ],
+   "mon": [
+    "13:30",
+    "22:00"
+   ],
+   "tue": [
+    "13:30",
+    "22:00"
+   ],
+   "wed": [
+    "13:30",
+    "22:00"
+   ],
+   "thu": [
+    "13:30",
+    "22:00"
+   ],
+   "fri": [
+    "13:00",
+    "23:30"
+   ],
+   "sat": [
+    "13:30",
+    "23:30"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=4104576187194527855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "food_court",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Chai, Samosa & Chaat",
+  "city": "Toronto",
+  "state": "ON",
+  "address": "1291 Gerrard St E, Toronto, ON M4L 1Y8, Canada",
+  "lat": 43.6709373,
+  "lng": -79.3274217,
+  "rating": 4.5,
+  "reviews": 102,
+  "hours": {
+   "sun": [
+    "12:00",
+    "17:00"
+   ],
+   "mon": [
+    "12:00",
+    "21:00"
+   ],
+   "tue": [
+    "12:00",
+    "21:00"
+   ],
+   "wed": [
+    "12:00",
+    "21:00"
+   ],
+   "thu": [
+    "12:00",
+    "21:00"
+   ],
+   "fri": [
+    "12:00",
+    "21:00"
+   ],
+   "sat": [
+    "12:00",
+    "21:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=11028075603480910665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "pakistani_restaurant",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Kadak Toronto",
+  "city": "Toronto",
+  "state": "ON",
+  "address": "2088 Yonge St, Toronto, ON M4S 2A3, Canada",
+  "lat": 43.7022385,
+  "lng": -79.39759819999999,
+  "rating": 4.7,
+  "reviews": 664,
+  "hours": {
+   "sun": [
+    "13:00",
+    "22:00"
+   ],
+   "mon": [
+    "17:00",
+    "22:00"
+   ],
+   "tue": [
+    "17:00",
+    "23:00"
+   ],
+   "wed": [
+    "17:00",
+    "23:00"
+   ],
+   "thu": [
+    "17:00",
+    "23:00"
+   ],
+   "fri": [
+    "12:00",
+    "23:00"
+   ],
+   "sat": [
+    "12:00",
+    "23:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=6303096253466248980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "indian_restaurant",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Mrs. Chai",
+  "city": "Toronto",
+  "state": "ON",
+  "address": "705 College St, Toronto, ON M6G 1C2, Canada",
+  "lat": 43.6550322,
+  "lng": -79.418077,
+  "rating": 4.8,
+  "reviews": 8,
+  "hours": {
+   "sun": [
+    "11:00",
+    "03:00"
+   ],
+   "mon": [
+    "11:00",
+    "03:00"
+   ],
+   "tue": [
+    "11:00",
+    "03:00"
+   ],
+   "wed": [
+    "11:00",
+    "03:00"
+   ],
+   "thu": [
+    "11:00",
+    "03:00"
+   ],
+   "fri": [
+    "11:00",
+    "04:00"
+   ],
+   "sat": [
+    "11:00",
+    "04:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=6459228052846520796&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "meal_takeaway",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "Qahwah Cafe & Shisha Lounge (Rooftop)(Opening Sooooon)",
+  "city": "Toronto",
+  "state": "ON",
+  "address": "529 Yonge St 2nd floor, Toronto, ON M4Y 1Y5, Canada",
+  "lat": 43.664095700000004,
+  "lng": -79.3839232,
+  "rating": 5,
+  "reviews": 7,
+  "hours": null,
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=2998445919818261303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ },
+ {
+  "name": "The Chai Culture",
+  "city": "Toronto",
+  "state": "ON",
+  "address": "1445 Gerrard St E Main floor, Toronto, ON M4L 1Z9, Canada",
+  "lat": 43.6722611,
+  "lng": -79.321572,
+  "rating": 4.8,
+  "reviews": 443,
+  "hours": {
+   "sun": [
+    "11:00",
+    "24:00"
+   ],
+   "mon": [
+    "11:00",
+    "23:00"
+   ],
+   "tue": [
+    "11:00",
+    "23:00"
+   ],
+   "wed": [
+    "11:00",
+    "23:00"
+   ],
+   "thu": [
+    "11:00",
+    "23:00"
+   ],
+   "fri": [
+    "11:00",
+    "24:00"
+   ],
+   "sat": [
+    "11:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=13554474983920069102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe",
+  "country": "CA",
+  "currency": "CAD"
+ }
+]

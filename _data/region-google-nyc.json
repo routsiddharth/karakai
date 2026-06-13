@@ -1,0 +1,1401 @@
+[
+ {
+  "name": "Qahwah House Coffee - Astoria Queens",
+  "city": "Astoria",
+  "state": "NY",
+  "address": "22-37 31st St, Astoria, NY 11105, USA",
+  "lat": 40.7752363,
+  "lng": -73.9115516,
+  "rating": 4.8,
+  "reviews": 948,
+  "hours": {
+   "sun": [
+    "07:00",
+    "24:00"
+   ],
+   "mon": [
+    "07:00",
+    "24:00"
+   ],
+   "tue": [
+    "07:00",
+    "24:00"
+   ],
+   "wed": [
+    "07:00",
+    "24:00"
+   ],
+   "thu": [
+    "07:00",
+    "24:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "07:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=3394221306505002111&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Areeka & Karak",
+  "city": "Bronx",
+  "state": "NY",
+  "address": "Hughes Ave, Bronx, NY 10458, USA",
+  "lat": 40.8580105,
+  "lng": -73.88442789999999,
+  "rating": null,
+  "reviews": null,
+  "hours": {
+   "sun": [
+    "07:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "11:00",
+    "23:00"
+   ],
+   "sat": [
+    "11:00",
+    "23:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=7007439366524043204&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Chaska Chai",
+  "city": "Brooklyn",
+  "state": "NY",
+  "address": "3680 Nostrand Ave, Brooklyn, NY 11229, USA",
+  "lat": 40.594288399999996,
+  "lng": -73.9409826,
+  "rating": 4.6,
+  "reviews": 160,
+  "hours": {
+   "sun": [
+    "10:00",
+    "22:00"
+   ],
+   "mon": [
+    "10:00",
+    "22:00"
+   ],
+   "tue": [
+    "10:00",
+    "22:00"
+   ],
+   "wed": [
+    "10:00",
+    "22:00"
+   ],
+   "thu": [
+    "10:00",
+    "22:00"
+   ],
+   "fri": [
+    "10:00",
+    "22:00"
+   ],
+   "sat": [
+    "10:00",
+    "22:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=6192943290884108505&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "tea_house"
+ },
+ {
+  "name": "Hidden Grounds Chai & Coffee House",
+  "city": "Brooklyn",
+  "state": "NY",
+  "address": "400 Union Ave, Brooklyn, NY 11211, USA",
+  "lat": 40.7122855,
+  "lng": -73.9510578,
+  "rating": 4.8,
+  "reviews": 181,
+  "hours": {
+   "sun": [
+    "08:00",
+    "18:00"
+   ],
+   "mon": [
+    "07:00",
+    "18:00"
+   ],
+   "tue": [
+    "07:00",
+    "18:00"
+   ],
+   "wed": [
+    "07:00",
+    "18:00"
+   ],
+   "thu": [
+    "07:00",
+    "18:00"
+   ],
+   "fri": [
+    "07:00",
+    "18:00"
+   ],
+   "sat": [
+    "08:00",
+    "18:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=11103279845095340032&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_roastery"
+ },
+ {
+  "name": "Qahwah House Coffee - Bayridge",
+  "city": "Brooklyn",
+  "state": "NY",
+  "address": "8602 4th Ave, Brooklyn, NY 11209, USA",
+  "lat": 40.6227265,
+  "lng": -74.0286515,
+  "rating": 4.7,
+  "reviews": 433,
+  "hours": {
+   "sun": [
+    "07:00",
+    "23:00"
+   ],
+   "mon": [
+    "06:00",
+    "23:00"
+   ],
+   "tue": [
+    "06:00",
+    "23:00"
+   ],
+   "wed": [
+    "06:00",
+    "23:00"
+   ],
+   "thu": [
+    "06:00",
+    "23:00"
+   ],
+   "fri": [
+    "06:00",
+    "01:00"
+   ],
+   "sat": [
+    "07:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=225688579281798411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Qahwah Time specialty coffee",
+  "city": "Brooklyn",
+  "state": "NY",
+  "address": "66 Court St, Brooklyn, NY 11201, USA",
+  "lat": 40.691897499999996,
+  "lng": -73.9916113,
+  "rating": 4.7,
+  "reviews": 367,
+  "hours": {
+   "sun": [
+    "07:00",
+    "22:00"
+   ],
+   "mon": [
+    "07:00",
+    "22:00"
+   ],
+   "tue": [
+    "07:00",
+    "22:00"
+   ],
+   "wed": [
+    "07:00",
+    "22:00"
+   ],
+   "thu": [
+    "07:00",
+    "22:00"
+   ],
+   "fri": [
+    "07:00",
+    "22:00"
+   ],
+   "sat": [
+    "07:00",
+    "22:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=13661804679883887625&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Qahwah House Coffee - Clifton",
+  "city": "Clifton",
+  "state": "NJ",
+  "address": "441 Crooks Ave, Clifton, NJ 07011, USA",
+  "lat": 40.8902542,
+  "lng": -74.1498209,
+  "rating": 4.7,
+  "reviews": 1046,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=633317690346146367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Biscuit and Chai",
+  "city": "Flushing",
+  "state": "NY",
+  "address": "67-00 192nd St, Flushing, NY 11365, USA",
+  "lat": 40.7373956,
+  "lng": -73.78347819999999,
+  "rating": 5,
+  "reviews": 4,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=12851490268464186188&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": ""
+ },
+ {
+  "name": "Karak House Coffee Co | Tea & Chai Shop | Pastries and Desserts in Great Neck Long Island, NY",
+  "city": "Great Neck",
+  "state": "NY",
+  "address": "12 Hicks Ln, Great Neck, NY 11024, USA",
+  "lat": 40.8059197,
+  "lng": -73.7344775,
+  "rating": 4.7,
+  "reviews": 139,
+  "hours": {
+   "sun": [
+    "10:00",
+    "23:00"
+   ],
+   "mon": [
+    "09:00",
+    "21:00"
+   ],
+   "tue": [
+    "09:00",
+    "21:00"
+   ],
+   "wed": [
+    "09:00",
+    "21:00"
+   ],
+   "thu": [
+    "09:00",
+    "21:00"
+   ],
+   "fri": [
+    "09:00",
+    "24:00"
+   ],
+   "sat": [
+    "09:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=13099437985756947626&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Hidden Grounds Chai & Coffee House",
+  "city": "Hoboken",
+  "state": "NJ",
+  "address": "700 Garden St, Hoboken, NJ 07030, USA",
+  "lat": 40.745177999999996,
+  "lng": -74.030598,
+  "rating": 4.5,
+  "reviews": 265,
+  "hours": {
+   "sun": [
+    "08:00",
+    "18:00"
+   ],
+   "mon": [
+    "07:00",
+    "18:00"
+   ],
+   "tue": [
+    "07:00",
+    "18:00"
+   ],
+   "wed": [
+    "07:00",
+    "18:00"
+   ],
+   "thu": [
+    "07:00",
+    "18:00"
+   ],
+   "fri": [
+    "07:00",
+    "18:00"
+   ],
+   "sat": [
+    "08:00",
+    "18:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=5519521528053437156&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Qahwah Valley Jackson Heights",
+  "city": "Jackson Heights",
+  "state": "NY",
+  "address": "75-15 37th Ave, Jackson Heights, NY 11372, USA",
+  "lat": 40.7492442,
+  "lng": -73.8902339,
+  "rating": 4.6,
+  "reviews": 272,
+  "hours": {
+   "sun": [
+    "08:00",
+    "24:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=7870831612652519236&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Kachari Ghar (কাচারী ঘর)",
+  "city": "Jamaica",
+  "state": "NY",
+  "address": "168-29C Hillside Ave., Jamaica, NY 11432, USA",
+  "lat": 40.710809999999995,
+  "lng": -73.7938647,
+  "rating": 4.3,
+  "reviews": 7,
+  "hours": null,
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=8548169330239225326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "tea_house"
+ },
+ {
+  "name": "Hidden Grounds Chai & Coffee House",
+  "city": "Jersey City",
+  "state": "NJ",
+  "address": "144 Summit Ave Retail A, Jersey City, NJ 07304, USA",
+  "lat": 40.719984499999995,
+  "lng": -74.06654309999999,
+  "rating": 4.7,
+  "reviews": 102,
+  "hours": {
+   "sun": [
+    "08:00",
+    "18:00"
+   ],
+   "mon": [
+    "07:00",
+    "18:00"
+   ],
+   "tue": [
+    "07:00",
+    "18:00"
+   ],
+   "wed": [
+    "07:00",
+    "18:00"
+   ],
+   "thu": [
+    "07:00",
+    "18:00"
+   ],
+   "fri": [
+    "07:00",
+    "18:00"
+   ],
+   "sat": [
+    "08:00",
+    "18:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=17004250738475963575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Hidden Grounds Chai & Coffee House",
+  "city": "Jersey City",
+  "state": "NJ",
+  "address": "148 1st St, Jersey City, NJ 07302, USA",
+  "lat": 40.7215183,
+  "lng": -74.0398348,
+  "rating": 4.3,
+  "reviews": 428,
+  "hours": {
+   "sun": [
+    "08:00",
+    "18:00"
+   ],
+   "mon": [
+    "07:00",
+    "18:00"
+   ],
+   "tue": [
+    "07:00",
+    "18:00"
+   ],
+   "wed": [
+    "07:00",
+    "18:00"
+   ],
+   "thu": [
+    "07:00",
+    "18:00"
+   ],
+   "fri": [
+    "07:00",
+    "18:00"
+   ],
+   "sat": [
+    "08:00",
+    "18:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=6691427801359891742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Hidden Grounds Chai & Coffee House",
+  "city": "Jersey City",
+  "state": "NJ",
+  "address": "276 1st St, Jersey City, NJ 07302, USA",
+  "lat": 40.722114399999995,
+  "lng": -74.0462405,
+  "rating": 4.6,
+  "reviews": 144,
+  "hours": {
+   "sun": [
+    "08:00",
+    "18:00"
+   ],
+   "mon": [
+    "07:00",
+    "18:00"
+   ],
+   "tue": [
+    "07:00",
+    "18:00"
+   ],
+   "wed": [
+    "07:00",
+    "18:00"
+   ],
+   "thu": [
+    "07:00",
+    "18:00"
+   ],
+   "fri": [
+    "07:00",
+    "18:00"
+   ],
+   "sat": [
+    "08:00",
+    "18:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=3752303975614984941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Misree Chai",
+  "city": "Jersey City",
+  "state": "NJ",
+  "address": "789 Newark Ave, Jersey City, NJ 07306, USA",
+  "lat": 40.7354734,
+  "lng": -74.06464989999999,
+  "rating": 4.6,
+  "reviews": 246,
+  "hours": {
+   "sun": [
+    "08:30",
+    "24:00"
+   ],
+   "mon": [
+    "08:30",
+    "24:00"
+   ],
+   "tue": [
+    "08:30",
+    "24:00"
+   ],
+   "wed": [
+    "08:30",
+    "24:00"
+   ],
+   "thu": [
+    "08:30",
+    "24:00"
+   ],
+   "fri": [
+    "08:30",
+    "00:30"
+   ],
+   "sat": [
+    "08:30",
+    "00:30"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=18295328526434262337&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "tea_house"
+ },
+ {
+  "name": "Rusk Chai",
+  "city": "Jersey City",
+  "state": "NJ",
+  "address": "Kulchay, 64 Sip Ave, Jersey City, NJ 07306, USA",
+  "lat": 40.7307104,
+  "lng": -74.0621371,
+  "rating": 5,
+  "reviews": 1,
+  "hours": null,
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=3212712792365710009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "tea_house"
+ },
+ {
+  "name": "PYO Chai",
+  "city": "Long Island City",
+  "state": "NY",
+  "address": "28-23 Steinway St, Long Island City, NY 11103, USA",
+  "lat": 40.7646952,
+  "lng": -73.9139142,
+  "rating": 4.5,
+  "reviews": 110,
+  "hours": {
+   "sun": [
+    "12:00",
+    "23:00"
+   ],
+   "mon": [
+    "12:00",
+    "23:00"
+   ],
+   "tue": [
+    "12:00",
+    "23:00"
+   ],
+   "wed": [
+    "12:00",
+    "23:00"
+   ],
+   "thu": [
+    "12:00",
+    "23:00"
+   ],
+   "fri": [
+    "12:00",
+    "24:00"
+   ],
+   "sat": [
+    "12:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=799850668790418527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "tea_house"
+ },
+ {
+  "name": "Qahwah House Coffee - Montclair",
+  "city": "Montclair",
+  "state": "NJ",
+  "address": "493 Bloomfield Ave, Montclair, NJ 07042, USA",
+  "lat": 40.814658099999995,
+  "lng": -74.21811559999999,
+  "rating": 4.8,
+  "reviews": 319,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "10:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=182329401046743268&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "CHAI BAITHAK",
+  "city": "New Hyde Park",
+  "state": "NY",
+  "address": "418 Hillside Ave., New Hyde Park, NY 11040, USA",
+  "lat": 40.741444,
+  "lng": -73.69613620000001,
+  "rating": 4.7,
+  "reviews": 194,
+  "hours": {
+   "sun": [
+    "14:00",
+    "23:00"
+   ],
+   "mon": [
+    "14:00",
+    "24:00"
+   ],
+   "tue": [
+    "14:00",
+    "24:00"
+   ],
+   "wed": [
+    "14:00",
+    "24:00"
+   ],
+   "thu": [
+    "14:00",
+    "24:00"
+   ],
+   "fri": [
+    "14:00",
+    "24:00"
+   ],
+   "sat": [
+    "14:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=2017121270673247590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Chai Shop",
+  "city": "New Hyde Park",
+  "state": "NY",
+  "address": "751 Hillside Ave., New Hyde Park, NY 11040, USA",
+  "lat": 40.743079,
+  "lng": -73.6946744,
+  "rating": 4.6,
+  "reviews": 71,
+  "hours": {
+   "mon": [
+    "12:00",
+    "20:00"
+   ],
+   "tue": [
+    "12:00",
+    "20:00"
+   ],
+   "wed": [
+    "12:00",
+    "20:00"
+   ],
+   "thu": [
+    "12:00",
+    "20:00"
+   ],
+   "fri": [
+    "12:00",
+    "20:00"
+   ],
+   "sat": [
+    "12:00",
+    "18:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=5702889145438754078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "tea_house"
+ },
+ {
+  "name": "Chai Essentials",
+  "city": "New Rochelle",
+  "state": "NY",
+  "address": "11 Lincoln St, New Rochelle, NY 10801, USA",
+  "lat": 40.914171599999996,
+  "lng": -73.7756175,
+  "rating": null,
+  "reviews": null,
+  "hours": {
+   "sun": [
+    "00:00",
+    "18:00"
+   ],
+   "sat": [
+    "19:00",
+    "23:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=3030716660183488895&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "clothing_store"
+ },
+ {
+  "name": "Chai Kitchen",
+  "city": "New York",
+  "state": "NY",
+  "address": "930 8th Ave, New York, NY 10019, USA",
+  "lat": 40.76542020000001,
+  "lng": -73.9835208,
+  "rating": 4.1,
+  "reviews": 1350,
+  "hours": {
+   "sun": [
+    "11:30",
+    "22:30"
+   ],
+   "mon": [
+    "11:30",
+    "22:30"
+   ],
+   "tue": [
+    "11:30",
+    "22:30"
+   ],
+   "wed": [
+    "11:30",
+    "22:30"
+   ],
+   "thu": [
+    "11:30",
+    "22:30"
+   ],
+   "fri": [
+    "11:30",
+    "22:30"
+   ],
+   "sat": [
+    "11:30",
+    "22:30"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=13786042675566666652&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "asian_restaurant"
+ },
+ {
+  "name": "Chai Pani by Wonder",
+  "city": "New York",
+  "state": "NY",
+  "address": "2030 Broadway, New York, NY 10023, USA",
+  "lat": 40.776733799999995,
+  "lng": -73.98177040000002,
+  "rating": 3.5,
+  "reviews": 11,
+  "hours": {
+   "sun": [
+    "16:00",
+    "22:00"
+   ],
+   "mon": [
+    "16:00",
+    "22:00"
+   ],
+   "tue": [
+    "16:00",
+    "22:00"
+   ],
+   "wed": [
+    "16:00",
+    "22:00"
+   ],
+   "thu": [
+    "16:00",
+    "22:00"
+   ],
+   "fri": [
+    "16:00",
+    "22:00"
+   ],
+   "sat": [
+    "16:00",
+    "22:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=6752072111961781189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "indian_restaurant"
+ },
+ {
+  "name": "Chai Samosa Grab N Go",
+  "city": "New York",
+  "state": "NY",
+  "address": "442 W 45th St, New York, NY 10036, USA",
+  "lat": 40.7610939,
+  "lng": -73.9932311,
+  "rating": 4.8,
+  "reviews": 196,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=2196839470728941310&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "indian_restaurant"
+ },
+ {
+  "name": "Hidden Grounds Chai & Coffee House - Manhattan",
+  "city": "New York",
+  "state": "NY",
+  "address": "36 3rd Ave, New York, NY 10003, USA",
+  "lat": 40.7304587,
+  "lng": -73.9894831,
+  "rating": 4.5,
+  "reviews": 96,
+  "hours": {
+   "sun": [
+    "08:00",
+    "18:00"
+   ],
+   "mon": [
+    "07:00",
+    "18:00"
+   ],
+   "tue": [
+    "07:00",
+    "18:00"
+   ],
+   "wed": [
+    "07:00",
+    "18:00"
+   ],
+   "thu": [
+    "07:00",
+    "18:00"
+   ],
+   "fri": [
+    "07:00",
+    "18:00"
+   ],
+   "sat": [
+    "08:00",
+    "18:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=3151046682499498251&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "Lamoon Chai LLC",
+  "city": "New York",
+  "state": "NY",
+  "address": "143 Hester St, New York, NY 10002, USA",
+  "lat": 40.717208299999996,
+  "lng": -73.99485600000001,
+  "rating": 5,
+  "reviews": 1,
+  "hours": {
+   "sun": [
+    "12:00",
+    "19:00"
+   ],
+   "wed": [
+    "16:00",
+    "19:00"
+   ],
+   "thu": [
+    "16:00",
+    "19:00"
+   ],
+   "fri": [
+    "16:00",
+    "19:00"
+   ],
+   "sat": [
+    "12:00",
+    "19:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=12322195468556807948&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "restaurant"
+ },
+ {
+  "name": "Qahwah House - Broadway",
+  "city": "New York",
+  "state": "NY",
+  "address": "2869 Broadway, New York, NY 10025, USA",
+  "lat": 40.8052305,
+  "lng": -73.9663752,
+  "rating": 4.8,
+  "reviews": 607,
+  "hours": {
+   "sun": [
+    "07:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "07:00",
+    "01:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=1951996499489600728&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "The Chai Sutta",
+  "city": "New York",
+  "state": "NY",
+  "address": "1 Wall St, New York, NY 10005, USA",
+  "lat": 40.706787399999996,
+  "lng": -74.01235489999999,
+  "rating": null,
+  "reviews": null,
+  "hours": {
+   "mon": [
+    "09:00",
+    "21:00"
+   ],
+   "tue": [
+    "09:00",
+    "22:00"
+   ],
+   "wed": [
+    "09:00",
+    "22:00"
+   ],
+   "thu": [
+    "09:00",
+    "17:00"
+   ],
+   "fri": [
+    "09:00",
+    "23:30"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=11290256012795770403&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "The Hideout Chai Bar",
+  "city": "New York",
+  "state": "NY",
+  "address": "42 Rivington St, New York, NY 10002, USA",
+  "lat": 40.7210707,
+  "lng": -73.99097909999999,
+  "rating": 4.8,
+  "reviews": 443,
+  "hours": {
+   "sun": [
+    "10:00",
+    "19:00"
+   ],
+   "tue": [
+    "10:00",
+    "19:00"
+   ],
+   "wed": [
+    "10:00",
+    "19:00"
+   ],
+   "thu": [
+    "10:00",
+    "19:00"
+   ],
+   "fri": [
+    "10:00",
+    "19:00"
+   ],
+   "sat": [
+    "10:00",
+    "19:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=1228814365511510638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe"
+ },
+ {
+  "name": "Chai Wala",
+  "city": "Ozone Park",
+  "state": "NY",
+  "address": "90-15 Rockaway Blvd, Ozone Park, NY 11416, USA",
+  "lat": 40.6820077,
+  "lng": -73.8491868,
+  "rating": 4.6,
+  "reviews": 586,
+  "hours": {
+   "sun": [
+    "12:00",
+    "24:00"
+   ],
+   "mon": [
+    "12:00",
+    "24:00"
+   ],
+   "tue": [
+    "12:00",
+    "24:00"
+   ],
+   "wed": [
+    "12:00",
+    "24:00"
+   ],
+   "thu": [
+    "12:00",
+    "24:00"
+   ],
+   "fri": [
+    "12:00",
+    "24:00"
+   ],
+   "sat": [
+    "12:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=722255572820729646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "cafe"
+ },
+ {
+  "name": "Qahwa house",
+  "city": "Paterson",
+  "state": "NJ",
+  "address": "Paterson, NJ 07505, USA",
+  "lat": 40.9191459,
+  "lng": -74.17302509999999,
+  "rating": 2,
+  "reviews": 1,
+  "hours": null,
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=6467384568629970769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "coffee_shop"
+ },
+ {
+  "name": "PYO Chai",
+  "city": "Stewart Manor",
+  "state": "NY",
+  "address": "100 Covert Ave, Stewart Manor, NY 11530, USA",
+  "lat": 40.7201618,
+  "lng": -73.6884278,
+  "rating": 4.4,
+  "reviews": 641,
+  "hours": {
+   "sun": [
+    "12:00",
+    "22:00"
+   ],
+   "mon": [
+    "12:00",
+    "22:00"
+   ],
+   "tue": [
+    "12:00",
+    "22:00"
+   ],
+   "wed": [
+    "12:00",
+    "22:00"
+   ],
+   "thu": [
+    "12:00",
+    "22:00"
+   ],
+   "fri": [
+    "12:00",
+    "23:00"
+   ],
+   "sat": [
+    "12:00",
+    "23:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=2298341969631260727&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "tea_house"
+ },
+ {
+  "name": "Balkh Kabab Afghan Chai Khana",
+  "city": "Valley Stream",
+  "state": "NY",
+  "address": "640 W Merrick Rd, Valley Stream, NY 11580, USA",
+  "lat": 40.6709544,
+  "lng": -73.7197109,
+  "rating": 4.6,
+  "reviews": 506,
+  "hours": {
+   "sun": [
+    "10:00",
+    "24:00"
+   ],
+   "mon": [
+    "10:00",
+    "24:00"
+   ],
+   "tue": [
+    "10:00",
+    "24:00"
+   ],
+   "wed": [
+    "10:00",
+    "24:00"
+   ],
+   "thu": [
+    "10:00",
+    "24:00"
+   ],
+   "fri": [
+    "10:00",
+    "24:00"
+   ],
+   "sat": [
+    "10:00",
+    "24:00"
+   ]
+  },
+  "menu": [],
+  "tags": [],
+  "note": "",
+  "_gmaps": "https://maps.google.com/?cid=472185958995929856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+  "_primaryType": "afghani_restaurant"
+ }
+]

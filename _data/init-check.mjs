@@ -1,0 +1,15 @@
+import { chromium } from "playwright";
+const browser = await chromium.launch();
+const page = await browser.newPage({ viewport: { width: 1440, height: 900 } });
+const errors = [];
+page.on("pageerror", (e) => errors.push("pageerror: " + e.message));
+page.on("console", (m) => { if (m.type() === "error") errors.push("console: " + m.text()); });
+await page.goto("file:///Users/siddharthrout/Desktop/Projects/karakai/index.html");
+await page.waitForFunction(() => window.__karak && window.__karak.map && window.__karak.map.loaded(), null, { timeout: 20000 });
+await page.waitForTimeout(2500);
+await page.screenshot({ path: "_data/shots/shot-init.png" });
+const c = await page.evaluate(() => { const m = window.__karak.map.getCenter(); return { lat: m.lat.toFixed(2), lng: m.lng.toFixed(2), z: window.__karak.map.getZoom().toFixed(1) }; });
+const activeRegion = await page.evaluate(() => document.querySelector(".region-btn.on")?.dataset.region);
+console.log("init center:", JSON.stringify(c), "activeRegion:", activeRegion);
+console.log(errors.length ? "ERRORS:\n" + errors.join("\n") : "no console/page errors");
+await browser.close();

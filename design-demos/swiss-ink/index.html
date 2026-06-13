@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>karak.ai — every karak in america</title>
+<meta name="description" content="A map of every place that pours karak chai in the United States. Hours, prices, ratings." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;500;600;700&family=Space+Mono:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+<link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+<link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <a class="wordmark" href="#" id="wordmark">karak<span class="dot">.</span>ai</a>
+    <span class="tagline">every karak in america</span>
+  </div>
+  <nav class="nav">
+    <a href="#" class="nav-link active" id="nav-map">map</a>
+    <a href="#" class="nav-link" id="nav-about">about</a>
+  </nav>
+</header>
+
+<main id="map" aria-label="Map of karak spots in the United States"></main>
+
+<!-- left controls -->
+<div class="ctl ctl-zoom">
+  <button id="zoom-in" aria-label="Zoom in">+</button>
+  <button id="zoom-out" aria-label="Zoom out">−</button>
+</div>
+<button class="ctl ctl-reset" id="reset-view">Reset<br/>view</button>
+
+<div class="search-wrap">
+  <input id="search" class="search" type="text" autocomplete="off" spellcheck="false"
+         placeholder="search a city, state or spot" aria-label="Search a city, state or spot" />
+  <div id="search-results" class="search-results" hidden></div>
+</div>
+
+<!-- right controls -->
+<div class="filters">
+  <button class="chip" id="chip-open">open now</button>
+  <button class="chip" id="chip-late">open late</button>
+  <div class="count-badge"><span id="spot-count">0</span> spots</div>
+</div>
+
+<!-- spot card -->
+<aside class="card" id="card" hidden>
+  <button class="card-close" id="card-close" aria-label="Close">×</button>
+  <div class="card-inner" id="card-inner"></div>
+</aside>
+
+<!-- about -->
+<div class="about-backdrop" id="about" hidden>
+  <div class="about">
+    <button class="card-close" id="about-close" aria-label="Close">×</button>
+    <h2>karak<span class="dot">.</span>ai</h2>
+    <p>Karak is strong tea boiled down with evaporated milk, cardamom and a
+    frankly irresponsible amount of sugar. It went from Gulf cafeterias to
+    American strip malls without anyone keeping a list. So we keep the list.</p>
+    <p>Every pin is a real shop we looked up ourselves: Yemeni coffee houses
+    pouring adeni, Pakistani dhabas doing doodh patti, karak counters.
+    Hours, prices and ratings come from public listings. When we couldn't
+    confirm a price we put a <span class="est-mark">~</span> in front of our
+    best guess.</p>
+    <p class="about-foot">missing a spot? wrong hours? tell us · routsiddharth2911@gmail.com</p>
+  </div>
+</div>
+
+<footer class="strip">
+  <span class="strip-left">KARAK.AI — NO.1 THE UNITED STATES</span>
+  <span class="strip-center" id="coords">39.8283°N 98.5795°W&ensp;Z 4.0</span>
+  <span class="strip-right">
+    <a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> ©
+    <a href="https://www.openmaptiles.org" target="_blank" rel="noopener">OpenMapTiles</a> ·
+    data from <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>
+  </span>
+</footer>
+
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
