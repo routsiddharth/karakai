@@ -1,638 +1,325 @@
 [
-  {
-    "name": "Seventies Karak",
-    "city": "Manama",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "In front of Shifa Al Jazeera Hospital, Manama",
-    "lat": 26.2278,
-    "lng": 50.5705,
-    "rating": 4.3,
-    "reviews": 300,
-    "hours": {
-      "mon": [
-        "06:00",
-        "24:00"
-      ],
-      "tue": [
-        "06:00",
-        "24:00"
-      ],
-      "wed": [
-        "06:00",
-        "24:00"
-      ],
-      "thu": [
-        "06:00",
-        "24:00"
-      ],
-      "fri": [
-        "06:00",
-        "24:00"
-      ],
-      "sat": [
-        "06:00",
-        "24:00"
-      ],
-      "sun": [
-        "06:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 0.1
-      },
-      {
-        "item": "Saffron karak",
-        "price": 0.2
-      },
-      {
-        "item": "Cheese chapati",
-        "price": 0.5
-      },
-      {
-        "item": "Club sandwich",
-        "price": 1.0
-      }
-    ],
-    "priceEstimated": true,
-    "tags": [
-      "karak",
-      "cafeteria",
-      "late-night"
-    ],
-    "note": "In front of Shifa Al Jazeera Hospital. Locals call it سبعينات."
+ {
+  "name": "Seventies Karak",
+  "city": "Manama",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Manama, Bahrain",
+  "lat": 26.2266,
+  "lng": 50.56935,
+  "rating": 4.6,
+  "reviews": 39,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Karak Al Kamsinat",
-    "city": "East Riffa",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "East Riffa, next to Bombo Shawarma, Sheikh Isa Street",
-    "lat": 26.123,
-    "lng": 50.559,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "06:00",
-        "24:00"
-      ],
-      "tue": [
-        "06:00",
-        "24:00"
-      ],
-      "wed": [
-        "06:00",
-        "24:00"
-      ],
-      "thu": [
-        "06:00",
-        "24:00"
-      ],
-      "fri": [
-        "06:00",
-        "24:00"
-      ],
-      "sat": [
-        "06:00",
-        "24:00"
-      ],
-      "sun": [
-        "06:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 0.1
-      },
-      {
-        "item": "Ginger karak",
-        "price": 0.15
-      },
-      {
-        "item": "Chapati",
-        "price": 0.3
-      }
-    ],
-    "priceEstimated": true,
-    "tags": [
-      "karak",
-      "cafeteria",
-      "late-night"
-    ],
-    "note": "Next to Bombo Shawarma in East Riffa."
+  "menu": [
+   {
+    "item": "Karak tea",
+    "price": 0.1
+   },
+   {
+    "item": "Saffron karak",
+    "price": 0.2
+   },
+   {
+    "item": "Cheese chapati",
+    "price": 0.5
+   },
+   {
+    "item": "Club sandwich",
+    "price": 1.0
+   }
+  ],
+  "priceEstimated": true,
+  "tags": [
+   "karak",
+   "cafeteria",
+   "late-night"
+  ],
+  "note": "In front of Shifa Al Jazeera Hospital. Locals call it سبعينات."
+ },
+ {
+  "name": "Capital Karak",
+  "city": "West Riffa",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "4GCV+972, Hunainiyah Ave, Riffa, Bahrain",
+  "lat": 26.12088,
+  "lng": 50.54315,
+  "rating": 3.9,
+  "reviews": 12,
+  "hours": {
+   "sun": [
+    "07:00",
+    "24:00"
+   ],
+   "mon": [
+    "07:00",
+    "24:00"
+   ],
+   "tue": [
+    "07:00",
+    "24:00"
+   ],
+   "wed": [
+    "07:00",
+    "24:00"
+   ],
+   "thu": [
+    "07:00",
+    "24:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "05:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Karak Al Sharqi",
-    "city": "East Riffa",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Behind Food World Supermarket, Riffa Souq",
-    "lat": 26.128,
-    "lng": 50.555,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "06:00",
-        "24:00"
-      ],
-      "tue": [
-        "06:00",
-        "24:00"
-      ],
-      "wed": [
-        "06:00",
-        "24:00"
-      ],
-      "thu": [
-        "06:00",
-        "24:00"
-      ],
-      "fri": [
-        "06:00",
-        "24:00"
-      ],
-      "sat": [
-        "06:00",
-        "24:00"
-      ],
-      "sun": [
-        "06:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Samovar karak tea",
-        "price": 0.1
-      },
-      {
-        "item": "Saffron tea",
-        "price": 0.2
-      },
-      {
-        "item": "Chapati",
-        "price": 0.3
-      }
-    ],
-    "priceEstimated": true,
-    "tags": [
-      "karak",
-      "cafeteria",
-      "late-night"
-    ],
-    "note": "Behind Food World Supermarket. Samovar tea, free delivery."
+  "menu": [
+   {
+    "item": "Karak tea",
+    "price": 0.1
+   },
+   {
+    "item": "Ginger karak",
+    "price": 0.15
+   },
+   {
+    "item": "Chapati",
+    "price": 0.3
+   }
+  ],
+  "priceEstimated": true,
+  "tags": [
+   "karak",
+   "cafeteria",
+   "late-night"
+  ],
+  "note": "Roadside karak stop on Hunainiyah Avenue."
+ },
+ {
+  "name": "Basta 23",
+  "city": "Manama",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Road 4626 Building 1428, Manama, Bahrain",
+  "lat": 26.23981,
+  "lng": 50.57418,
+  "rating": 3,
+  "reviews": 87,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:56"
+   ],
+   "mon": [
+    "08:00",
+    "23:56"
+   ],
+   "tue": [
+    "08:00",
+    "23:56"
+   ],
+   "wed": [
+    "08:00",
+    "23:56"
+   ],
+   "thu": [
+    "08:00",
+    "23:56"
+   ],
+   "fri": [
+    "08:00",
+    "23:56"
+   ],
+   "sat": [
+    "08:00",
+    "23:56"
+   ]
   },
-  {
-    "name": "Capital Karak",
-    "city": "West Riffa",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Hunainiyah Avenue, West Riffa",
-    "lat": 26.113,
-    "lng": 50.535,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "06:00",
-        "24:00"
-      ],
-      "tue": [
-        "06:00",
-        "24:00"
-      ],
-      "wed": [
-        "06:00",
-        "24:00"
-      ],
-      "thu": [
-        "06:00",
-        "24:00"
-      ],
-      "fri": [
-        "06:00",
-        "24:00"
-      ],
-      "sat": [
-        "06:00",
-        "24:00"
-      ],
-      "sun": [
-        "06:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 0.1
-      },
-      {
-        "item": "Ginger karak",
-        "price": 0.15
-      },
-      {
-        "item": "Chapati",
-        "price": 0.3
-      }
-    ],
-    "priceEstimated": true,
-    "tags": [
-      "karak",
-      "cafeteria",
-      "late-night"
-    ],
-    "note": "Roadside karak stop on Hunainiyah Avenue."
+  "menu": [
+   {
+    "item": "Karak cup",
+    "price": 0.3
+   },
+   {
+    "item": "Balaleet",
+    "price": 1.2
+   },
+   {
+    "item": "Khobiz",
+    "price": 0.5
+   },
+   {
+    "item": "Shakshouka",
+    "price": 1.5
+   }
+  ],
+  "priceEstimated": true,
+  "tags": [
+   "karak",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Retro souk-style cafe for Khaleeji karak chai."
+ },
+ {
+  "name": "Seef Corner",
+  "city": "Seef",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "6GMW+XW6, Al, Seef, Bahrain",
+  "lat": 26.23491,
+  "lng": 50.54728,
+  "rating": 4.1,
+  "reviews": 62,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Jabel Ali Cafeteria",
-    "city": "Saar",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Saar, Northern Governorate",
-    "lat": 26.184,
-    "lng": 50.498,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "06:00",
-        "23:00"
-      ],
-      "tue": [
-        "06:00",
-        "23:00"
-      ],
-      "wed": [
-        "06:00",
-        "23:00"
-      ],
-      "thu": [
-        "06:00",
-        "23:00"
-      ],
-      "fri": [
-        "06:00",
-        "23:00"
-      ],
-      "sat": [
-        "06:00",
-        "23:00"
-      ],
-      "sun": [
-        "06:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 0.1
-      },
-      {
-        "item": "Paratha",
-        "price": 0.3
-      },
-      {
-        "item": "Biryani",
-        "price": 1.2
-      }
-    ],
-    "priceEstimated": true,
-    "tags": [
-      "karak",
-      "cafeteria"
-    ],
-    "note": "Saar cafeteria for karak and Indian food."
+  "menu": [
+   {
+    "item": "Karak tea",
+    "price": 0.1
+   },
+   {
+    "item": "Chapati",
+    "price": 0.3
+   },
+   {
+    "item": "Club sandwich",
+    "price": 1.0
+   }
+  ],
+  "priceEstimated": true,
+  "tags": [
+   "karak",
+   "cafeteria",
+   "late-night"
+  ],
+  "note": "Seef cafeteria. Ask them to go easy on the sugar."
+ },
+ {
+  "name": "Agaily & Karak",
+  "city": "A'ali",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "مجمع السيف، Rd No 2819, ضاحية السيف،، Seef, Bahrain",
+  "lat": 26.23326,
+  "lng": 50.53998,
+  "rating": 4,
+  "reviews": 355,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:30"
+   ],
+   "mon": [
+    "09:00",
+    "23:30"
+   ],
+   "tue": [
+    "09:00",
+    "24:00"
+   ],
+   "wed": [
+    "09:00",
+    "24:00"
+   ],
+   "thu": [
+    "09:00",
+    "24:00"
+   ],
+   "fri": [
+    "09:00",
+    "24:00"
+   ],
+   "sat": [
+    "09:00",
+    "23:30"
+   ]
   },
-  {
-    "name": "Basta 23",
-    "city": "Manama",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Bahrain Harbour, Manama",
-    "lat": 26.239,
-    "lng": 50.587,
-    "rating": 4.3,
-    "reviews": 1000,
-    "hours": {
-      "mon": [
-        "08:30",
-        "23:00"
-      ],
-      "tue": [
-        "08:30",
-        "23:00"
-      ],
-      "wed": [
-        "08:30",
-        "23:00"
-      ],
-      "thu": [
-        "08:30",
-        "23:00"
-      ],
-      "fri": [
-        "08:30",
-        "23:00"
-      ],
-      "sat": [
-        "08:30",
-        "23:00"
-      ],
-      "sun": [
-        "08:30",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak cup",
-        "price": 0.3
-      },
-      {
-        "item": "Balaleet",
-        "price": 1.2
-      },
-      {
-        "item": "Khobiz",
-        "price": 0.5
-      },
-      {
-        "item": "Shakshouka",
-        "price": 1.5
-      }
-    ],
-    "priceEstimated": true,
-    "tags": [
-      "karak",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Retro souk-style cafe for Khaleeji karak chai."
-  },
-  {
-    "name": "Seef Corner",
-    "city": "Seef",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Seef district, Manama",
-    "lat": 26.2349,
-    "lng": 50.5473,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "06:00",
-        "24:00"
-      ],
-      "tue": [
-        "06:00",
-        "24:00"
-      ],
-      "wed": [
-        "06:00",
-        "24:00"
-      ],
-      "thu": [
-        "06:00",
-        "24:00"
-      ],
-      "fri": [
-        "06:00",
-        "24:00"
-      ],
-      "sat": [
-        "06:00",
-        "24:00"
-      ],
-      "sun": [
-        "06:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 0.1
-      },
-      {
-        "item": "Chapati",
-        "price": 0.3
-      },
-      {
-        "item": "Club sandwich",
-        "price": 1.0
-      }
-    ],
-    "priceEstimated": true,
-    "tags": [
-      "karak",
-      "cafeteria",
-      "late-night"
-    ],
-    "note": "Seef cafeteria. Ask them to go easy on the sugar."
-  },
-  {
-    "name": "Emmawash Traditional Restaurant",
-    "city": "Manama",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Bab Al Bahrain, Manama Souq",
-    "lat": 26.2332,
-    "lng": 50.5759,
-    "rating": 4.5,
-    "reviews": 1000,
-    "hours": {
-      "mon": [
-        "06:00",
-        "13:00"
-      ],
-      "tue": [
-        "06:00",
-        "13:00"
-      ],
-      "wed": [
-        "06:00",
-        "13:00"
-      ],
-      "thu": [
-        "06:00",
-        "13:00"
-      ],
-      "fri": [
-        "06:00",
-        "13:00"
-      ],
-      "sat": [
-        "06:00",
-        "13:00"
-      ],
-      "sun": [
-        "06:00",
-        "13:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 0.2
-      },
-      {
-        "item": "Balaleet",
-        "price": 0.8
-      },
-      {
-        "item": "Nashif",
-        "price": 1.0
-      },
-      {
-        "item": "Chicken liver",
-        "price": 1.2
-      }
-    ],
-    "priceEstimated": true,
-    "tags": [
-      "karak",
-      "cafe",
-      "chapati"
-    ],
-    "note": "Traditional Bahraini breakfast spot at Bab Al Bahrain."
-  },
-  {
-    "name": "Karak Truck — Isa Town Souq",
-    "city": "Isa Town",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "By Lebanon Trading Center, Isa Town Souq",
-    "lat": 26.173,
-    "lng": 50.547,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "15:00",
-        "24:00"
-      ],
-      "tue": [
-        "15:00",
-        "24:00"
-      ],
-      "wed": [
-        "15:00",
-        "24:00"
-      ],
-      "thu": [
-        "15:00",
-        "24:00"
-      ],
-      "fri": [
-        "15:00",
-        "24:00"
-      ],
-      "sat": [
-        "15:00",
-        "24:00"
-      ],
-      "sun": [
-        "15:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 0.1
-      },
-      {
-        "item": "Chapati",
-        "price": 0.3
-      }
-    ],
-    "priceEstimated": true,
-    "tags": [
-      "karak",
-      "late-night"
-    ],
-    "note": "Karak truck by Lebanon Trading Center at Isa Town Souq."
-  },
-  {
-    "name": "Agaily & Karak",
-    "city": "A'ali",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Al Aali Mall, A'ali",
-    "lat": 26.2334,
-    "lng": 50.5402,
-    "rating": 4.0,
-    "reviews": 80,
-    "hours": {
-      "mon": [
-        "10:00",
-        "22:00"
-      ],
-      "tue": [
-        "10:00",
-        "22:00"
-      ],
-      "wed": [
-        "10:00",
-        "22:00"
-      ],
-      "thu": [
-        "10:00",
-        "22:00"
-      ],
-      "fri": [
-        "10:00",
-        "22:00"
-      ],
-      "sat": [
-        "10:00",
-        "22:00"
-      ],
-      "sun": [
-        "10:00",
-        "22:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 0.3
-      },
-      {
-        "item": "Karak dallah (sharing)",
-        "price": 1.5
-      },
-      {
-        "item": "Agaily cake",
-        "price": 1.0
-      }
-    ],
-    "priceEstimated": true,
-    "tags": [
-      "karak",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Sit-down cafe at Al Aali Mall. Karak by the dallah."
-  }
+  "menu": [
+   {
+    "item": "Karak tea",
+    "price": 0.3
+   },
+   {
+    "item": "Karak dallah (sharing)",
+    "price": 1.5
+   },
+   {
+    "item": "Agaily cake",
+    "price": 1.0
+   }
+  ],
+  "priceEstimated": true,
+  "tags": [
+   "karak",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Sit-down cafe at Al Aali Mall. Karak by the dallah."
+ }
 ]

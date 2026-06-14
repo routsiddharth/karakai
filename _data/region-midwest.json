@@ -1,765 +1,704 @@
 [
-  {
-    "name": "Haraz Coffee House",
-    "city": "Dearborn",
-    "state": "MI",
-    "address": "13810 Michigan Ave, Dearborn, MI 48126",
-    "lat": 42.3065,
-    "lng": -83.1762,
-    "rating": 4.6,
-    "reviews": 1300,
-    "hours": {
-      "mon": [
-        "06:00",
-        "00:00"
-      ],
-      "tue": [
-        "06:00",
-        "00:00"
-      ],
-      "wed": [
-        "06:00",
-        "00:00"
-      ],
-      "thu": [
-        "06:00",
-        "00:00"
-      ],
-      "fri": [
-        "06:00",
-        "00:00"
-      ],
-      "sat": [
-        "06:00",
-        "00:00"
-      ],
-      "sun": [
-        "06:00",
-        "00:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni/Karak chai",
-        "price": 4.65
-      },
-      {
-        "item": "Saffron chai",
-        "price": 6.0
-      },
-      {
-        "item": "Pistachio latte",
-        "price": 7.95
-      },
-      {
-        "item": "Tiramisu",
-        "price": 8.0
-      }
-    ],
-    "tags": [
-      "karak",
-      "adeni",
-      "yemeni",
-      "cafe",
-      "dessert",
-      "late-night"
-    ],
-    "note": "The flagship. Beans come from Yemen's Haraz mountains."
+ {
+  "name": "Haraz Coffee House",
+  "city": "Dearborn",
+  "state": "MI",
+  "address": "13810 Michigan Ave, Dearborn, MI 48126, USA",
+  "lat": 42.3217,
+  "lng": -83.17865,
+  "rating": 4.6,
+  "reviews": 1230,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:30"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "23:30"
+   ],
+   "sat": [
+    "08:00",
+    "23:30"
+   ]
   },
-  {
-    "name": "Qamaria Yemeni Coffee Co.",
-    "city": "Dearborn",
-    "state": "MI",
-    "address": "25245 Ford Rd, Ste B, Dearborn, MI 48127",
-    "lat": 42.3255,
-    "lng": -83.284,
-    "rating": 4.7,
-    "reviews": 500,
-    "hours": {
-      "mon": [
-        "06:00",
-        "00:00"
-      ],
-      "tue": [
-        "06:00",
-        "00:00"
-      ],
-      "wed": [
-        "06:00",
-        "00:00"
-      ],
-      "thu": [
-        "06:00",
-        "00:00"
-      ],
-      "fri": [
-        "06:00",
-        "00:00"
-      ],
-      "sat": [
-        "06:00",
-        "00:00"
-      ],
-      "sun": [
-        "06:00",
-        "00:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni tea (karak)",
-        "price": 4.75
-      },
-      {
-        "item": "Mofawar coffee",
-        "price": 5.25
-      },
-      {
-        "item": "Honeycomb bread",
-        "price": 6.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "karak",
-      "yemeni",
-      "cafe",
-      "dessert",
-      "late-night"
-    ],
-    "note": "Fifth shop of the Dearborn-born chain, on the Dearborn Heights border.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni/Karak chai",
+    "price": 4.65
+   },
+   {
+    "item": "Saffron chai",
+    "price": 6.0
+   },
+   {
+    "item": "Pistachio latte",
+    "price": 7.95
+   },
+   {
+    "item": "Tiramisu",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "karak",
+   "adeni",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "note": "The flagship. Beans come from Yemen's Haraz mountains."
+ },
+ {
+  "name": "Qamaria Yemeni Coffee Co.",
+  "city": "Dearborn",
+  "state": "MI",
+  "address": "25245 Ford Rd Ste B, Dearborn, MI 48128, USA",
+  "lat": 42.32654,
+  "lng": -83.28564,
+  "rating": 4.4,
+  "reviews": 404,
+  "hours": {
+   "sun": [
+    "07:00",
+    "22:00"
+   ],
+   "mon": [
+    "07:00",
+    "22:00"
+   ],
+   "tue": [
+    "07:00",
+    "22:00"
+   ],
+   "wed": [
+    "07:00",
+    "22:00"
+   ],
+   "thu": [
+    "07:00",
+    "22:00"
+   ],
+   "fri": [
+    "07:00",
+    "23:00"
+   ],
+   "sat": [
+    "07:00",
+    "23:00"
+   ]
   },
-  {
-    "name": "Hakaya Cafe",
-    "city": "Hamtramck",
-    "state": "MI",
-    "address": "8902 Joseph Campau Ave, Hamtramck, MI 48212",
-    "lat": 42.3884,
-    "lng": -83.0555,
-    "rating": 4.8,
-    "reviews": 250,
-    "hours": {
-      "mon": [
-        "07:00",
-        "00:00"
-      ],
-      "tue": [
-        "07:00",
-        "00:00"
-      ],
-      "wed": [
-        "07:00",
-        "00:00"
-      ],
-      "thu": [
-        "07:00",
-        "00:00"
-      ],
-      "fri": [
-        "07:00",
-        "00:00"
-      ],
-      "sat": [
-        "07:00",
-        "00:00"
-      ],
-      "sun": [
-        "07:00",
-        "00:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni tea",
-        "price": 5.19
-      },
-      {
-        "item": "Hakaya signature (ginger-cinnamon coffee)",
-        "price": 5.99
-      },
-      {
-        "item": "Mufawar pot",
-        "price": 8.5
-      }
-    ],
-    "tags": [
-      "adeni",
-      "karak",
-      "yemeni",
-      "cafe",
-      "late-night"
-    ],
-    "note": "Adeni tea by the pot in a small Hamtramck room.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni tea (karak)",
+    "price": 4.75
+   },
+   {
+    "item": "Mofawar coffee",
+    "price": 5.25
+   },
+   {
+    "item": "Honeycomb bread",
+    "price": 6.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "note": "Fifth shop of the Dearborn-born chain, on the Dearborn Heights border.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Hakaya Cafe",
+  "city": "Hamtramck",
+  "state": "MI",
+  "address": "8902 Joseph Campau Ave, Hamtramck, MI 48212, USA",
+  "lat": 42.39103,
+  "lng": -83.05385,
+  "rating": 4.7,
+  "reviews": 259,
+  "hours": {
+   "sun": [
+    "07:00",
+    "24:00"
+   ],
+   "mon": [
+    "07:00",
+    "24:00"
+   ],
+   "tue": [
+    "07:00",
+    "24:00"
+   ],
+   "wed": [
+    "07:00",
+    "24:00"
+   ],
+   "thu": [
+    "07:00",
+    "24:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "07:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Yemen Cafe",
-    "city": "Hamtramck",
-    "state": "MI",
-    "address": "8740 Joseph Campau Ave, Hamtramck, MI 48212",
-    "lat": 42.3872,
-    "lng": -83.0548,
-    "rating": 4.4,
-    "reviews": 1900,
-    "hours": {
-      "mon": [
-        "09:00",
-        "23:00"
-      ],
-      "tue": [
-        "09:00",
-        "23:00"
-      ],
-      "wed": [
-        "09:00",
-        "23:00"
-      ],
-      "thu": [
-        "09:00",
-        "23:00"
-      ],
-      "fri": [
-        "09:00",
-        "23:00"
-      ],
-      "sat": [
-        "09:00",
-        "23:00"
-      ],
-      "sun": [
-        "09:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni milk tea",
-        "price": 3.5
-      },
-      {
-        "item": "Shahi haleeb",
-        "price": 4.5
-      },
-      {
-        "item": "Lamb haneeth",
-        "price": 19.99
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni"
-    ],
-    "note": "Hamtramck institution. Get the haneeth, stay for the tea.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni tea",
+    "price": 5.19
+   },
+   {
+    "item": "Hakaya signature (ginger-cinnamon coffee)",
+    "price": 5.99
+   },
+   {
+    "item": "Mufawar pot",
+    "price": 8.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "late-night"
+  ],
+  "note": "Adeni tea by the pot in a small Hamtramck room.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Yemen Cafe",
+  "city": "Hamtramck",
+  "state": "MI",
+  "address": "8740 Joseph Campau Ave, Hamtramck, MI 48212, USA",
+  "lat": 42.39018,
+  "lng": -83.05329,
+  "rating": 4.4,
+  "reviews": 3543,
+  "hours": {
+   "sun": [
+    "08:00",
+    "01:00"
+   ],
+   "mon": [
+    "08:00",
+    "01:00"
+   ],
+   "tue": [
+    "08:00",
+    "01:00"
+   ],
+   "wed": [
+    "08:00",
+    "01:00"
+   ],
+   "thu": [
+    "08:00",
+    "01:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "CupsnChai",
-    "city": "Canton",
-    "state": "MI",
-    "address": "43339 Joy Rd, Canton, MI 48187",
-    "lat": 42.3372,
-    "lng": -83.456,
-    "rating": 4.8,
-    "reviews": 650,
-    "hours": {
-      "mon": [
-        "12:00",
-        "23:00"
-      ],
-      "tue": [
-        "12:00",
-        "23:00"
-      ],
-      "wed": [
-        "12:00",
-        "23:00"
-      ],
-      "thu": [
-        "12:00",
-        "23:00"
-      ],
-      "fri": [
-        "12:00",
-        "23:00"
-      ],
-      "sat": [
-        "12:00",
-        "23:00"
-      ],
-      "sun": [
-        "12:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak chai",
-        "price": 4.49
-      },
-      {
-        "item": "Masala chai",
-        "price": 4.49
-      },
-      {
-        "item": "Chai + wrap + samosa bundle",
-        "price": 12.99
-      },
-      {
-        "item": "Gulab jamun",
-        "price": 4.99
-      }
-    ],
-    "tags": [
-      "karak",
-      "masala",
-      "pakistani",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Karak and street food for the Canton crowd.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni milk tea",
+    "price": 3.5
+   },
+   {
+    "item": "Shahi haleeb",
+    "price": 4.5
+   },
+   {
+    "item": "Lamb haneeth",
+    "price": 19.99
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni"
+  ],
+  "note": "Hamtramck institution. Get the haneeth, stay for the tea.",
+  "priceEstimated": true
+ },
+ {
+  "name": "CupsnChai",
+  "city": "Canton",
+  "state": "MI",
+  "address": "43339 Joy Rd, Canton Township, MI 48187, USA",
+  "lat": 42.35007,
+  "lng": -83.46767,
+  "rating": 4.8,
+  "reviews": 641,
+  "hours": {
+   "sun": [
+    "09:00",
+    "22:00"
+   ],
+   "mon": [
+    "10:00",
+    "22:00"
+   ],
+   "tue": [
+    "10:00",
+    "22:00"
+   ],
+   "wed": [
+    "10:00",
+    "22:00"
+   ],
+   "thu": [
+    "10:00",
+    "22:00"
+   ],
+   "fri": [
+    "10:00",
+    "24:00"
+   ],
+   "sat": [
+    "09:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Haraz Coffee House",
-    "city": "Niles",
-    "state": "IL",
-    "address": "7007 W Dempster St, Niles, IL 60714",
-    "lat": 42.0409,
-    "lng": -87.803,
-    "rating": 4.6,
-    "reviews": 400,
-    "hours": {
-      "mon": [
-        "07:00",
-        "00:00"
-      ],
-      "tue": [
-        "07:00",
-        "00:00"
-      ],
-      "wed": [
-        "07:00",
-        "00:00"
-      ],
-      "thu": [
-        "07:00",
-        "00:00"
-      ],
-      "fri": [
-        "07:00",
-        "00:00"
-      ],
-      "sat": [
-        "07:00",
-        "00:00"
-      ],
-      "sun": [
-        "07:00",
-        "00:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni/Karak chai",
-        "price": 4.65
-      },
-      {
-        "item": "Iced tango chai",
-        "price": 6.0
-      },
-      {
-        "item": "Pistachio latte",
-        "price": 7.95
-      }
-    ],
-    "tags": [
-      "karak",
-      "adeni",
-      "yemeni",
-      "cafe",
-      "dessert",
-      "late-night"
-    ],
-    "note": "The north-suburbs Haraz. Packed late.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak chai",
+    "price": 4.49
+   },
+   {
+    "item": "Masala chai",
+    "price": 4.49
+   },
+   {
+    "item": "Chai + wrap + samosa bundle",
+    "price": 12.99
+   },
+   {
+    "item": "Gulab jamun",
+    "price": 4.99
+   }
+  ],
+  "tags": [
+   "karak",
+   "masala",
+   "pakistani",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Karak and street food for the Canton crowd.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Haraz Coffee House",
+  "city": "Niles",
+  "state": "IL",
+  "address": "7007 W Dempster St, Niles, IL 60714, USA",
+  "lat": 42.04021,
+  "lng": -87.80163,
+  "rating": 4.4,
+  "reviews": 509,
+  "hours": {
+   "sun": [
+    "07:00",
+    "01:00"
+   ],
+   "mon": [
+    "07:00",
+    "01:00"
+   ],
+   "tue": [
+    "07:00",
+    "01:00"
+   ],
+   "wed": [
+    "07:00",
+    "01:00"
+   ],
+   "thu": [
+    "07:00",
+    "01:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "07:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "Karak Cafe",
-    "city": "Lisle",
-    "state": "IL",
-    "address": "2004 Ogden Ave, Lisle, IL 60532",
-    "lat": 41.803,
-    "lng": -88.092,
-    "rating": 4.9,
-    "reviews": 216,
-    "hours": {
-      "mon": null,
-      "tue": [
-        "11:00",
-        "23:00"
-      ],
-      "wed": [
-        "11:00",
-        "23:00"
-      ],
-      "thu": [
-        "11:00",
-        "23:00"
-      ],
-      "fri": [
-        "11:00",
-        "00:00"
-      ],
-      "sat": [
-        "11:00",
-        "00:00"
-      ],
-      "sun": [
-        "11:00",
-        "22:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak chai",
-        "price": 3.99
-      },
-      {
-        "item": "Masala chai",
-        "price": 4.25
-      },
-      {
-        "item": "Zaatar manakeesh",
-        "price": 7.99
-      }
-    ],
-    "tags": [
-      "karak",
-      "masala",
-      "indian",
-      "pakistani",
-      "cafe",
-      "late-night"
-    ],
-    "note": "Karak brewed to order on Ogden Avenue.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni/Karak chai",
+    "price": 4.65
+   },
+   {
+    "item": "Iced tango chai",
+    "price": 6.0
+   },
+   {
+    "item": "Pistachio latte",
+    "price": 7.95
+   }
+  ],
+  "tags": [
+   "karak",
+   "adeni",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "note": "The north-suburbs Haraz. Packed late.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Karachi Chaat House",
+  "city": "Chicago",
+  "state": "IL",
+  "address": "2301 W Devon Ave, Chicago, IL 60659, USA",
+  "lat": 41.99759,
+  "lng": -87.68765,
+  "rating": 4.2,
+  "reviews": 1689,
+  "hours": {
+   "sun": [
+    "12:00",
+    "02:00"
+   ],
+   "mon": [
+    "12:00",
+    "02:00"
+   ],
+   "tue": [
+    "12:00",
+    "02:00"
+   ],
+   "wed": [
+    "12:00",
+    "02:00"
+   ],
+   "thu": [
+    "12:00",
+    "02:00"
+   ],
+   "fri": [
+    "12:00",
+    "02:00"
+   ],
+   "sat": [
+    "12:00",
+    "02:00"
+   ]
   },
-  {
-    "name": "Karachi Chaat House",
-    "city": "Chicago",
-    "state": "IL",
-    "address": "2301 W Devon Ave, Chicago, IL 60659",
-    "lat": 41.9975,
-    "lng": -87.6893,
-    "rating": 4.2,
-    "reviews": 2000,
-    "hours": {
-      "mon": [
-        "12:00",
-        "02:00"
-      ],
-      "tue": [
-        "12:00",
-        "02:00"
-      ],
-      "wed": [
-        "12:00",
-        "02:00"
-      ],
-      "thu": [
-        "12:00",
-        "02:00"
-      ],
-      "fri": [
-        "12:00",
-        "02:00"
-      ],
-      "sat": [
-        "12:00",
-        "02:00"
-      ],
-      "sun": [
-        "12:00",
-        "02:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Doodh patti chai",
-        "price": 2.58
-      },
-      {
-        "item": "Samosa chaat",
-        "price": 6.99
-      },
-      {
-        "item": "Karachi Mix Special falooda",
-        "price": 7.99
-      }
-    ],
-    "tags": [
-      "masala",
-      "pakistani",
-      "dessert",
-      "late-night"
-    ],
-    "note": "Devon Avenue stalwart. Chai until 2 a.m.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Doodh patti chai",
+    "price": 2.58
+   },
+   {
+    "item": "Samosa chaat",
+    "price": 6.99
+   },
+   {
+    "item": "Karachi Mix Special falooda",
+    "price": 7.99
+   }
+  ],
+  "tags": [
+   "masala",
+   "pakistani",
+   "dessert",
+   "late-night"
+  ],
+  "note": "Devon Avenue stalwart. Chai until 2 a.m.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Shibam Coffee",
+  "city": "Westerville",
+  "state": "OH",
+  "address": "8310 Sancus Blvd, Westerville, OH 43081, USA",
+  "lat": 40.13539,
+  "lng": -82.99106,
+  "rating": 4.7,
+  "reviews": 398,
+  "hours": {
+   "sun": [
+    "07:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "07:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Shibam Coffee",
-    "city": "Westerville",
-    "state": "OH",
-    "address": "8310 Sancus Blvd, Westerville, OH 43081",
-    "lat": 40.1433,
-    "lng": -82.9805,
-    "rating": 4.8,
-    "reviews": 350,
-    "hours": {
-      "mon": [
-        "07:00",
-        "00:00"
-      ],
-      "tue": [
-        "07:00",
-        "00:00"
-      ],
-      "wed": [
-        "07:00",
-        "00:00"
-      ],
-      "thu": [
-        "07:00",
-        "01:00"
-      ],
-      "fri": [
-        "07:00",
-        "01:00"
-      ],
-      "sat": [
-        "07:00",
-        "01:00"
-      ],
-      "sun": [
-        "07:00",
-        "00:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 5.5
-      },
-      {
-        "item": "Mufawar",
-        "price": 5.75
-      },
-      {
-        "item": "Pistachio cake",
-        "price": 7.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "karak",
-      "yemeni",
-      "cafe",
-      "dessert",
-      "late-night"
-    ],
-    "note": "Polaris-area shop with a drive-thru. Closes at 1 a.m.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Mufawar",
+    "price": 5.75
+   },
+   {
+    "item": "Pistachio cake",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "note": "Polaris-area shop with a drive-thru. Closes at 1 a.m.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Qamaria Yemeni Coffee Co.",
+  "city": "Eden Prairie",
+  "state": "MN",
+  "address": "582 Prairie Center Dr Ste #260, Eden Prairie, MN 55344, USA",
+  "lat": 44.85329,
+  "lng": -93.4292,
+  "rating": 4.6,
+  "reviews": 612,
+  "hours": {
+   "sun": [
+    "08:00",
+    "01:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "Qamaria Yemeni Coffee Co.",
-    "city": "Eden Prairie",
-    "state": "MN",
-    "address": "582 Prairie Center Dr, Suite 260, Eden Prairie, MN 55344",
-    "lat": 44.8572,
-    "lng": -93.4286,
-    "rating": 4.7,
-    "reviews": 550,
-    "hours": {
-      "mon": [
-        "06:00",
-        "23:00"
-      ],
-      "tue": [
-        "06:00",
-        "23:00"
-      ],
-      "wed": [
-        "06:00",
-        "23:00"
-      ],
-      "thu": [
-        "06:00",
-        "23:00"
-      ],
-      "fri": [
-        "06:00",
-        "23:00"
-      ],
-      "sat": [
-        "06:00",
-        "23:00"
-      ],
-      "sun": [
-        "06:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni tea (karak)",
-        "price": 4.75
-      },
-      {
-        "item": "Mofawar coffee",
-        "price": 5.25
-      },
-      {
-        "item": "Honeycomb bread",
-        "price": 6.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "karak",
-      "yemeni",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Twin Cities Qamaria, opened in 2025.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni tea (karak)",
+    "price": 4.75
+   },
+   {
+    "item": "Mofawar coffee",
+    "price": 5.25
+   },
+   {
+    "item": "Honeycomb bread",
+    "price": 6.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Twin Cities Qamaria, opened in 2025.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Ebreeq Coffee House",
+  "city": "Cleveland",
+  "state": "OH",
+  "address": "241 Euclid Ave, Cleveland, OH 44114, USA",
+  "lat": 41.4997,
+  "lng": -81.69183,
+  "rating": 4.8,
+  "reviews": 252,
+  "hours": {
+   "sun": [
+    "08:00",
+    "21:00"
+   ],
+   "mon": [
+    "08:00",
+    "21:00"
+   ],
+   "tue": [
+    "08:00",
+    "21:00"
+   ],
+   "wed": [
+    "08:00",
+    "21:00"
+   ],
+   "thu": [
+    "08:00",
+    "21:00"
+   ],
+   "fri": [
+    "08:00",
+    "21:00"
+   ],
+   "sat": [
+    "08:00",
+    "21:00"
+   ]
   },
-  {
-    "name": "Ebreeq Coffee House",
-    "city": "Cleveland",
-    "state": "OH",
-    "address": "200 Public Square #129, Cleveland, OH 44114",
-    "lat": 41.499,
-    "lng": -81.6915,
-    "rating": 4.7,
-    "reviews": 150,
-    "hours": {
-      "mon": [
-        "08:00",
-        "21:00"
-      ],
-      "tue": [
-        "08:00",
-        "21:00"
-      ],
-      "wed": [
-        "08:00",
-        "21:00"
-      ],
-      "thu": [
-        "08:00",
-        "21:00"
-      ],
-      "fri": [
-        "08:00",
-        "21:00"
-      ],
-      "sat": [
-        "08:00",
-        "21:00"
-      ],
-      "sun": [
-        "08:00",
-        "21:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni/Karak chai",
-        "price": 5.94
-      },
-      {
-        "item": "Mufawar",
-        "price": 5.94
-      },
-      {
-        "item": "Pumpkin adeni chai",
-        "price": 9.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "karak",
-      "yemeni",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Cleveland's first Yemeni cafe, inside the 200 Public Square tower."
+  "menu": [
+   {
+    "item": "Adeni/Karak chai",
+    "price": 5.94
+   },
+   {
+    "item": "Mufawar",
+    "price": 5.94
+   },
+   {
+    "item": "Pumpkin adeni chai",
+    "price": 9.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Cleveland's first Yemeni cafe, inside the 200 Public Square tower."
+ },
+ {
+  "name": "MOTW Coffee & Pastries",
+  "city": "Indianapolis",
+  "state": "IN",
+  "address": "4873 W 38th St, Indianapolis, IN 46254, USA",
+  "lat": 39.82307,
+  "lng": -86.24268,
+  "rating": 4.8,
+  "reviews": 693,
+  "hours": {
+   "sun": [
+    "09:00",
+    "21:30"
+   ],
+   "mon": [
+    "07:00",
+    "20:30"
+   ],
+   "tue": [
+    "07:00",
+    "20:30"
+   ],
+   "wed": [
+    "07:00",
+    "20:30"
+   ],
+   "thu": [
+    "07:00",
+    "20:30"
+   ],
+   "fri": [
+    "07:00",
+    "20:30"
+   ],
+   "sat": [
+    "09:00",
+    "21:30"
+   ]
   },
-  {
-    "name": "MOTW Coffee & Pastries",
-    "city": "Indianapolis",
-    "state": "IN",
-    "address": "4873 W 38th St, Indianapolis, IN 46254",
-    "lat": 39.8256,
-    "lng": -86.228,
-    "rating": 4.8,
-    "reviews": 700,
-    "hours": {
-      "mon": [
-        "07:00",
-        "20:30"
-      ],
-      "tue": [
-        "07:00",
-        "20:30"
-      ],
-      "wed": [
-        "07:00",
-        "20:30"
-      ],
-      "thu": [
-        "07:00",
-        "20:30"
-      ],
-      "fri": [
-        "07:00",
-        "20:30"
-      ],
-      "sat": [
-        "09:00",
-        "21:30"
-      ],
-      "sun": [
-        "09:00",
-        "21:30"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Yemeni chai",
-        "price": 5.25
-      },
-      {
-        "item": "Specialty latte",
-        "price": 6.5
-      },
-      {
-        "item": "Baklava",
-        "price": 4.5
-      },
-      {
-        "item": "Basboosa",
-        "price": 4.5
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Ask anyone in Indy where the best Yemeni chai is.",
-    "priceEstimated": true
-  }
+  "menu": [
+   {
+    "item": "Yemeni chai",
+    "price": 5.25
+   },
+   {
+    "item": "Specialty latte",
+    "price": 6.5
+   },
+   {
+    "item": "Baklava",
+    "price": 4.5
+   },
+   {
+    "item": "Basboosa",
+    "price": 4.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Ask anyone in Indy where the best Yemeni chai is.",
+  "priceEstimated": true
+ }
 ]

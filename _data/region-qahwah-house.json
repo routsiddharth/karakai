@@ -1,31 +1,1902 @@
-[{"name":"Qahwah House","city":"Dearborn","state":"MI","country":"US","currency":"USD","address":"6655 Schaefer Rd, Dearborn, MI 48126","lat":42.3344,"lng":-83.1539,"rating":4.6,"reviews":293,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"note":"The original Qahwah House, opened in 2017."},
-{"name":"Qahwah House — West Dearborn","city":"Dearborn","state":"MI","country":"US","currency":"USD","address":"22000 Michigan Ave, Dearborn, MI 48124","lat":42.3110,"lng":-83.2410,"rating":4.6,"reviews":120,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Mofawar","price":6.0},{"item":"Bint al Sahn","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"On Michigan Avenue in west Dearborn."},
-{"name":"Qahwah House — The Canteen","city":"Dearborn","state":"MI","country":"US","currency":"USD","address":"720 Town Center Dr, Dearborn, MI 48126","lat":42.3220,"lng":-83.1760,"rating":4.5,"reviews":60,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Yemeni latte","price":6.0},{"item":"Sabaya with honey","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"Smaller cafe format at Dearborn Town Center."},
-{"name":"Qahwah House","city":"Canton","state":"MI","country":"US","currency":"USD","address":"42051 Ford Rd, Canton, MI 48187","lat":42.3260,"lng":-83.4520,"rating":4.6,"reviews":90,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"On Ford Road in Canton."},
-{"name":"Qahwah House","city":"Dearborn Heights","state":"MI","country":"US","currency":"USD","address":"26713 Ford Rd, Dearborn Heights, MI 48127","lat":42.3290,"lng":-83.3110,"rating":4.5,"reviews":70,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Mofawar","price":6.0},{"item":"Bint al Sahn","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"On Ford Road in Dearborn Heights."},
-{"name":"Qahwah House","city":"Ann Arbor","state":"MI","country":"US","currency":"USD","address":"211 N Maple Rd, Ann Arbor, MI 48103","lat":42.2870,"lng":-83.7790,"rating":4.5,"reviews":80,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"Serves Ann Arbor on North Maple Road."},
-{"name":"Qahwah House","city":"West Bloomfield","state":"MI","country":"US","currency":"USD","address":"33260 W 14 Mile Rd, West Bloomfield Township, MI 48322","lat":42.5260,"lng":-83.3870,"rating":4.5,"reviews":60,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Yemeni latte","price":6.0},{"item":"Bint al Sahn","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"On West 14 Mile Road in West Bloomfield."},
-{"name":"Qahwah House","city":"Grand Rapids","state":"MI","country":"US","currency":"USD","address":"2107 E Beltline Ave NE, Grand Rapids, MI 49525","lat":42.9970,"lng":-85.5900,"rating":4.5,"reviews":70,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"West Michigan location on the East Beltline."},
-{"name":"Qahwah House","city":"Sterling Heights","state":"MI","country":"US","currency":"USD","address":"3743 15 Mile Rd, Sterling Heights, MI 48310","lat":42.5450,"lng":-83.0540,"rating":4.5,"reviews":60,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Mofawar","price":6.0},{"item":"Bint al Sahn","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"On 15 Mile Road in Sterling Heights."},
-{"name":"Qahwah House","city":"Lombard","state":"IL","country":"US","currency":"USD","address":"406 E Roosevelt Rd, Lombard, IL 60148","lat":41.8600,"lng":-88.0030,"rating":4.5,"reviews":150,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"Chicago-area location in Lombard."},
-{"name":"Qahwah House","city":"Skokie","state":"IL","country":"US","currency":"USD","address":"5238 Touhy Ave, Skokie, IL 60077","lat":42.0120,"lng":-87.7340,"rating":4.5,"reviews":80,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Mofawar","price":6.0},{"item":"Bint al Sahn","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"On Touhy Avenue in Skokie."},
-{"name":"Qahwah House","city":"Columbus","state":"OH","country":"US","currency":"USD","address":"189 E Main St, Columbus, OH 43215","lat":39.9590,"lng":-82.9930,"rating":4.6,"reviews":82,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"Downtown Columbus on East Main Street."},
-{"name":"Qahwah House","city":"Hilliard","state":"OH","country":"US","currency":"USD","address":"4457 Trueman Blvd, Hilliard, OH 43026","lat":40.0330,"lng":-83.1360,"rating":null,"reviews":null,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Mofawar","price":6.0},{"item":"Bint al Sahn","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"Second Columbus-area store in TruePointe."},
-{"name":"Qahwah House — North Olmsted","city":"North Olmsted","state":"OH","country":"US","currency":"USD","address":"25102 Brookpark Rd #146, North Olmsted, OH 44070","lat":41.4180,"lng":-81.8990,"rating":4.5,"reviews":70,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.0}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"Greater Cleveland location on Brookpark Road."},
-{"name":"Qahwah House — Williamsburg","city":"Brooklyn","state":"NY","country":"US","currency":"USD","address":"162 Bedford Ave, Brooklyn, NY 11211","lat":40.7180,"lng":-73.9570,"rating":4.4,"reviews":537,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":6.0},{"item":"Qishr","price":5.5},{"item":"Sabaya with honey","price":8.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"Williamsburg location on Bedford Avenue."},
-{"name":"Qahwah House — Bay Ridge","city":"Brooklyn","state":"NY","country":"US","currency":"USD","address":"8602 4th Ave, Brooklyn, NY 11209","lat":40.6230,"lng":-74.0290,"rating":4.5,"reviews":100,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":6.0},{"item":"Mofawar","price":6.5},{"item":"Bint al Sahn","price":8.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"Bay Ridge location on 4th Avenue."},
-{"name":"Qahwah House — West Village","city":"New York","state":"NY","country":"US","currency":"USD","address":"13 Carmine St, New York, NY 10014","lat":40.7300,"lng":-74.0030,"rating":4.4,"reviews":120,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":6.0},{"item":"Qishr","price":5.5},{"item":"Sabaya with honey","price":8.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"West Village location on Carmine Street."},
-{"name":"Qahwah House — Morningside Heights","city":"New York","state":"NY","country":"US","currency":"USD","address":"2869 Broadway, New York, NY 10025","lat":40.8090,"lng":-73.9640,"rating":4.4,"reviews":90,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":6.0},{"item":"Mofawar","price":6.5},{"item":"Bint al Sahn","price":8.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"Morningside Heights on Broadway near Columbia."},
-{"name":"Qahwah House — Astoria","city":"Queens","state":"NY","country":"US","currency":"USD","address":"2237 31st St, Astoria, NY 11105","lat":40.7740,"lng":-73.9150,"rating":4.5,"reviews":80,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":6.0},{"item":"Qishr","price":5.5},{"item":"Sabaya with honey","price":8.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"Astoria location on 31st Street in Queens."},
-{"name":"Qahwah House — Westbury","city":"Westbury","state":"NY","country":"US","currency":"USD","address":"541 Old Country Rd, Westbury, NY 11590","lat":40.7510,"lng":-73.5860,"rating":4.5,"reviews":105,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":6.0},{"item":"Mofawar","price":6.5},{"item":"Bint al Sahn","price":8.0}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"Long Island location on Old Country Road."},
-{"name":"Qahwah House — Collegetown","city":"Ithaca","state":"NY","country":"US","currency":"USD","address":"139 Dryden Rd, Ithaca, NY 14850","lat":42.4420,"lng":-76.4830,"rating":null,"reviews":null,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":6.0},{"item":"Qishr","price":5.5},{"item":"Sabaya with honey","price":8.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"Collegetown spot near Cornell, opened February 2026."},
-{"name":"Qahwah House","city":"Clifton","state":"NJ","country":"US","currency":"USD","address":"441 Crooks Ave, Clifton, NJ 07011","lat":40.8680,"lng":-74.1490,"rating":4.5,"reviews":90,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":6.0},{"item":"Qishr","price":5.5},{"item":"Sabaya with honey","price":8.0}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"On Crooks Avenue in Clifton."},
-{"name":"Qahwah House","city":"Montclair","state":"NJ","country":"US","currency":"USD","address":"493 Bloomfield Ave, Montclair, NJ 07042","lat":40.8120,"lng":-74.2200,"rating":4.5,"reviews":70,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":6.0},{"item":"Mofawar","price":6.5},{"item":"Bint al Sahn","price":8.0}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"On Bloomfield Avenue in Montclair."},
-{"name":"Qahwah House","city":"Sugar Land","state":"TX","country":"US","currency":"USD","address":"232 Hwy 6, Sugar Land, TX 77479","lat":29.6020,"lng":-95.6350,"rating":4.5,"reviews":90,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.5}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"Houston-area location on Highway 6."},
-{"name":"Qahwah House","city":"McKinney","state":"TX","country":"US","currency":"USD","address":"8880 State Hwy 121 Suite 164, McKinney, TX 75070","lat":33.1750,"lng":-96.7090,"rating":4.5,"reviews":41,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Mofawar","price":6.0},{"item":"Bint al Sahn","price":7.5}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"Dallas-area location on State Highway 121."},
-{"name":"Qahwah House","city":"Leander","state":"TX","country":"US","currency":"USD","address":"14300 Ronald Reagan Blvd, Leander, TX 78641","lat":30.5470,"lng":-97.8270,"rating":null,"reviews":null,"hours":{"mon":["07:00","24:00"],"tue":["07:00","24:00"],"wed":["07:00","24:00"],"thu":["07:00","24:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","24:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.5}],"tags":["adeni","karak","yemeni","cafe","dessert","late-night"],"priceEstimated":true,"note":"Austin-area location on Ronald Reagan Boulevard."},
-{"name":"Qahwah House","city":"Minneapolis","state":"MN","country":"US","currency":"USD","address":"1851 Central Ave NE, Minneapolis, MN 55418","lat":45.0090,"lng":-93.2470,"rating":4.6,"reviews":120,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.5}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"On Central Avenue NE in Northeast Minneapolis."},
-{"name":"Qahwah House","city":"Oak Creek","state":"WI","country":"US","currency":"USD","address":"7981 S 6th St, Oak Creek, WI 53154","lat":42.9210,"lng":-87.9470,"rating":4.6,"reviews":80,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Mofawar","price":6.0},{"item":"Bint al Sahn","price":7.5}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"Milwaukee-area location on South 6th Street."},
-{"name":"Qahwah House","city":"Charlotte","state":"NC","country":"US","currency":"USD","address":"1318 Pecan Ave Suite 101, Charlotte, NC 28205","lat":35.2160,"lng":-80.8050,"rating":4.5,"reviews":90,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.5}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"Plaza Midwood location on Pecan Avenue."},
-{"name":"Qahwah House","city":"Fishers","state":"IN","country":"US","currency":"USD","address":"11680 Commercial Dr #800, Fishers, IN 46038","lat":39.9550,"lng":-86.0150,"rating":4.6,"reviews":43,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Mofawar","price":6.0},{"item":"Bint al Sahn","price":7.5}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"Indianapolis-area location in Fishers."},
-{"name":"Qahwah House","city":"Richmond","state":"VA","country":"US","currency":"USD","address":"1601 Willow Lawn Dr, Richmond, VA 23230","lat":37.5810,"lng":-77.4960,"rating":null,"reviews":null,"hours":{"mon":["07:00","23:00"],"tue":["07:00","23:00"],"wed":["07:00","23:00"],"thu":["07:00","23:00"],"fri":["07:00","24:00"],"sat":["07:00","24:00"],"sun":["07:00","23:00"]},"menu":[{"item":"Adeni chai","price":5.5},{"item":"Qishr","price":5.0},{"item":"Sabaya with honey","price":7.5}],"tags":["adeni","karak","yemeni","cafe","dessert"],"priceEstimated":true,"note":"Richmond location serving central Virginia."}]
+[
+ {
+  "name": "Qahwah House",
+  "city": "Dearborn",
+  "state": "MI",
+  "country": "US",
+  "currency": "USD",
+  "address": "5320 Oakman Blvd, Dearborn, MI 48126, USA",
+  "lat": 42.32728,
+  "lng": -83.16842,
+  "rating": 4.6,
+  "reviews": 293,
+  "hours": {
+   "mon": [
+    "07:00",
+    "24:00"
+   ],
+   "tue": [
+    "07:00",
+    "24:00"
+   ],
+   "wed": [
+    "07:00",
+    "24:00"
+   ],
+   "thu": [
+    "07:00",
+    "24:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "07:00",
+    "24:00"
+   ],
+   "sun": [
+    "07:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "note": "The original Qahwah House, opened in 2017."
+ },
+ {
+  "name": "Qahwah House — West Dearborn",
+  "city": "Dearborn",
+  "state": "MI",
+  "country": "US",
+  "currency": "USD",
+  "address": "22000 Michigan Ave, Dearborn, MI 48124, USA",
+  "lat": 42.30626,
+  "lng": -83.24444,
+  "rating": 4.7,
+  "reviews": 1442,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "07:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.0
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "On Michigan Avenue in west Dearborn."
+ },
+ {
+  "name": "Qahwah House — The Canteen",
+  "city": "Dearborn",
+  "state": "MI",
+  "country": "US",
+  "currency": "USD",
+  "address": "720 Town Center Dr, Dearborn, MI 48126, USA",
+  "lat": 42.31346,
+  "lng": -83.2259,
+  "rating": 4.2,
+  "reviews": 29,
+  "hours": {
+   "sun": [
+    "12:00",
+    "22:00"
+   ],
+   "mon": [
+    "11:00",
+    "23:00"
+   ],
+   "tue": [
+    "11:00",
+    "23:00"
+   ],
+   "wed": [
+    "11:00",
+    "23:00"
+   ],
+   "thu": [
+    "11:00",
+    "23:00"
+   ],
+   "fri": [
+    "11:00",
+    "24:00"
+   ],
+   "sat": [
+    "12:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Yemeni latte",
+    "price": 6.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "Smaller cafe format at Dearborn Town Center."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Canton",
+  "state": "MI",
+  "country": "US",
+  "currency": "USD",
+  "address": "42051 Ford Rd, Canton Township, MI 48187, USA",
+  "lat": 42.32146,
+  "lng": -83.45645,
+  "rating": 4.4,
+  "reviews": 474,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "24:00"
+   ],
+   "sat": [
+    "08:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "On Ford Road in Canton."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Dearborn Heights",
+  "state": "MI",
+  "country": "US",
+  "currency": "USD",
+  "address": "26713 Ford Rd, Dearborn Heights, MI 48127, USA",
+  "lat": 42.32588,
+  "lng": -83.3035,
+  "rating": 4.6,
+  "reviews": 232,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "08:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.0
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "On Ford Road in Dearborn Heights."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "country": "US",
+  "currency": "USD",
+  "address": "211 N Maple Rd, Ann Arbor, MI 48103, USA",
+  "lat": 42.28354,
+  "lng": -83.78157,
+  "rating": 4.3,
+  "reviews": 163,
+  "hours": {
+   "sun": [
+    "09:00",
+    "22:00"
+   ],
+   "mon": [
+    "08:00",
+    "22:00"
+   ],
+   "tue": [
+    "08:00",
+    "22:00"
+   ],
+   "wed": [
+    "08:00",
+    "22:00"
+   ],
+   "thu": [
+    "08:00",
+    "22:00"
+   ],
+   "fri": [
+    "08:00",
+    "23:00"
+   ],
+   "sat": [
+    "09:00",
+    "23:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "Serves Ann Arbor on North Maple Road."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "West Bloomfield",
+  "state": "MI",
+  "country": "US",
+  "currency": "USD",
+  "address": "33260 W 14 Mile Rd, West Bloomfield Township, MI 48322, USA",
+  "lat": 42.52895,
+  "lng": -83.37823,
+  "rating": 4.4,
+  "reviews": 216,
+  "hours": {
+   "sun": [
+    "08:00",
+    "22:00"
+   ],
+   "mon": [
+    "07:00",
+    "22:00"
+   ],
+   "tue": [
+    "07:00",
+    "22:00"
+   ],
+   "wed": [
+    "07:00",
+    "22:00"
+   ],
+   "thu": [
+    "07:00",
+    "22:00"
+   ],
+   "fri": [
+    "07:00",
+    "22:00"
+   ],
+   "sat": [
+    "08:00",
+    "23:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Yemeni latte",
+    "price": 6.0
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "On West 14 Mile Road in West Bloomfield."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "country": "US",
+  "currency": "USD",
+  "address": "2107 E Beltline Ave NE Ste A, Grand Rapids, MI 49525, USA",
+  "lat": 43.0009,
+  "lng": -85.59112,
+  "rating": 4.8,
+  "reviews": 303,
+  "hours": {
+   "sun": [
+    "07:00",
+    "22:00"
+   ],
+   "mon": [
+    "07:00",
+    "22:00"
+   ],
+   "tue": [
+    "07:00",
+    "22:00"
+   ],
+   "wed": [
+    "07:00",
+    "22:00"
+   ],
+   "thu": [
+    "07:00",
+    "22:00"
+   ],
+   "fri": [
+    "07:00",
+    "23:00"
+   ],
+   "sat": [
+    "07:00",
+    "23:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "West Michigan location on the East Beltline."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Sterling Heights",
+  "state": "MI",
+  "country": "US",
+  "currency": "USD",
+  "address": "3743 15 Mile Rd, Sterling Heights, MI 48310, USA",
+  "lat": 42.5524,
+  "lng": -83.07116,
+  "rating": 4.2,
+  "reviews": 173,
+  "hours": {
+   "sun": [
+    "08:30",
+    "23:00"
+   ],
+   "mon": [
+    "08:30",
+    "23:00"
+   ],
+   "tue": [
+    "08:30",
+    "23:00"
+   ],
+   "wed": [
+    "08:30",
+    "23:00"
+   ],
+   "thu": [
+    "08:30",
+    "23:00"
+   ],
+   "fri": [
+    "08:30",
+    "24:00"
+   ],
+   "sat": [
+    "08:30",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.0
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "On 15 Mile Road in Sterling Heights."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Lombard",
+  "state": "IL",
+  "country": "US",
+  "currency": "USD",
+  "address": "406 E Roosevelt Rd, Lombard, IL 60148, USA",
+  "lat": 41.86089,
+  "lng": -88.00737,
+  "rating": 4.5,
+  "reviews": 2145,
+  "hours": {
+   "sun": [
+    "08:00",
+    "24:00"
+   ],
+   "mon": [
+    "07:00",
+    "24:00"
+   ],
+   "tue": [
+    "07:00",
+    "24:00"
+   ],
+   "wed": [
+    "07:00",
+    "24:00"
+   ],
+   "thu": [
+    "07:00",
+    "24:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "Chicago-area location in Lombard."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Skokie",
+  "state": "IL",
+  "country": "US",
+  "currency": "USD",
+  "address": "5238 W Touhy Ave, Skokie, IL 60077, USA",
+  "lat": 42.0124,
+  "lng": -87.75919,
+  "rating": 4.4,
+  "reviews": 965,
+  "hours": {
+   "sun": [
+    "09:00",
+    "24:00"
+   ],
+   "mon": [
+    "07:00",
+    "24:00"
+   ],
+   "tue": [
+    "07:00",
+    "24:00"
+   ],
+   "wed": [
+    "07:00",
+    "24:00"
+   ],
+   "thu": [
+    "07:00",
+    "24:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "09:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.0
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "On Touhy Avenue in Skokie."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Columbus",
+  "state": "OH",
+  "country": "US",
+  "currency": "USD",
+  "address": "189 E Main St, Columbus, OH 43215, USA",
+  "lat": 39.95662,
+  "lng": -82.99424,
+  "rating": 4.8,
+  "reviews": 758,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:30",
+    "23:00"
+   ],
+   "wed": [
+    "07:30",
+    "23:00"
+   ],
+   "thu": [
+    "07:30",
+    "23:00"
+   ],
+   "fri": [
+    "07:30",
+    "24:00"
+   ],
+   "sat": [
+    "08:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "Downtown Columbus on East Main Street."
+ },
+ {
+  "name": "Qahwah House — North Olmsted",
+  "city": "North Olmsted",
+  "state": "OH",
+  "country": "US",
+  "currency": "USD",
+  "address": "25102 Brookpark Rd #146, North Olmsted, OH 44070, USA",
+  "lat": 41.41943,
+  "lng": -81.89954,
+  "rating": 4.8,
+  "reviews": 469,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "07:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "Greater Cleveland location on Brookpark Road."
+ },
+ {
+  "name": "Qahwah House — Williamsburg",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "162 Bedford Ave, Brooklyn, NY 11211, USA",
+  "lat": 40.71858,
+  "lng": -73.95719,
+  "rating": 4.7,
+  "reviews": 2288,
+  "hours": {
+   "sun": [
+    "07:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "07:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.0
+   },
+   {
+    "item": "Qishr",
+    "price": 5.5
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "Williamsburg location on Bedford Avenue."
+ },
+ {
+  "name": "Qahwah House — Bay Ridge",
+  "city": "Brooklyn",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "8602 4th Ave, Brooklyn, NY 11209, USA",
+  "lat": 40.62273,
+  "lng": -74.02865,
+  "rating": 4.7,
+  "reviews": 433,
+  "hours": {
+   "sun": [
+    "07:00",
+    "23:00"
+   ],
+   "mon": [
+    "06:00",
+    "23:00"
+   ],
+   "tue": [
+    "06:00",
+    "23:00"
+   ],
+   "wed": [
+    "06:00",
+    "23:00"
+   ],
+   "thu": [
+    "06:00",
+    "23:00"
+   ],
+   "fri": [
+    "06:00",
+    "01:00"
+   ],
+   "sat": [
+    "07:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.0
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.5
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "Bay Ridge location on 4th Avenue."
+ },
+ {
+  "name": "Qahwah House — West Village",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "13 Carmine St, New York, NY 10014, USA",
+  "lat": 40.7305,
+  "lng": -74.00234,
+  "rating": 4.7,
+  "reviews": 915,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.0
+   },
+   {
+    "item": "Qishr",
+    "price": 5.5
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "West Village location on Carmine Street."
+ },
+ {
+  "name": "Qahwah House — Morningside Heights",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "2869 Broadway, New York, NY 10025, USA",
+  "lat": 40.80523,
+  "lng": -73.96638,
+  "rating": 4.8,
+  "reviews": 607,
+  "hours": {
+   "sun": [
+    "07:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "07:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.0
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.5
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "Morningside Heights on Broadway near Columbia."
+ },
+ {
+  "name": "Qahwah House — Astoria",
+  "city": "Queens",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "22-37 31st St, Astoria, NY 11105, USA",
+  "lat": 40.77524,
+  "lng": -73.91155,
+  "rating": 4.8,
+  "reviews": 949,
+  "hours": {
+   "sun": [
+    "07:00",
+    "24:00"
+   ],
+   "mon": [
+    "07:00",
+    "24:00"
+   ],
+   "tue": [
+    "07:00",
+    "24:00"
+   ],
+   "wed": [
+    "07:00",
+    "24:00"
+   ],
+   "thu": [
+    "07:00",
+    "24:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "07:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.0
+   },
+   {
+    "item": "Qishr",
+    "price": 5.5
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "Astoria location on 31st Street in Queens."
+ },
+ {
+  "name": "Qahwah House — Westbury",
+  "city": "Westbury",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "541 Old Country Rd, Westbury, NY 11590, USA",
+  "lat": 40.74732,
+  "lng": -73.59332,
+  "rating": 4.5,
+  "reviews": 922,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.0
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.5
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "Long Island location on Old Country Road."
+ },
+ {
+  "name": "Qahwah House — Collegetown",
+  "city": "Ithaca",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "139 Dryden Rd, Ithaca, NY 14850, USA",
+  "lat": 42.44144,
+  "lng": -76.4861,
+  "rating": 4.9,
+  "reviews": 102,
+  "hours": {
+   "sun": [
+    "08:00",
+    "24:00"
+   ],
+   "mon": [
+    "08:00",
+    "24:00"
+   ],
+   "tue": [
+    "08:00",
+    "24:00"
+   ],
+   "wed": [
+    "08:00",
+    "24:00"
+   ],
+   "thu": [
+    "08:00",
+    "24:00"
+   ],
+   "fri": [
+    "08:00",
+    "24:00"
+   ],
+   "sat": [
+    "08:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.0
+   },
+   {
+    "item": "Qishr",
+    "price": 5.5
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "Collegetown spot near Cornell, opened February 2026."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Clifton",
+  "state": "NJ",
+  "country": "US",
+  "currency": "USD",
+  "address": "441 Crooks Ave, Clifton, NJ 07011, USA",
+  "lat": 40.89025,
+  "lng": -74.14982,
+  "rating": 4.7,
+  "reviews": 1047,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.0
+   },
+   {
+    "item": "Qishr",
+    "price": 5.5
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "On Crooks Avenue in Clifton."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Montclair",
+  "state": "NJ",
+  "country": "US",
+  "currency": "USD",
+  "address": "493 Bloomfield Ave, Montclair, NJ 07042, USA",
+  "lat": 40.81466,
+  "lng": -74.21812,
+  "rating": 4.8,
+  "reviews": 319,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "10:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.0
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.5
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "On Bloomfield Avenue in Montclair."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Sugar Land",
+  "state": "TX",
+  "country": "US",
+  "currency": "USD",
+  "address": "232 Hwy 6, Sugar Land, TX 77478, USA",
+  "lat": 29.61111,
+  "lng": -95.64871,
+  "rating": 4.6,
+  "reviews": 887,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "07:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "Houston-area location on Highway 6."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "McKinney",
+  "state": "TX",
+  "country": "US",
+  "currency": "USD",
+  "address": "8880 State Hwy 121 Ste 164, McKinney, TX 75070, USA",
+  "lat": 33.12753,
+  "lng": -96.72979,
+  "rating": 4.7,
+  "reviews": 802,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "24:00"
+   ],
+   "sat": [
+    "08:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.0
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 7.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "Dallas-area location on State Highway 121."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Leander",
+  "state": "TX",
+  "country": "US",
+  "currency": "USD",
+  "address": "14300 Ronald Reagan Blvd Suite 305 & 306, Leander, TX 78641, USA",
+  "lat": 30.54843,
+  "lng": -97.79307,
+  "rating": 4.6,
+  "reviews": 254,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "07:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "priceEstimated": true,
+  "note": "Austin-area location on Ronald Reagan Boulevard."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Minneapolis",
+  "state": "MN",
+  "country": "US",
+  "currency": "USD",
+  "address": "1851 Central Ave NE, Minneapolis, MN 55418, USA",
+  "lat": 45.00775,
+  "lng": -93.24706,
+  "rating": 4.7,
+  "reviews": 408,
+  "hours": {
+   "sun": [
+    "08:00",
+    "24:00"
+   ],
+   "mon": [
+    "07:00",
+    "24:00"
+   ],
+   "tue": [
+    "07:00",
+    "24:00"
+   ],
+   "wed": [
+    "07:00",
+    "24:00"
+   ],
+   "thu": [
+    "07:00",
+    "24:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "08:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "On Central Avenue NE in Northeast Minneapolis."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Oak Creek",
+  "state": "WI",
+  "country": "US",
+  "currency": "USD",
+  "address": "7981 S 6th St, Oak Creek, WI 53154, USA",
+  "lat": 42.89959,
+  "lng": -87.9186,
+  "rating": 4.6,
+  "reviews": 285,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.0
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 7.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "Milwaukee-area location on South 6th Street."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Charlotte",
+  "state": "NC",
+  "country": "US",
+  "currency": "USD",
+  "address": "1318 Pecan Ave, Charlotte, NC 28205, USA",
+  "lat": 35.221,
+  "lng": -80.81321,
+  "rating": 4.9,
+  "reviews": 694,
+  "hours": {
+   "sun": [
+    "07:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "07:00",
+    "24:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr",
+    "price": 5.0
+   },
+   {
+    "item": "Sabaya with honey",
+    "price": 7.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "Plaza Midwood location on Pecan Avenue."
+ },
+ {
+  "name": "Qahwah House",
+  "city": "Fishers",
+  "state": "IN",
+  "country": "US",
+  "currency": "USD",
+  "address": "11680 Commercial Dr #800, Fishers, IN 46038, USA",
+  "lat": 39.95927,
+  "lng": -86.01289,
+  "rating": 4.6,
+  "reviews": 301,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Mofawar",
+    "price": 6.0
+   },
+   {
+    "item": "Bint al Sahn",
+    "price": 7.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "karak",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "priceEstimated": true,
+  "note": "Indianapolis-area location in Fishers."
+ }
+]

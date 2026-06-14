@@ -1,771 +1,776 @@
 [
-  {
-    "name": "Kolkata Chai Co",
-    "city": "New York",
-    "state": "NY",
-    "address": "199 E 3rd St, New York, NY 10009",
-    "lat": 40.722915,
-    "lng": -73.983235,
-    "rating": 4.6,
-    "reviews": 900,
-    "hours": {
-      "mon": null,
-      "tue": [
-        "09:00",
-        "19:00"
-      ],
-      "wed": [
-        "09:00",
-        "19:00"
-      ],
-      "thu": [
-        "09:00",
-        "19:00"
-      ],
-      "fri": [
-        "09:00",
-        "19:00"
-      ],
-      "sat": [
-        "09:00",
-        "19:00"
-      ],
-      "sun": [
-        "09:00",
-        "17:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Masala chai",
-        "price": 5.0
-      },
-      {
-        "item": "Iced masala chai",
-        "price": 6.0
-      },
-      {
-        "item": "Samosa",
-        "price": 4.0
-      },
-      {
-        "item": "Kathi roll",
-        "price": 9.5
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "cafe"
-    ],
-    "note": "Two brothers doing Kolkata street-stall chai in the East Village.",
-    "priceEstimated": true
+ {
+  "name": "Kolkata Chai Co",
+  "city": "New York",
+  "state": "NY",
+  "address": "199 E 3rd St, New York, NY 10009, USA",
+  "lat": 40.72285,
+  "lng": -73.98312,
+  "rating": 4.4,
+  "reviews": 559,
+  "hours": {
+   "sun": [
+    "09:00",
+    "17:00"
+   ],
+   "tue": [
+    "09:00",
+    "19:00"
+   ],
+   "wed": [
+    "09:00",
+    "19:00"
+   ],
+   "thu": [
+    "09:00",
+    "19:00"
+   ],
+   "fri": [
+    "09:00",
+    "19:00"
+   ],
+   "sat": [
+    "09:00",
+    "19:00"
+   ]
   },
-  {
-    "name": "The Chai Spot",
-    "city": "New York",
-    "state": "NY",
-    "address": "156 Mott St, New York, NY 10013",
-    "lat": 40.719417,
-    "lng": -73.996053,
-    "rating": 4.8,
-    "reviews": 400,
-    "hours": {
-      "mon": null,
-      "tue": null,
-      "wed": [
-        "15:00",
-        "22:00"
-      ],
-      "thu": [
-        "15:00",
-        "22:00"
-      ],
-      "fri": [
-        "15:00",
-        "22:00"
-      ],
-      "sat": [
-        "12:00",
-        "22:00"
-      ],
-      "sun": [
-        "12:00",
-        "22:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Classic cardamom chai",
-        "price": 6.0
-      },
-      {
-        "item": "Kashmiri butter chai",
-        "price": 7.0
-      },
-      {
-        "item": "Coconut rose chai",
-        "price": 6.5
-      },
-      {
-        "item": "Veggie samosa",
-        "price": 5.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "pakistani",
-      "cafe"
-    ],
-    "note": "Floor cushions in Nolita. Profits fund schools in Pakistan.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Masala chai",
+    "price": 5.0
+   },
+   {
+    "item": "Iced masala chai",
+    "price": 6.0
+   },
+   {
+    "item": "Samosa",
+    "price": 4.0
+   },
+   {
+    "item": "Kathi roll",
+    "price": 9.5
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "cafe"
+  ],
+  "note": "Two brothers doing Kolkata street-stall chai in the East Village.",
+  "priceEstimated": true
+ },
+ {
+  "name": "The Chai Spot",
+  "city": "New York",
+  "state": "NY",
+  "address": "156 Mott St, New York, NY 10013, USA",
+  "lat": 40.71946,
+  "lng": -73.99616,
+  "rating": 3.9,
+  "reviews": 1230,
+  "hours": {
+   "sun": [
+    "10:00",
+    "22:00"
+   ],
+   "mon": [
+    "10:00",
+    "22:00"
+   ],
+   "tue": [
+    "13:00",
+    "20:00"
+   ],
+   "wed": [
+    "10:00",
+    "22:00"
+   ],
+   "thu": [
+    "10:00",
+    "22:00"
+   ],
+   "fri": [
+    "10:00",
+    "22:00"
+   ],
+   "sat": [
+    "10:00",
+    "22:00"
+   ]
   },
-  {
-    "name": "Qahwah Valley Cafe",
-    "city": "Jackson Heights",
-    "state": "NY",
-    "address": "75-15 37th Ave, Jackson Heights, NY 11372",
-    "lat": 40.748857,
-    "lng": -73.892899,
-    "rating": 4.6,
-    "reviews": 200,
-    "hours": {
-      "mon": [
-        "08:00",
-        "23:00"
-      ],
-      "tue": [
-        "08:00",
-        "23:00"
-      ],
-      "wed": [
-        "08:00",
-        "23:00"
-      ],
-      "thu": [
-        "08:00",
-        "23:00"
-      ],
-      "fri": [
-        "08:00",
-        "24:00"
-      ],
-      "sat": [
-        "08:00",
-        "24:00"
-      ],
-      "sun": [
-        "08:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 5.0
-      },
-      {
-        "item": "Spiced qahwah with evaporated milk",
-        "price": 5.5
-      },
-      {
-        "item": "Honeycomb bread",
-        "price": 5.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Independent spot on 37th Ave. Look up at the ceiling.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Classic cardamom chai",
+    "price": 6.0
+   },
+   {
+    "item": "Kashmiri butter chai",
+    "price": 7.0
+   },
+   {
+    "item": "Coconut rose chai",
+    "price": 6.5
+   },
+   {
+    "item": "Veggie samosa",
+    "price": 5.0
+   }
+  ],
+  "tags": [
+   "masala",
+   "pakistani",
+   "cafe"
+  ],
+  "note": "Floor cushions in Nolita. Profits fund schools in Pakistan.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Qahwah Valley Cafe",
+  "city": "Jackson Heights",
+  "state": "NY",
+  "address": "75-15 37th Ave, Jackson Heights, NY 11372, USA",
+  "lat": 40.74924,
+  "lng": -73.89023,
+  "rating": 4.6,
+  "reviews": 273,
+  "hours": {
+   "sun": [
+    "08:00",
+    "24:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "Pakiza Restaurant",
-    "city": "Brooklyn",
-    "state": "NY",
-    "address": "1032 Coney Island Ave, Brooklyn, NY 11230",
-    "lat": 40.632368,
-    "lng": -73.967134,
-    "rating": 3.9,
-    "reviews": 1100,
-    "hours": {
-      "mon": [
-        "00:00",
-        "24:00"
-      ],
-      "tue": [
-        "00:00",
-        "24:00"
-      ],
-      "wed": [
-        "00:00",
-        "24:00"
-      ],
-      "thu": [
-        "00:00",
-        "24:00"
-      ],
-      "fri": [
-        "00:00",
-        "24:00"
-      ],
-      "sat": [
-        "00:00",
-        "24:00"
-      ],
-      "sun": [
-        "00:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Doodh patti chai",
-        "price": 2.5
-      },
-      {
-        "item": "Kashmiri (pink) chai",
-        "price": 3.5
-      },
-      {
-        "item": "Seekh kebab",
-        "price": 4.0
-      },
-      {
-        "item": "Chicken biryani",
-        "price": 10.0
-      }
-    ],
-    "tags": [
-      "pakistani",
-      "24h",
-      "late-night",
-      "dessert"
-    ],
-    "note": "Little Pakistan canteen that never closes. Pink chai.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.0
+   },
+   {
+    "item": "Spiced qahwah with evaporated milk",
+    "price": 5.5
+   },
+   {
+    "item": "Honeycomb bread",
+    "price": 5.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Independent spot on 37th Ave. Look up at the ceiling.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Pakiza Restaurant",
+  "city": "Brooklyn",
+  "state": "NY",
+  "address": "1032 Coney Island Ave, Brooklyn, NY 11230, USA",
+  "lat": 40.6324,
+  "lng": -73.96706,
+  "rating": 3.9,
+  "reviews": 515,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Laree Adda",
-    "city": "Jersey City",
-    "state": "NJ",
-    "address": "287 Grove St, Jersey City, NJ 07302",
-    "lat": 40.718138,
-    "lng": -74.044042,
-    "rating": 4.3,
-    "reviews": 1200,
-    "hours": {
-      "mon": [
-        "09:00",
-        "23:30"
-      ],
-      "tue": [
-        "09:00",
-        "24:00"
-      ],
-      "wed": [
-        "09:00",
-        "24:00"
-      ],
-      "thu": [
-        "09:00",
-        "24:00"
-      ],
-      "fri": [
-        "09:00",
-        "24:00"
-      ],
-      "sat": [
-        "09:00",
-        "23:30"
-      ],
-      "sun": [
-        "09:00",
-        "22:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Doodh patti chai",
-        "price": 3.0
-      },
-      {
-        "item": "Kashmiri chai",
-        "price": 4.0
-      },
-      {
-        "item": "Chicken karahi",
-        "price": 15.0
-      }
-    ],
-    "tags": [
-      "pakistani",
-      "indian",
-      "late-night"
-    ],
-    "note": "Truck-stop dhaba energy on Grove Street.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Doodh patti chai",
+    "price": 2.5
+   },
+   {
+    "item": "Kashmiri (pink) chai",
+    "price": 3.5
+   },
+   {
+    "item": "Seekh kebab",
+    "price": 4.0
+   },
+   {
+    "item": "Chicken biryani",
+    "price": 10.0
+   }
+  ],
+  "tags": [
+   "pakistani",
+   "24h",
+   "late-night",
+   "dessert"
+  ],
+  "note": "Little Pakistan canteen that never closes. Pink chai.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Laree Adda",
+  "city": "Jersey City",
+  "state": "NJ",
+  "address": "287 Grove St, Jersey City, NJ 07302, USA",
+  "lat": 40.71815,
+  "lng": -74.04409,
+  "rating": 4.2,
+  "reviews": 2003,
+  "hours": {
+   "sun": [
+    "10:00",
+    "22:00"
+   ],
+   "mon": [
+    "10:00",
+    "23:30"
+   ],
+   "tue": [
+    "10:00",
+    "24:00"
+   ],
+   "wed": [
+    "10:00",
+    "24:00"
+   ],
+   "thu": [
+    "10:00",
+    "23:30"
+   ],
+   "fri": [
+    "12:00",
+    "24:00"
+   ],
+   "sat": [
+    "10:00",
+    "23:30"
+   ]
   },
-  {
-    "name": "Chai Chenak",
-    "city": "New Brunswick",
-    "state": "NJ",
-    "address": "349A George St, New Brunswick, NJ 08901",
-    "lat": 40.494543,
-    "lng": -74.443618,
-    "rating": 4.3,
-    "reviews": 350,
-    "hours": {
-      "mon": [
-        "16:00",
-        "24:00"
-      ],
-      "tue": [
-        "16:00",
-        "24:00"
-      ],
-      "wed": [
-        "16:00",
-        "24:00"
-      ],
-      "thu": [
-        "16:00",
-        "24:00"
-      ],
-      "fri": [
-        "16:00",
-        "01:00"
-      ],
-      "sat": [
-        "16:00",
-        "01:00"
-      ],
-      "sun": [
-        "16:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak chai",
-        "price": 3.5
-      },
-      {
-        "item": "Kashmiri chai",
-        "price": 4.5
-      },
-      {
-        "item": "Paratha roll",
-        "price": 9.0
-      }
-    ],
-    "tags": [
-      "pakistani",
-      "karak",
-      "dessert",
-      "late-night"
-    ],
-    "note": "Late-night desi chai lounge near Rutgers on George Street.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Doodh patti chai",
+    "price": 3.0
+   },
+   {
+    "item": "Kashmiri chai",
+    "price": 4.0
+   },
+   {
+    "item": "Chicken karahi",
+    "price": 15.0
+   }
+  ],
+  "tags": [
+   "pakistani",
+   "indian",
+   "late-night"
+  ],
+  "note": "Truck-stop dhaba energy on Grove Street.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Chai Chenak",
+  "city": "New Brunswick",
+  "state": "NJ",
+  "address": "349A George St, New Brunswick, NJ 08901, USA",
+  "lat": 40.49458,
+  "lng": -74.44364,
+  "rating": 4,
+  "reviews": 2465,
+  "hours": {
+   "sun": [
+    "11:00",
+    "22:00"
+   ],
+   "mon": [
+    "11:00",
+    "22:00"
+   ],
+   "tue": [
+    "11:00",
+    "22:00"
+   ],
+   "wed": [
+    "11:00",
+    "22:00"
+   ],
+   "thu": [
+    "11:00",
+    "22:00"
+   ],
+   "fri": [
+    "11:00",
+    "22:30"
+   ],
+   "sat": [
+    "11:00",
+    "22:30"
+   ]
   },
-  {
-    "name": "Karak Cha House",
-    "city": "Philadelphia",
-    "state": "PA",
-    "address": "4201 Chestnut St, Philadelphia, PA 19104",
-    "lat": 39.956522,
-    "lng": -75.206534,
-    "rating": 4.7,
-    "reviews": 300,
-    "hours": {
-      "mon": [
-        "15:00",
-        "24:00"
-      ],
-      "tue": [
-        "15:00",
-        "24:00"
-      ],
-      "wed": [
-        "15:00",
-        "24:00"
-      ],
-      "thu": [
-        "15:00",
-        "24:00"
-      ],
-      "fri": [
-        "15:00",
-        "24:00"
-      ],
-      "sat": [
-        "15:00",
-        "24:00"
-      ],
-      "sun": [
-        "15:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak chai",
-        "price": 4.99
-      },
-      {
-        "item": "Doodh patti",
-        "price": 3.99
-      },
-      {
-        "item": "Kashmiri chai",
-        "price": 4.99
-      },
-      {
-        "item": "Peshawari qahwa",
-        "price": 3.99
-      }
-    ],
-    "tags": [
-      "karak",
-      "pakistani",
-      "cafe",
-      "late-night",
-      "dessert"
-    ],
-    "note": "Kabobeesh's chai annex. Board games, open till midnight."
+  "menu": [
+   {
+    "item": "Karak chai",
+    "price": 3.5
+   },
+   {
+    "item": "Kashmiri chai",
+    "price": 4.5
+   },
+   {
+    "item": "Paratha roll",
+    "price": 9.0
+   }
+  ],
+  "tags": [
+   "pakistani",
+   "karak",
+   "dessert",
+   "late-night"
+  ],
+  "note": "Late-night desi chai lounge near Rutgers on George Street.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Karak Cha House",
+  "city": "Philadelphia",
+  "state": "PA",
+  "address": "3748 Lancaster Ave, Philadelphia, PA 19104, USA",
+  "lat": 39.95966,
+  "lng": -75.19687,
+  "rating": 4.5,
+  "reviews": 294,
+  "hours": {
+   "sun": [
+    "11:00",
+    "24:00"
+   ],
+   "mon": [
+    "11:00",
+    "23:00"
+   ],
+   "tue": [
+    "16:00",
+    "24:00"
+   ],
+   "wed": [
+    "16:00",
+    "24:00"
+   ],
+   "thu": [
+    "16:00",
+    "24:00"
+   ],
+   "fri": [
+    "11:00",
+    "24:00"
+   ],
+   "sat": [
+    "11:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Mood Cafe",
-    "city": "Philadelphia",
-    "state": "PA",
-    "address": "4618 Baltimore Ave, Philadelphia, PA 19143",
-    "lat": 39.948627,
-    "lng": -75.215798,
-    "rating": 4.7,
-    "reviews": 930,
-    "hours": {
-      "mon": [
-        "12:00",
-        "21:00"
-      ],
-      "tue": [
-        "12:00",
-        "21:00"
-      ],
-      "wed": [
-        "12:00",
-        "21:00"
-      ],
-      "thu": [
-        "12:00",
-        "21:00"
-      ],
-      "fri": [
-        "12:00",
-        "21:00"
-      ],
-      "sat": [
-        "12:00",
-        "21:00"
-      ],
-      "sun": [
-        "12:00",
-        "21:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak chai",
-        "price": 3.95
-      },
-      {
-        "item": "Kashmiri chai",
-        "price": 4.5
-      },
-      {
-        "item": "Mango lassi",
-        "price": 7.0
-      },
-      {
-        "item": "Samosa chaat",
-        "price": 8.0
-      }
-    ],
-    "tags": [
-      "pakistani",
-      "masala",
-      "karak",
-      "cafe",
-      "dessert"
-    ],
-    "note": "West Philly counter since 2011. Lassi and karak.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak chai",
+    "price": 4.99
+   },
+   {
+    "item": "Doodh patti",
+    "price": 3.99
+   },
+   {
+    "item": "Kashmiri chai",
+    "price": 4.99
+   },
+   {
+    "item": "Peshawari qahwa",
+    "price": 3.99
+   }
+  ],
+  "tags": [
+   "karak",
+   "pakistani",
+   "cafe",
+   "late-night",
+   "dessert"
+  ],
+  "note": "Kabobeesh's chai annex. Board games, open till midnight."
+ },
+ {
+  "name": "Mood Cafe",
+  "city": "Philadelphia",
+  "state": "PA",
+  "address": "4618 Baltimore Ave, Philadelphia, PA 19143, USA",
+  "lat": 39.94864,
+  "lng": -75.21584,
+  "rating": 4.7,
+  "reviews": 411,
+  "hours": {
+   "sun": [
+    "12:00",
+    "21:00"
+   ],
+   "mon": [
+    "12:00",
+    "21:00"
+   ],
+   "tue": [
+    "12:00",
+    "21:00"
+   ],
+   "wed": [
+    "12:00",
+    "21:00"
+   ],
+   "thu": [
+    "12:00",
+    "21:00"
+   ],
+   "fri": [
+    "12:00",
+    "21:00"
+   ],
+   "sat": [
+    "12:00",
+    "21:00"
+   ]
   },
-  {
-    "name": "Arwa Yemeni Coffee",
-    "city": "Brookline",
-    "state": "MA",
-    "address": "1333 Beacon St, Brookline, MA 02446",
-    "lat": 42.342158,
-    "lng": -71.121906,
-    "rating": 4.6,
-    "reviews": 120,
-    "hours": {
-      "mon": [
-        "07:00",
-        "22:00"
-      ],
-      "tue": [
-        "07:00",
-        "22:00"
-      ],
-      "wed": [
-        "07:00",
-        "22:00"
-      ],
-      "thu": [
-        "07:00",
-        "23:00"
-      ],
-      "fri": [
-        "07:00",
-        "01:00"
-      ],
-      "sat": [
-        "08:00",
-        "01:00"
-      ],
-      "sun": [
-        "09:00",
-        "20:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 5.25
-      },
-      {
-        "item": "Jubani coffee",
-        "price": 6.0
-      },
-      {
-        "item": "Pistachio latte",
-        "price": 6.75
-      },
-      {
-        "item": "Honeycomb bread",
-        "price": 5.5
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "late-night",
-      "dessert"
-    ],
-    "note": "Arwa's first Massachusetts shop, opened spring 2026.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak chai",
+    "price": 3.95
+   },
+   {
+    "item": "Kashmiri chai",
+    "price": 4.5
+   },
+   {
+    "item": "Mango lassi",
+    "price": 7.0
+   },
+   {
+    "item": "Samosa chaat",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "pakistani",
+   "masala",
+   "karak",
+   "cafe",
+   "dessert"
+  ],
+  "note": "West Philly counter since 2011. Lassi and karak.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Arwa Yemeni Coffee",
+  "city": "Brookline",
+  "state": "MA",
+  "address": "1333 Beacon St, Brookline, MA 02446, USA",
+  "lat": 42.34179,
+  "lng": -71.12153,
+  "rating": 4.6,
+  "reviews": 181,
+  "hours": {
+   "sun": [
+    "09:00",
+    "20:00"
+   ],
+   "mon": [
+    "07:00",
+    "22:00"
+   ],
+   "tue": [
+    "07:00",
+    "22:00"
+   ],
+   "wed": [
+    "07:00",
+    "22:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "Haraz Coffee House",
-    "city": "Fairfax",
-    "state": "VA",
-    "address": "11015 Lee Hwy, Fairfax, VA 22030",
-    "lat": 38.8537,
-    "lng": -77.3242,
-    "rating": 4.7,
-    "reviews": 350,
-    "hours": {
-      "mon": [
-        "09:30",
-        "23:00"
-      ],
-      "tue": [
-        "09:30",
-        "23:00"
-      ],
-      "wed": [
-        "09:30",
-        "23:00"
-      ],
-      "thu": [
-        "09:30",
-        "23:00"
-      ],
-      "fri": [
-        "09:30",
-        "23:00"
-      ],
-      "sat": [
-        "09:30",
-        "23:00"
-      ],
-      "sun": [
-        "09:30",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 5.75
-      },
-      {
-        "item": "Harazi mufawar",
-        "price": 6.5
-      },
-      {
-        "item": "Bee bites",
-        "price": 5.5
-      },
-      {
-        "item": "Istanbul cheesecake",
-        "price": 7.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "karak",
-      "cafe",
-      "dessert"
-    ],
-    "note": "First Haraz in the DC area.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.25
+   },
+   {
+    "item": "Jubani coffee",
+    "price": 6.0
+   },
+   {
+    "item": "Pistachio latte",
+    "price": 6.75
+   },
+   {
+    "item": "Honeycomb bread",
+    "price": 5.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "late-night",
+   "dessert"
+  ],
+  "note": "Arwa's first Massachusetts shop, opened spring 2026.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Haraz Coffee House",
+  "city": "Fairfax",
+  "state": "VA",
+  "address": "11015 Main St, Fairfax, VA 22030, USA",
+  "lat": 38.85204,
+  "lng": -77.32551,
+  "rating": 4.7,
+  "reviews": 1755,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "24:00"
+   ],
+   "sat": [
+    "09:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "FiLLi Cafe",
-    "city": "Chantilly",
-    "state": "VA",
-    "address": "13881 Metrotech Dr Unit G, Chantilly, VA 20151",
-    "lat": 38.894142,
-    "lng": -77.425067,
-    "rating": 4.6,
-    "reviews": 907,
-    "hours": {
-      "mon": [
-        "11:00",
-        "24:00"
-      ],
-      "tue": [
-        "11:00",
-        "24:00"
-      ],
-      "wed": [
-        "11:00",
-        "24:00"
-      ],
-      "thu": [
-        "11:00",
-        "24:00"
-      ],
-      "fri": [
-        "11:00",
-        "01:00"
-      ],
-      "sat": [
-        "11:00",
-        "01:00"
-      ],
-      "sun": [
-        "11:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Zafran karak chai",
-        "price": 4.95
-      },
-      {
-        "item": "Karak chai",
-        "price": 3.95
-      },
-      {
-        "item": "Bun maska",
-        "price": 4.0
-      },
-      {
-        "item": "Keema paratha",
-        "price": 9.0
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafe",
-      "indian",
-      "late-night",
-      "dessert"
-    ],
-    "note": "The zafran karak that made FiLLi famous in Dubai.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.75
+   },
+   {
+    "item": "Harazi mufawar",
+    "price": 6.5
+   },
+   {
+    "item": "Bee bites",
+    "price": 5.5
+   },
+   {
+    "item": "Istanbul cheesecake",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "karak",
+   "cafe",
+   "dessert"
+  ],
+  "note": "First Haraz in the DC area.",
+  "priceEstimated": true
+ },
+ {
+  "name": "FiLLi Cafe",
+  "city": "Chantilly",
+  "state": "VA",
+  "address": "13881 Metrotech Dr # G, Chantilly, VA 20151, USA",
+  "lat": 38.89428,
+  "lng": -77.4252,
+  "rating": 4.6,
+  "reviews": 934,
+  "hours": {
+   "sun": [
+    "11:00",
+    "24:00"
+   ],
+   "mon": [
+    "11:00",
+    "24:00"
+   ],
+   "tue": [
+    "11:00",
+    "24:00"
+   ],
+   "wed": [
+    "11:00",
+    "24:00"
+   ],
+   "thu": [
+    "11:00",
+    "24:00"
+   ],
+   "fri": [
+    "11:00",
+    "01:00"
+   ],
+   "sat": [
+    "11:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "Qahwah Valley",
-    "city": "New York",
-    "state": "NY",
-    "address": "630 1st Ave, New York, NY 10016",
-    "lat": 40.744486,
-    "lng": -73.972568,
-    "rating": 4.6,
-    "reviews": 250,
-    "hours": {
-      "mon": [
-        "07:00",
-        "23:00"
-      ],
-      "tue": [
-        "07:00",
-        "23:00"
-      ],
-      "wed": [
-        "07:00",
-        "23:00"
-      ],
-      "thu": [
-        "07:00",
-        "23:00"
-      ],
-      "fri": [
-        "07:00",
-        "01:00"
-      ],
-      "sat": [
-        "08:00",
-        "01:00"
-      ],
-      "sun": [
-        "08:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 5.5
-      },
-      {
-        "item": "Yemeni mofawar",
-        "price": 6.25
-      },
-      {
-        "item": "Kunafa",
-        "price": 7.5
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "dessert",
-      "late-night"
-    ],
-    "note": "Kips Bay sibling of the Jackson Heights Yemeni coffee house.",
-    "priceEstimated": true
-  }
+  "menu": [
+   {
+    "item": "Zafran karak chai",
+    "price": 4.95
+   },
+   {
+    "item": "Karak chai",
+    "price": 3.95
+   },
+   {
+    "item": "Bun maska",
+    "price": 4.0
+   },
+   {
+    "item": "Keema paratha",
+    "price": 9.0
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafe",
+   "indian",
+   "late-night",
+   "dessert"
+  ],
+  "note": "The zafran karak that made FiLLi famous in Dubai.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Qahwah Valley",
+  "city": "New York",
+  "state": "NY",
+  "address": "630 1st Ave, New York, NY 10016, USA",
+  "lat": 40.74521,
+  "lng": -73.9722,
+  "rating": 4.7,
+  "reviews": 372,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Yemeni mofawar",
+    "price": 6.25
+   },
+   {
+    "item": "Kunafa",
+    "price": 7.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "note": "Kips Bay sibling of the Jackson Heights Yemeni coffee house.",
+  "priceEstimated": true
+ }
 ]

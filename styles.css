@@ -342,17 +342,41 @@ body {
 }
 .maplibregl-popup.hoverpop .maplibregl-popup-tip { display: none; }
 
-/* ---------- responsive ---------- */
+/* ---------- responsive ----------
+   Mobile rebuild: the top band can't hold zoom + search + filters side by side,
+   so we stack the chrome into clean horizontal bands and push zoom to the
+   bottom-right where it can't collide with anything. */
 @media (max-width: 760px) {
   .tagline, .strip-center, .strip-left { display: none; }
   .strip { justify-content: center; }
   .strip-right { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .topbar { padding: 0 16px; }
-  .search-wrap { left: 70px; right: 16px; width: auto; }
-  .filters { top: 136px; right: 16px; flex-direction: row; }
-  .ctl-reset { display: none; }
-  .ctl-region { top: 176px; left: 16px; }
+
+  /* band 1 — search spans the full width on its own row */
+  .search-wrap { top: 72px; left: 16px; right: 16px; width: auto; }
+
+  /* band 2 — filter chips + count on their own row directly below search */
+  .filters {
+    top: 122px; left: 16px; right: 16px;
+    flex-direction: row; align-items: center; gap: 6px;
+  }
+  .chip { padding: 7px 12px; font-size: 12px; letter-spacing: 0.08em; }
+  .count-badge { margin-left: auto; }
+
+  /* band 3 — region switcher, left column under the filters */
+  .ctl-region { top: 170px; left: 16px; }
   .region-btn { padding: 6px 9px; font-size: 10.5px; }
+  .ctl-reset { display: none; }
+
+  /* zoom out of the top cluster entirely -> horizontal pair, bottom-right */
+  .ctl-zoom {
+    top: auto; bottom: 36px; left: auto; right: 16px;
+    flex-direction: row;
+  }
+  .ctl-zoom button:first-child {
+    border-bottom: none; border-right: 2px solid var(--ink);
+  }
+
   .card {
     left: 0; right: 0; bottom: 26px; width: auto;
     border-left: none; border-right: none; border-bottom: none;

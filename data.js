@@ -12956,11 +12956,11 @@ window.KARAK_SPOTS = [
   "name": "Aden Tea & Coffee House",
   "city": "Tempe",
   "state": "AZ",
-  "address": "977 E Apache Blvd, Ste 101, Tempe, AZ 85282",
-  "lat": 33.4147,
-  "lng": -111.9282,
+  "address": "977 E Apache Blvd Ste 101, Tempe, AZ 85281, USA",
+  "lat": 33.41457,
+  "lng": -111.92417,
   "rating": 4.8,
-  "reviews": 200,
+  "reviews": 97,
   "hours": {
    "mon": [
     "09:00",
@@ -13023,39 +13023,39 @@ window.KARAK_SPOTS = [
   "name": "Agaily & Karak",
   "city": "A'ali",
   "state": "BH",
-  "address": "Al Aali Mall, A'ali",
-  "lat": 26.2334,
-  "lng": 50.5402,
+  "address": "مجمع السيف، Rd No 2819, ضاحية السيف،، Seef, Bahrain",
+  "lat": 26.23326,
+  "lng": 50.53998,
   "rating": 4.0,
-  "reviews": 80,
+  "reviews": 355,
   "hours": {
    "mon": [
-    "10:00",
-    "22:00"
+    "09:00",
+    "23:30"
    ],
    "tue": [
-    "10:00",
-    "22:00"
+    "09:00",
+    "24:00"
    ],
    "wed": [
-    "10:00",
-    "22:00"
+    "09:00",
+    "24:00"
    ],
    "thu": [
-    "10:00",
-    "22:00"
+    "09:00",
+    "24:00"
    ],
    "fri": [
-    "10:00",
-    "22:00"
+    "09:00",
+    "24:00"
    ],
    "sat": [
-    "10:00",
-    "22:00"
+    "09:00",
+    "23:30"
    ],
    "sun": [
-    "10:00",
-    "22:00"
+    "09:00",
+    "23:30"
    ]
   },
   "menu": [
@@ -13523,39 +13523,39 @@ window.KARAK_SPOTS = [
   "name": "Golden Karak Restaurant",
   "city": "Adliya",
   "state": "BH",
-  "address": "Building 52, Road 352, Block 326, Adliya, Manama",
-  "lat": 26.2128,
-  "lng": 50.5852,
-  "rating": null,
-  "reviews": null,
+  "address": "6H9P+9V8, Rd No 2631, Manama, Bahrain",
+  "lat": 26.21849,
+  "lng": 50.58734,
+  "rating": 4.1,
+  "reviews": 39,
   "hours": {
    "mon": [
-    "05:00",
-    "23:00"
+    "11:00",
+    "04:00"
    ],
    "tue": [
-    "05:00",
-    "23:00"
+    "11:00",
+    "04:00"
    ],
    "wed": [
-    "05:00",
-    "23:00"
+    "11:00",
+    "04:00"
    ],
    "thu": [
-    "05:00",
-    "23:00"
+    "11:00",
+    "04:00"
    ],
    "fri": [
-    "05:00",
-    "23:00"
+    "11:00",
+    "04:00"
    ],
    "sat": [
-    "05:00",
-    "23:00"
+    "11:00",
+    "04:00"
    ],
    "sun": [
-    "05:00",
-    "23:00"
+    "11:00",
+    "04:00"
    ]
   },
   "menu": [
@@ -14081,51 +14081,6 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Tea Time - Hidd",
-  "city": "Al Hidd",
-  "state": "BH",
-  "address": "Shop 4, Building, 34 Road 30, Al Hidd, Bahrain",
-  "lat": 26.23119,
-  "lng": 50.64792,
-  "rating": 3.9,
-  "reviews": 231,
-  "hours": {
-   "mon": [
-    "00:00",
-    "24:00"
-   ],
-   "tue": [
-    "00:00",
-    "24:00"
-   ],
-   "wed": [
-    "00:00",
-    "24:00"
-   ],
-   "thu": [
-    "00:00",
-    "24:00"
-   ],
-   "fri": [
-    "00:00",
-    "24:00"
-   ],
-   "sat": [
-    "00:00",
-    "24:00"
-   ],
-   "sun": [
-    "00:00",
-    "24:00"
-   ]
-  },
-  "menu": [],
-  "tags": [],
-  "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "um abdulrahman Karak Tea",
   "city": "Al Hidd",
   "state": "BH",
@@ -14264,38 +14219,38 @@ window.KARAK_SPOTS = [
   "name": "Karak 1977 — Arad",
   "city": "Arad",
   "state": "BH",
-  "address": "Avenue 29, Arad, Muharraq Governorate",
-  "lat": 26.252,
-  "lng": 50.6258,
-  "rating": null,
-  "reviews": null,
+  "address": "7J4M+73Q, Avenue 29, Arad, Bahrain",
+  "lat": 26.25571,
+  "lng": 50.63272,
+  "rating": 4.2,
+  "reviews": 510,
   "hours": {
    "mon": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "tue": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "wed": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "thu": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "fri": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "00:00",
     "24:00"
    ]
   },
@@ -14520,7 +14475,7 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Tea Time - Arad",
+  "name": "Tea Time — Arad",
   "city": "Arad",
   "state": "BH",
   "address": "Rd No 4005, Al Hidd, Bahrain",
@@ -14528,51 +14483,6 @@ window.KARAK_SPOTS = [
   "lng": 50.63253,
   "rating": 4.0,
   "reviews": 278,
-  "hours": {
-   "mon": [
-    "00:00",
-    "24:00"
-   ],
-   "tue": [
-    "00:00",
-    "24:00"
-   ],
-   "wed": [
-    "00:00",
-    "24:00"
-   ],
-   "thu": [
-    "00:00",
-    "24:00"
-   ],
-   "fri": [
-    "00:00",
-    "24:00"
-   ],
-   "sat": [
-    "00:00",
-    "24:00"
-   ],
-   "sun": [
-    "00:00",
-    "24:00"
-   ]
-  },
-  "menu": [],
-  "tags": [],
-  "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
-  "name": "Tea Time — Arad",
-  "city": "Arad",
-  "state": "BH",
-  "address": "Arad, Muharraq Governorate, Bahrain",
-  "lat": 26.2536,
-  "lng": 50.6389,
-  "rating": null,
-  "reviews": null,
   "hours": {
    "mon": [
     "00:00",
@@ -14962,9 +14872,9 @@ window.KARAK_SPOTS = [
   "name": "Karak 1977 — Budaiya",
   "city": "Budaiya",
   "state": "BH",
-  "address": "Road 5363, Block 538, Budaiya",
-  "lat": 26.2115,
-  "lng": 50.4523,
+  "address": "6F62+GGP, 53, Budaiya 555, Bahrain",
+  "lat": 26.21135,
+  "lng": 50.45133,
   "rating": null,
   "reviews": null,
   "hours": {
@@ -15070,39 +14980,39 @@ window.KARAK_SPOTS = [
   "name": "King Karak — Budaiya",
   "city": "Budaiya",
   "state": "BH",
-  "address": "Budaiya village, Northern Governorate",
-  "lat": 26.211,
-  "lng": 50.456,
-  "rating": null,
-  "reviews": null,
+  "address": "6F72+W6P, Budaiya, Bahrain",
+  "lat": 26.21485,
+  "lng": 50.45063,
+  "rating": 4.3,
+  "reviews": 4,
   "hours": {
    "mon": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "tue": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "wed": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "thu": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "fri": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "sat": [
     "06:00",
-    "24:00"
+    "02:00"
    ],
    "sun": [
-    "06:00",
-    "24:00"
+    "09:00",
+    "17:00"
    ]
   },
   "menu": [
@@ -15538,11 +15448,11 @@ window.KARAK_SPOTS = [
   "name": "Tea Time — Busaiteen",
   "city": "Busaiteen",
   "state": "BH",
-  "address": "Street 11, Block 225, Busaiteen (near King Hamad University Hospital), Bahrain",
-  "lat": 26.272,
-  "lng": 50.6058,
-  "rating": null,
-  "reviews": null,
+  "address": "7JC4+MCX, Avenue 11, Busaiteen, Bahrain",
+  "lat": 26.27199,
+  "lng": 50.60581,
+  "rating": 4.0,
+  "reviews": 1159,
   "hours": {
    "mon": [
     "00:00",
@@ -16092,132 +16002,6 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Karak Al Kamsinat",
-  "city": "East Riffa",
-  "state": "BH",
-  "address": "East Riffa, next to Bombo Shawarma, Sheikh Isa Street",
-  "lat": 26.123,
-  "lng": 50.559,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "06:00",
-    "24:00"
-   ],
-   "tue": [
-    "06:00",
-    "24:00"
-   ],
-   "wed": [
-    "06:00",
-    "24:00"
-   ],
-   "thu": [
-    "06:00",
-    "24:00"
-   ],
-   "fri": [
-    "06:00",
-    "24:00"
-   ],
-   "sat": [
-    "06:00",
-    "24:00"
-   ],
-   "sun": [
-    "06:00",
-    "24:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak tea",
-    "price": 0.1
-   },
-   {
-    "item": "Ginger karak",
-    "price": 0.15
-   },
-   {
-    "item": "Chapati",
-    "price": 0.3
-   }
-  ],
-  "tags": [
-   "karak",
-   "cafeteria",
-   "late-night"
-  ],
-  "note": "Next to Bombo Shawarma in East Riffa.",
-  "priceEstimated": true,
-  "country": "BH",
-  "currency": "BHD"
- },
- {
-  "name": "Karak Al Sharqi",
-  "city": "East Riffa",
-  "state": "BH",
-  "address": "Behind Food World Supermarket, Riffa Souq",
-  "lat": 26.128,
-  "lng": 50.555,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "06:00",
-    "24:00"
-   ],
-   "tue": [
-    "06:00",
-    "24:00"
-   ],
-   "wed": [
-    "06:00",
-    "24:00"
-   ],
-   "thu": [
-    "06:00",
-    "24:00"
-   ],
-   "fri": [
-    "06:00",
-    "24:00"
-   ],
-   "sat": [
-    "06:00",
-    "24:00"
-   ],
-   "sun": [
-    "06:00",
-    "24:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Samovar karak tea",
-    "price": 0.1
-   },
-   {
-    "item": "Saffron tea",
-    "price": 0.2
-   },
-   {
-    "item": "Chapati",
-    "price": 0.3
-   }
-  ],
-  "tags": [
-   "karak",
-   "cafeteria",
-   "late-night"
-  ],
-  "note": "Behind Food World Supermarket. Samovar tea, free delivery.",
-  "priceEstimated": true,
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "Karak Alkamsinat",
   "city": "East Riffa",
   "state": "BH",
@@ -16532,69 +16316,6 @@ window.KARAK_SPOTS = [
   "menu": [],
   "tags": [],
   "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
-  "name": "Krk Hut",
-  "city": "East Riffa",
-  "state": "BH",
-  "address": "East Riffa, Riffa",
-  "lat": 26.119,
-  "lng": 50.571,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "16:00",
-    "24:00"
-   ],
-   "tue": [
-    "16:00",
-    "24:00"
-   ],
-   "wed": [
-    "16:00",
-    "24:00"
-   ],
-   "thu": [
-    "16:00",
-    "24:00"
-   ],
-   "fri": [
-    "16:00",
-    "24:00"
-   ],
-   "sat": [
-    "16:00",
-    "24:00"
-   ],
-   "sun": [
-    "16:00",
-    "24:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak",
-    "price": 0.1
-   },
-   {
-    "item": "Saffron karak",
-    "price": 0.2
-   },
-   {
-    "item": "Chapati",
-    "price": 0.3
-   }
-  ],
-  "tags": [
-   "karak",
-   "late-night",
-   "chapati"
-  ],
-  "note": "East Riffa hut known for saffron and flavored karak.",
-  "priceEstimated": true,
   "country": "BH",
   "currency": "BHD"
  },
@@ -17065,96 +16786,6 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Tea Time - East Riffa",
-  "city": "East Riffa",
-  "state": "BH",
-  "address": "Sh Isa Ave, Riffa, Bahrain",
-  "lat": 26.11503,
-  "lng": 50.57498,
-  "rating": 3.9,
-  "reviews": 271,
-  "hours": {
-   "mon": [
-    "00:00",
-    "24:00"
-   ],
-   "tue": [
-    "00:00",
-    "24:00"
-   ],
-   "wed": [
-    "00:00",
-    "24:00"
-   ],
-   "thu": [
-    "00:00",
-    "24:00"
-   ],
-   "fri": [
-    "00:00",
-    "24:00"
-   ],
-   "sat": [
-    "00:00",
-    "24:00"
-   ],
-   "sun": [
-    "00:00",
-    "24:00"
-   ]
-  },
-  "menu": [],
-  "tags": [],
-  "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
-  "name": "Tea Time - Sanad",
-  "city": "East Riffa",
-  "state": "BH",
-  "address": "Sanad, Bahrain",
-  "lat": 26.14121,
-  "lng": 50.58716,
-  "rating": 4.0,
-  "reviews": 215,
-  "hours": {
-   "mon": [
-    "00:00",
-    "24:00"
-   ],
-   "tue": [
-    "00:00",
-    "24:00"
-   ],
-   "wed": [
-    "00:00",
-    "24:00"
-   ],
-   "thu": [
-    "00:00",
-    "24:00"
-   ],
-   "fri": [
-    "00:00",
-    "24:00"
-   ],
-   "sat": [
-    "00:00",
-    "24:00"
-   ],
-   "sun": [
-    "00:00",
-    "24:00"
-   ]
-  },
-  "menu": [],
-  "tags": [],
-  "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "The Tea Shop",
   "city": "East Riffa",
   "state": "BH",
@@ -17325,38 +16956,38 @@ window.KARAK_SPOTS = [
   "name": "Karak 1977 — Galali",
   "city": "Galali",
   "state": "BH",
-  "address": "Road 2, Galali, Muharraq",
-  "lat": 26.27148,
-  "lng": 50.6515,
-  "rating": null,
-  "reviews": null,
+  "address": "2, Galali, Bahrain",
+  "lat": 26.27161,
+  "lng": 50.65146,
+  "rating": 4.2,
+  "reviews": 79,
   "hours": {
    "mon": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "tue": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "wed": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "thu": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "fri": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "00:00",
     "24:00"
    ]
   },
@@ -17487,7 +17118,7 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Tea Time Galali",
+  "name": "Tea Time — Galali",
   "city": "Galali",
   "state": "BH",
   "address": "123, قلالي، Bahrain",
@@ -17495,51 +17126,6 @@ window.KARAK_SPOTS = [
   "lng": 50.64441,
   "rating": 3.0,
   "reviews": 30,
-  "hours": {
-   "mon": [
-    "00:00",
-    "24:00"
-   ],
-   "tue": [
-    "00:00",
-    "24:00"
-   ],
-   "wed": [
-    "00:00",
-    "24:00"
-   ],
-   "thu": [
-    "00:00",
-    "24:00"
-   ],
-   "fri": [
-    "00:00",
-    "24:00"
-   ],
-   "sat": [
-    "00:00",
-    "24:00"
-   ],
-   "sun": [
-    "00:00",
-    "24:00"
-   ]
-  },
-  "menu": [],
-  "tags": [],
-  "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
-  "name": "Tea Time — Galali",
-  "city": "Galali",
-  "state": "BH",
-  "address": "Galali, Muharraq Governorate, Bahrain",
-  "lat": 26.2742,
-  "lng": 50.652,
-  "rating": null,
-  "reviews": null,
   "hours": {
    "mon": [
     "00:00",
@@ -17868,38 +17454,38 @@ window.KARAK_SPOTS = [
   "name": "Karak 1977 — Hamad Town",
   "city": "Hamad Town",
   "state": "BH",
-  "address": "Hamad Town, Northern Governorate",
-  "lat": 26.118,
-  "lng": 50.504,
-  "rating": null,
-  "reviews": null,
+  "address": "4FQR+R3H, Hamad Town, Bahrain",
+  "lat": 26.13958,
+  "lng": 50.49022,
+  "rating": 4.3,
+  "reviews": 95,
   "hours": {
    "mon": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "tue": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "wed": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "thu": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "fri": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "00:00",
     "24:00"
    ]
   },
@@ -18333,51 +17919,6 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Tea Time - Hamad Town",
-  "city": "Hamad Town",
-  "state": "BH",
-  "address": "1203 Rd No 316, Hamad Town, Bahrain",
-  "lat": 26.14126,
-  "lng": 50.49831,
-  "rating": 4.1,
-  "reviews": 234,
-  "hours": {
-   "mon": [
-    "00:00",
-    "24:00"
-   ],
-   "tue": [
-    "00:00",
-    "24:00"
-   ],
-   "wed": [
-    "00:00",
-    "24:00"
-   ],
-   "thu": [
-    "00:00",
-    "24:00"
-   ],
-   "fri": [
-    "00:00",
-    "24:00"
-   ],
-   "sat": [
-    "00:00",
-    "24:00"
-   ],
-   "sun": [
-    "00:00",
-    "24:00"
-   ]
-  },
-  "menu": [],
-  "tags": [],
-  "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "Tea Time - Hamad Town Souq 2",
   "city": "Hamad Town",
   "state": "BH",
@@ -18423,59 +17964,14 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Tea Time - Malkiya",
-  "city": "Hamad Town",
-  "state": "BH",
-  "address": "Shop: 2294, Club Building, 1033 Road: 106, المالكية، Bahrain",
-  "lat": 26.10149,
-  "lng": 50.48404,
-  "rating": 4.1,
-  "reviews": 11,
-  "hours": {
-   "mon": [
-    "00:00",
-    "24:00"
-   ],
-   "tue": [
-    "00:00",
-    "24:00"
-   ],
-   "wed": [
-    "00:00",
-    "24:00"
-   ],
-   "thu": [
-    "00:00",
-    "24:00"
-   ],
-   "fri": [
-    "00:00",
-    "24:00"
-   ],
-   "sat": [
-    "00:00",
-    "24:00"
-   ],
-   "sun": [
-    "00:00",
-    "24:00"
-   ]
-  },
-  "menu": [],
-  "tags": [],
-  "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "Tea Time — Hamad Town",
   "city": "Hamad Town",
   "state": "BH",
-  "address": "Hamad Town, Northern Governorate, Bahrain",
-  "lat": 26.1267,
-  "lng": 50.4983,
-  "rating": null,
-  "reviews": null,
+  "address": "1203 Rd No 316, Hamad Town, Bahrain",
+  "lat": 26.14126,
+  "lng": 50.49831,
+  "rating": 4.1,
+  "reviews": 234,
   "hours": {
    "mon": [
     "00:00",
@@ -18535,11 +18031,11 @@ window.KARAK_SPOTS = [
   "name": "Tea Time — Hamad Town Souq 2",
   "city": "Hamad Town",
   "state": "BH",
-  "address": "Souq area near Roundabout 2, Hamad Town, Bahrain",
-  "lat": 26.139,
-  "lng": 50.506,
-  "rating": null,
-  "reviews": null,
+  "address": "1203 Rd No 316, Hamad Town, Bahrain",
+  "lat": 26.14126,
+  "lng": 50.49831,
+  "rating": 4.1,
+  "reviews": 234,
   "hours": {
    "mon": [
     "00:00",
@@ -18971,103 +18467,41 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Dilla Qahwa and Karak",
-  "city": "Hidd",
-  "state": "BH",
-  "address": "Road 12, near Super Meva Mart, Al Hidd, Muharraq Governorate",
-  "lat": 26.2462,
-  "lng": 50.654,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "06:00",
-    "22:00"
-   ],
-   "tue": [
-    "06:00",
-    "22:00"
-   ],
-   "wed": [
-    "06:00",
-    "22:00"
-   ],
-   "thu": [
-    "06:00",
-    "22:00"
-   ],
-   "fri": [
-    "06:00",
-    "22:00"
-   ],
-   "sat": [
-    "06:00",
-    "22:00"
-   ],
-   "sun": [
-    "06:00",
-    "22:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak (cup)",
-    "price": 0.1
-   },
-   {
-    "item": "Karak dallah (pot)",
-    "price": 0.8
-   },
-   {
-    "item": "Gahwa",
-    "price": 0.3
-   }
-  ],
-  "tags": [
-   "karak",
-   "cafeteria"
-  ],
-  "note": "Hidd coffee shop; the karak dallah is the bestseller.",
-  "priceEstimated": true,
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "Karak 1977 — Hidd",
   "city": "Hidd",
   "state": "BH",
-  "address": "Hidd, Muharraq Governorate",
-  "lat": 26.2455,
-  "lng": 50.654,
-  "rating": null,
-  "reviews": null,
+  "address": "Ahmed Bin Majid Ave, Al Hidd, Bahrain",
+  "lat": 26.23812,
+  "lng": 50.65532,
+  "rating": 4.4,
+  "reviews": 17,
   "hours": {
    "mon": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "tue": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "wed": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "thu": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "fri": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "00:00",
     "24:00"
    ]
   },
@@ -19099,18 +18533,14 @@ window.KARAK_SPOTS = [
   "name": "King Karak — Hidd",
   "city": "Hidd",
   "state": "BH",
-  "address": "Hidd, Muharraq Governorate",
-  "lat": 26.2415,
-  "lng": 50.6552,
-  "rating": null,
-  "reviews": null,
+  "address": "6MR4+H4R, Ibn Amuqarrab Avenue, Al Hidd, Bahrain",
+  "lat": 26.24148,
+  "lng": 50.65528,
+  "rating": 4.3,
+  "reviews": 54,
   "hours": {
    "mon": [
-    "06:00",
-    "24:00"
-   ],
-   "tue": [
-    "06:00",
+    "05:30",
     "24:00"
    ],
    "wed": [
@@ -19123,11 +18553,7 @@ window.KARAK_SPOTS = [
    ],
    "fri": [
     "06:00",
-    "24:00"
-   ],
-   "sat": [
-    "06:00",
-    "24:00"
+    "11:00"
    ],
    "sun": [
     "06:00",
@@ -19162,11 +18588,11 @@ window.KARAK_SPOTS = [
   "name": "Tea Time — Hidd",
   "city": "Hidd",
   "state": "BH",
-  "address": "Al Hidd, Muharraq Governorate, Bahrain",
-  "lat": 26.2441,
-  "lng": 50.6529,
-  "rating": null,
-  "reviews": null,
+  "address": "Shop 4, Building, 34 Road 30, Al Hidd, Bahrain",
+  "lat": 26.23119,
+  "lng": 50.64792,
+  "rating": 3.9,
+  "reviews": 231,
   "hours": {
    "mon": [
     "00:00",
@@ -19595,64 +19021,6 @@ window.KARAK_SPOTS = [
   "menu": [],
   "tags": [],
   "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
-  "name": "Karak Truck — Isa Town Souq",
-  "city": "Isa Town",
-  "state": "BH",
-  "address": "By Lebanon Trading Center, Isa Town Souq",
-  "lat": 26.173,
-  "lng": 50.547,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "15:00",
-    "24:00"
-   ],
-   "tue": [
-    "15:00",
-    "24:00"
-   ],
-   "wed": [
-    "15:00",
-    "24:00"
-   ],
-   "thu": [
-    "15:00",
-    "24:00"
-   ],
-   "fri": [
-    "15:00",
-    "24:00"
-   ],
-   "sat": [
-    "15:00",
-    "24:00"
-   ],
-   "sun": [
-    "15:00",
-    "24:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak tea",
-    "price": 0.1
-   },
-   {
-    "item": "Chapati",
-    "price": 0.3
-   }
-  ],
-  "tags": [
-   "karak",
-   "late-night"
-  ],
-  "note": "Karak truck by Lebanon Trading Center at Isa Town Souq.",
-  "priceEstimated": true,
   "country": "BH",
   "currency": "BHD"
  },
@@ -20518,39 +19886,35 @@ window.KARAK_SPOTS = [
   "name": "Roti Shoti Sarbjeet's Kitchen ON WHEELS",
   "city": "Juffair",
   "state": "BH",
-  "address": "Road 2469, near Juffair beachfront, Juffair, Manama",
-  "lat": 26.2125,
-  "lng": 50.614,
-  "rating": null,
-  "reviews": null,
+  "address": "Road 2469، Manama, Bahrain",
+  "lat": 26.22689,
+  "lng": 50.61142,
+  "rating": 4.6,
+  "reviews": 541,
   "hours": {
-   "mon": [
-    "16:30",
-    "22:30"
-   ],
    "tue": [
-    "16:30",
-    "22:30"
+    "18:00",
+    "23:00"
    ],
    "wed": [
-    "16:30",
-    "22:30"
+    "18:00",
+    "23:00"
    ],
    "thu": [
-    "16:30",
-    "22:30"
+    "18:00",
+    "24:00"
    ],
    "fri": [
-    "16:30",
-    "22:30"
+    "18:00",
+    "23:00"
    ],
    "sat": [
-    "16:30",
-    "22:30"
+    "18:00",
+    "23:00"
    ],
    "sun": [
-    "16:30",
-    "22:30"
+    "18:00",
+    "23:00"
    ]
   },
   "menu": [
@@ -20732,11 +20096,11 @@ window.KARAK_SPOTS = [
   "name": "Tea Time — Juffair",
   "city": "Juffair",
   "state": "BH",
-  "address": "Juffair, Manama, Bahrain",
-  "lat": 26.2146,
-  "lng": 50.6041,
-  "rating": null,
-  "reviews": null,
+  "address": "Building 783 Rd No 2412, Manama, Bahrain",
+  "lat": 26.21808,
+  "lng": 50.6011,
+  "rating": 4.1,
+  "reviews": 519,
   "hours": {
    "mon": [
     "00:00",
@@ -20797,11 +20161,11 @@ window.KARAK_SPOTS = [
   "name": "Tea Time — Juffair Al Fateh",
   "city": "Juffair",
   "state": "BH",
-  "address": "Al Fateh area, Juffair, Manama, Bahrain",
-  "lat": 26.219,
-  "lng": 50.5983,
-  "rating": null,
-  "reviews": null,
+  "address": "Building 783 Rd No 2412, Manama, Bahrain",
+  "lat": 26.21808,
+  "lng": 50.6011,
+  "rating": 4.1,
+  "reviews": 519,
   "hours": {
    "mon": [
     "00:00",
@@ -20951,39 +20315,39 @@ window.KARAK_SPOTS = [
   "name": "King Karak — Jurdab",
   "city": "Jurdab",
   "state": "BH",
-  "address": "Jurdab village, near Salmabad",
-  "lat": 26.1735,
-  "lng": 50.5775,
-  "rating": null,
-  "reviews": null,
+  "address": "5H89+X49, Jurdab, Bahrain",
+  "lat": 26.16741,
+  "lng": 50.56785,
+  "rating": 3.9,
+  "reviews": 65,
   "hours": {
    "mon": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "tue": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "wed": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "thu": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "fri": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "sat": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ],
    "sun": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "02:00"
    ]
   },
   "menu": [
@@ -21014,38 +20378,38 @@ window.KARAK_SPOTS = [
   "name": "Karak 1977 — Malkiya",
   "city": "Malkiya",
   "state": "BH",
-  "address": "Malkiya village, Northern Governorate",
-  "lat": 26.0996,
-  "lng": 50.4852,
-  "rating": null,
-  "reviews": null,
+  "address": "3FWR+M6R, Rd No 3431, Malkiya, Bahrain",
+  "lat": 26.09675,
+  "lng": 50.4905,
+  "rating": 4.3,
+  "reviews": 147,
   "hours": {
    "mon": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "tue": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "wed": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "thu": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "fri": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "00:00",
     "24:00"
    ]
   },
@@ -21077,11 +20441,11 @@ window.KARAK_SPOTS = [
   "name": "Tea Time — Malkiya",
   "city": "Malkiya",
   "state": "BH",
-  "address": "Malkiya, Northern Governorate, Bahrain",
-  "lat": 26.0996,
-  "lng": 50.4852,
-  "rating": null,
-  "reviews": null,
+  "address": "Shop: 2294, Club Building, 1033 Road: 106, المالكية، Bahrain",
+  "lat": 26.10149,
+  "lng": 50.48404,
+  "rating": 4.1,
+  "reviews": 11,
   "hours": {
    "mon": [
     "00:00",
@@ -21308,39 +20672,39 @@ window.KARAK_SPOTS = [
   "name": "Basta 23",
   "city": "Manama",
   "state": "BH",
-  "address": "Bahrain Harbour, Manama",
-  "lat": 26.239,
-  "lng": 50.587,
-  "rating": 4.3,
-  "reviews": 1000,
+  "address": "Road 4626 Building 1428, Manama, Bahrain",
+  "lat": 26.23981,
+  "lng": 50.57418,
+  "rating": 3.0,
+  "reviews": 87,
   "hours": {
    "mon": [
-    "08:30",
-    "23:00"
+    "08:00",
+    "23:56"
    ],
    "tue": [
-    "08:30",
-    "23:00"
+    "08:00",
+    "23:56"
    ],
    "wed": [
-    "08:30",
-    "23:00"
+    "08:00",
+    "23:56"
    ],
    "thu": [
-    "08:30",
-    "23:00"
+    "08:00",
+    "23:56"
    ],
    "fri": [
-    "08:30",
-    "23:00"
+    "08:00",
+    "23:56"
    ],
    "sat": [
-    "08:30",
-    "23:00"
+    "08:00",
+    "23:56"
    ],
    "sun": [
-    "08:30",
-    "23:00"
+    "08:00",
+    "23:56"
    ]
   },
   "menu": [
@@ -21744,73 +21108,6 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Emmawash Traditional Restaurant",
-  "city": "Manama",
-  "state": "BH",
-  "address": "Bab Al Bahrain, Manama Souq",
-  "lat": 26.2332,
-  "lng": 50.5759,
-  "rating": 4.5,
-  "reviews": 1000,
-  "hours": {
-   "mon": [
-    "06:00",
-    "13:00"
-   ],
-   "tue": [
-    "06:00",
-    "13:00"
-   ],
-   "wed": [
-    "06:00",
-    "13:00"
-   ],
-   "thu": [
-    "06:00",
-    "13:00"
-   ],
-   "fri": [
-    "06:00",
-    "13:00"
-   ],
-   "sat": [
-    "06:00",
-    "13:00"
-   ],
-   "sun": [
-    "06:00",
-    "13:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak tea",
-    "price": 0.2
-   },
-   {
-    "item": "Balaleet",
-    "price": 0.8
-   },
-   {
-    "item": "Nashif",
-    "price": 1.0
-   },
-   {
-    "item": "Chicken liver",
-    "price": 1.2
-   }
-  ],
-  "tags": [
-   "karak",
-   "cafe",
-   "chapati"
-  ],
-  "note": "Traditional Bahraini breakfast spot at Bab Al Bahrain.",
-  "priceEstimated": true,
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "Everyday karak",
   "city": "Manama",
   "state": "BH",
@@ -21920,39 +21217,39 @@ window.KARAK_SPOTS = [
   "name": "Golden Star Karak",
   "city": "Manama",
   "state": "BH",
-  "address": "Manama Center, Manama",
-  "lat": 26.2285,
-  "lng": 50.586,
-  "rating": 3.7,
-  "reviews": 67,
+  "address": "Rd No 1511, Muharraq, Bahrain",
+  "lat": 26.24869,
+  "lng": 50.61121,
+  "rating": 3.8,
+  "reviews": 18,
   "hours": {
    "mon": [
-    "06:00",
-    "23:00"
+    "00:00",
+    "24:00"
    ],
    "tue": [
-    "06:00",
-    "23:00"
+    "00:00",
+    "24:00"
    ],
    "wed": [
-    "06:00",
-    "23:00"
+    "00:00",
+    "24:00"
    ],
    "thu": [
-    "06:00",
-    "23:00"
+    "00:00",
+    "24:00"
    ],
    "fri": [
-    "06:00",
-    "23:00"
+    "00:00",
+    "24:00"
    ],
    "sat": [
-    "06:00",
-    "23:00"
+    "00:00",
+    "24:00"
    ],
    "sun": [
-    "06:00",
-    "23:00"
+    "00:00",
+    "24:00"
    ]
   },
   "menu": [
@@ -21983,39 +21280,39 @@ window.KARAK_SPOTS = [
   "name": "Haji Gahwa (Haji's Traditional Cafe)",
   "city": "Manama",
   "state": "BH",
-  "address": "Souq alley off Shaikh Abdulla Avenue, Manama Souq, Block 304, Manama",
-  "lat": 26.2336,
-  "lng": 50.5749,
+  "address": "150 شارع الحكومة، Manama, Bahrain",
+  "lat": 26.23341,
+  "lng": 50.57445,
   "rating": 4.1,
-  "reviews": 4473,
+  "reviews": 4649,
   "hours": {
    "mon": [
-    "05:30",
-    "21:00"
+    "06:00",
+    "20:00"
    ],
    "tue": [
-    "05:30",
-    "21:00"
+    "06:00",
+    "20:00"
    ],
    "wed": [
-    "05:30",
-    "21:00"
+    "06:00",
+    "20:00"
    ],
    "thu": [
-    "05:30",
-    "21:00"
+    "06:00",
+    "20:00"
    ],
    "fri": [
-    "05:30",
-    "21:00"
+    "06:00",
+    "20:00"
    ],
    "sat": [
-    "05:30",
-    "21:00"
+    "06:00",
+    "20:00"
    ],
    "sun": [
-    "05:30",
-    "21:00"
+    "06:00",
+    "20:00"
    ]
   },
   "menu": [
@@ -22467,38 +21764,38 @@ window.KARAK_SPOTS = [
   "name": "King Karak — Manama Center",
   "city": "Manama",
   "state": "BH",
-  "address": "Manama Center, Capital Governorate",
-  "lat": 26.2313,
-  "lng": 50.5905,
-  "rating": null,
-  "reviews": null,
+  "address": "6HHJ+4JX, Rd No 724, Manama, Bahrain",
+  "lat": 26.22786,
+  "lng": 50.58162,
+  "rating": 3.6,
+  "reviews": 48,
   "hours": {
    "mon": [
-    "06:00",
+    "07:00",
     "24:00"
    ],
    "tue": [
-    "06:00",
+    "07:00",
     "24:00"
    ],
    "wed": [
-    "06:00",
+    "07:00",
     "24:00"
    ],
    "thu": [
-    "06:00",
+    "07:00",
     "24:00"
    ],
    "fri": [
-    "06:00",
+    "07:00",
     "24:00"
    ],
    "sat": [
-    "06:00",
+    "07:00",
     "24:00"
    ],
    "sun": [
-    "06:00",
+    "07:00",
     "24:00"
    ]
   },
@@ -22678,69 +21975,6 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Naseef Cafe",
-  "city": "Manama",
-  "state": "BH",
-  "address": "Shop 13, Building 16, Road 350, Bab Al Bahrain Souq, Manama",
-  "lat": 26.2342,
-  "lng": 50.5758,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "08:00",
-    "23:00"
-   ],
-   "tue": [
-    "08:00",
-    "23:00"
-   ],
-   "wed": [
-    "08:00",
-    "23:00"
-   ],
-   "thu": [
-    "08:00",
-    "23:00"
-   ],
-   "fri": [
-    "08:00",
-    "23:00"
-   ],
-   "sat": [
-    "08:00",
-    "23:00"
-   ],
-   "sun": [
-    "08:00",
-    "23:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak tea",
-    "price": 0.3
-   },
-   {
-    "item": "Mango ice cream",
-    "price": 0.8
-   },
-   {
-    "item": "Breakfast platter for two",
-    "price": 4.0
-   }
-  ],
-  "tags": [
-   "karak",
-   "cafe",
-   "dessert"
-  ],
-  "note": "Open since 1920; karak alongside famous mango ice cream.",
-  "priceEstimated": true,
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "RRE KARAK",
   "city": "Manama",
   "state": "BH",
@@ -22789,38 +22023,38 @@ window.KARAK_SPOTS = [
   "name": "Seventies Karak",
   "city": "Manama",
   "state": "BH",
-  "address": "In front of Shifa Al Jazeera Hospital, Manama",
-  "lat": 26.2278,
-  "lng": 50.5705,
-  "rating": 4.3,
-  "reviews": 300,
+  "address": "Manama, Bahrain",
+  "lat": 26.2266,
+  "lng": 50.56935,
+  "rating": 4.6,
+  "reviews": 39,
   "hours": {
    "mon": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "tue": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "wed": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "thu": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "fri": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "sat": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "sun": [
-    "06:00",
+    "00:00",
     "24:00"
    ]
   },
@@ -23727,59 +22961,14 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "GOLDEN STAR KARAK - الكرك الذهبي",
-  "city": "Muharraq",
-  "state": "BH",
-  "address": "Rd No 1511, Muharraq, Bahrain",
-  "lat": 26.24869,
-  "lng": 50.61121,
-  "rating": 3.8,
-  "reviews": 18,
-  "hours": {
-   "mon": [
-    "00:00",
-    "24:00"
-   ],
-   "tue": [
-    "00:00",
-    "24:00"
-   ],
-   "wed": [
-    "00:00",
-    "24:00"
-   ],
-   "thu": [
-    "00:00",
-    "24:00"
-   ],
-   "fri": [
-    "00:00",
-    "24:00"
-   ],
-   "sat": [
-    "00:00",
-    "24:00"
-   ],
-   "sun": [
-    "00:00",
-    "24:00"
-   ]
-  },
-  "menu": [],
-  "tags": [],
-  "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "House of Coffee (Razji)",
   "city": "Muharraq",
   "state": "BH",
-  "address": "Pearling Path, Old Muharraq, Muharraq",
-  "lat": 26.254,
-  "lng": 50.6111,
-  "rating": null,
-  "reviews": null,
+  "address": "7J36+JC8 House of Coffee, near Shaikh Ebrahim Centre In the Renovated Houses of، Muharraq,",
+  "lat": 26.25404,
+  "lng": 50.61107,
+  "rating": 4.1,
+  "reviews": 288,
   "hours": {
    "mon": [
     "08:00",
@@ -23927,39 +23116,39 @@ window.KARAK_SPOTS = [
   "name": "King Karak — Muharraq",
   "city": "Muharraq",
   "state": "BH",
-  "address": "Muharraq town, Muharraq Governorate",
-  "lat": 26.2445,
-  "lng": 50.6154,
-  "rating": null,
-  "reviews": null,
+  "address": "6JV8+R5M, Rd No 1601, Muharraq, Bahrain",
+  "lat": 26.24458,
+  "lng": 50.61541,
+  "rating": 4.8,
+  "reviews": 5,
   "hours": {
    "mon": [
-    "06:00",
-    "24:00"
+    "04:30",
+    "23:00"
    ],
    "tue": [
-    "06:00",
-    "24:00"
+    "04:30",
+    "23:00"
    ],
    "wed": [
-    "06:00",
-    "24:00"
+    "04:30",
+    "23:00"
    ],
    "thu": [
-    "06:00",
-    "24:00"
+    "04:30",
+    "23:00"
    ],
    "fri": [
-    "06:00",
-    "24:00"
+    "04:30",
+    "23:00"
    ],
    "sat": [
-    "06:00",
-    "24:00"
+    "04:30",
+    "23:00"
    ],
    "sun": [
-    "06:00",
-    "24:00"
+    "04:30",
+    "23:00"
    ]
   },
   "menu": [
@@ -24077,61 +23266,6 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Saffron by Jena Bakery",
-  "city": "Muharraq",
-  "state": "BH",
-  "address": "Souq Al Qaysariya, Old Muharraq, Muharraq",
-  "lat": 26.2566,
-  "lng": 50.6118,
-  "rating": 4.1,
-  "reviews": 53,
-  "hours": {
-   "mon": [
-    "06:30",
-    "11:00"
-   ],
-   "tue": [
-    "06:30",
-    "11:00"
-   ],
-   "wed": [
-    "06:30",
-    "11:00"
-   ],
-   "thu": [
-    "06:30",
-    "11:00"
-   ],
-   "sat": [
-    "06:30",
-    "11:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak tea",
-    "price": 0.2
-   },
-   {
-    "item": "Saffron tea",
-    "price": 0.3
-   },
-   {
-    "item": "Khubz with cheese and egg",
-    "price": 0.5
-   }
-  ],
-  "tags": [
-   "karak",
-   "cafe",
-   "cafeteria"
-  ],
-  "note": "Breakfast bakery inside Muharraq's restored Souq Al Qaysariya.",
-  "priceEstimated": true,
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "Seventies Karak 1977 - Muharraq",
   "city": "Muharraq",
   "state": "BH",
@@ -24222,7 +23356,7 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Tea Time - Muharraq",
+  "name": "Tea Time — Muharraq",
   "city": "Muharraq",
   "state": "BH",
   "address": "Muharraq, Bahrain",
@@ -24230,51 +23364,6 @@ window.KARAK_SPOTS = [
   "lng": 50.61668,
   "rating": 4.0,
   "reviews": 1091,
-  "hours": {
-   "mon": [
-    "00:00",
-    "24:00"
-   ],
-   "tue": [
-    "00:00",
-    "24:00"
-   ],
-   "wed": [
-    "00:00",
-    "24:00"
-   ],
-   "thu": [
-    "00:00",
-    "24:00"
-   ],
-   "fri": [
-    "00:00",
-    "24:00"
-   ],
-   "sat": [
-    "00:00",
-    "24:00"
-   ],
-   "sun": [
-    "00:00",
-    "24:00"
-   ]
-  },
-  "menu": [],
-  "tags": [],
-  "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
-  "name": "Tea Time — Muharraq",
-  "city": "Muharraq",
-  "state": "BH",
-  "address": "Muharraq, Muharraq Governorate (near souq area), Bahrain",
-  "lat": 26.252,
-  "lng": 50.614,
-  "rating": 4.1,
-  "reviews": null,
   "hours": {
    "mon": [
     "00:00",
@@ -24380,114 +23469,6 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Karak and Al-Ghazali",
-  "city": "North Riffa",
-  "state": "BH",
-  "address": "Riffa Al Shamali, North Riffa, Riffa",
-  "lat": 26.137,
-  "lng": 50.561,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "05:00",
-    "23:00"
-   ],
-   "tue": [
-    "05:00",
-    "23:00"
-   ],
-   "wed": [
-    "05:00",
-    "23:00"
-   ],
-   "thu": [
-    "05:00",
-    "23:00"
-   ],
-   "fri": [
-    "05:00",
-    "23:00"
-   ],
-   "sat": [
-    "05:00",
-    "23:00"
-   ],
-   "sun": [
-    "05:00",
-    "23:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak",
-    "price": 0.1
-   },
-   {
-    "item": "Ghazali bread",
-    "price": 0.3
-   },
-   {
-    "item": "Halloumi chapati",
-    "price": 0.4
-   }
-  ],
-  "tags": [
-   "karak",
-   "cafeteria",
-   "chapati"
-  ],
-  "note": "North Riffa spot for karak and sweet ghazali bread.",
-  "priceEstimated": true,
-  "country": "BH",
-  "currency": "BHD"
- },
- {
-  "name": "Capital Karak",
-  "city": "Riffa",
-  "state": "BH",
-  "address": "4GCV+972, Hunainiyah Ave, Riffa, Bahrain",
-  "lat": 26.12088,
-  "lng": 50.54315,
-  "rating": 3.9,
-  "reviews": 12,
-  "hours": {
-   "mon": [
-    "07:00",
-    "24:00"
-   ],
-   "tue": [
-    "07:00",
-    "24:00"
-   ],
-   "wed": [
-    "07:00",
-    "24:00"
-   ],
-   "thu": [
-    "07:00",
-    "24:00"
-   ],
-   "fri": [
-    "07:00",
-    "01:00"
-   ],
-   "sat": [
-    "05:00",
-    "24:00"
-   ],
-   "sun": [
-    "07:00",
-    "24:00"
-   ]
-  },
-  "menu": [],
-  "tags": [],
-  "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "Chai Kadi Indian cafeteria",
   "city": "Riffa",
   "state": "BH",
@@ -24552,38 +23533,38 @@ window.KARAK_SPOTS = [
   "name": "Karak 1977 — Bu Kowarah",
   "city": "Riffa",
   "state": "BH",
-  "address": "Bu Kowarah, North Riffa, near Isa Town",
-  "lat": 26.156,
-  "lng": 50.553,
-  "rating": null,
-  "reviews": null,
+  "address": "5H48+246, Riffa, Bahrain",
+  "lat": 26.15498,
+  "lng": 50.56516,
+  "rating": 4.8,
+  "reviews": 6,
   "hours": {
    "mon": [
-    "07:00",
+    "06:00",
     "24:00"
    ],
    "tue": [
-    "07:00",
+    "06:00",
     "24:00"
    ],
    "wed": [
-    "07:00",
+    "06:00",
     "24:00"
    ],
    "thu": [
-    "07:00",
+    "06:00",
     "24:00"
    ],
    "fri": [
-    "07:00",
+    "06:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "06:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "06:00",
     "24:00"
    ]
   },
@@ -24713,11 +23694,11 @@ window.KARAK_SPOTS = [
   "name": "King Karak — East Riffa",
   "city": "Riffa",
   "state": "BH",
-  "address": "Baineh Avenue, East Riffa",
-  "lat": 26.1269,
-  "lng": 50.5747,
-  "rating": null,
-  "reviews": null,
+  "address": "4HGF+PQ9, Baynah Ave, Riffa, Bahrain",
+  "lat": 26.1268,
+  "lng": 50.57449,
+  "rating": 4.0,
+  "reviews": 1,
   "hours": {
    "mon": [
     "06:00",
@@ -24776,11 +23757,11 @@ window.KARAK_SPOTS = [
   "name": "King Karak — West Riffa",
   "city": "Riffa",
   "state": "BH",
-  "address": "Riffa Al Gharbi (West Riffa), Southern Governorate",
-  "lat": 26.1312,
-  "lng": 50.558,
-  "rating": null,
-  "reviews": null,
+  "address": "4HQC+78Q, Riffa, Bahrain",
+  "lat": 26.13808,
+  "lng": 50.57065,
+  "rating": 4.8,
+  "reviews": 10,
   "hours": {
    "mon": [
     "06:00",
@@ -25080,11 +24061,11 @@ window.KARAK_SPOTS = [
   "name": "Tea Time — East Riffa",
   "city": "Riffa",
   "state": "BH",
-  "address": "Shaikh Isa Avenue, East Riffa, Bahrain",
-  "lat": 26.129,
-  "lng": 50.561,
-  "rating": null,
-  "reviews": null,
+  "address": "Sh Isa Ave, Riffa, Bahrain",
+  "lat": 26.11503,
+  "lng": 50.57498,
+  "rating": 3.9,
+  "reviews": 272,
   "hours": {
    "mon": [
     "00:00",
@@ -25247,104 +24228,42 @@ window.KARAK_SPOTS = [
   "currency": "BHD"
  },
  {
-  "name": "Jabel Ali Cafeteria",
-  "city": "Saar",
-  "state": "BH",
-  "address": "Saar, Northern Governorate",
-  "lat": 26.184,
-  "lng": 50.498,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "06:00",
-    "23:00"
-   ],
-   "tue": [
-    "06:00",
-    "23:00"
-   ],
-   "wed": [
-    "06:00",
-    "23:00"
-   ],
-   "thu": [
-    "06:00",
-    "23:00"
-   ],
-   "fri": [
-    "06:00",
-    "23:00"
-   ],
-   "sat": [
-    "06:00",
-    "23:00"
-   ],
-   "sun": [
-    "06:00",
-    "23:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak tea",
-    "price": 0.1
-   },
-   {
-    "item": "Paratha",
-    "price": 0.3
-   },
-   {
-    "item": "Biryani",
-    "price": 1.2
-   }
-  ],
-  "tags": [
-   "karak",
-   "cafeteria"
-  ],
-  "note": "Saar cafeteria for karak and Indian food.",
-  "priceEstimated": true,
-  "country": "BH",
-  "currency": "BHD"
- },
- {
   "name": "King Karak — Budaiya Highway",
   "city": "Saar",
   "state": "BH",
-  "address": "Budaiya Highway, Saar area",
-  "lat": 26.2185,
-  "lng": 50.505,
-  "rating": null,
-  "reviews": null,
+  "address": "Budaiya, Bahrain",
+  "lat": 26.21935,
+  "lng": 50.49396,
+  "rating": 4.0,
+  "reviews": 97,
   "hours": {
    "mon": [
     "06:00",
-    "24:00"
+    "01:00"
    ],
    "tue": [
     "06:00",
-    "24:00"
+    "01:00"
    ],
    "wed": [
     "06:00",
-    "24:00"
+    "01:00"
    ],
    "thu": [
     "06:00",
-    "24:00"
+    "01:00"
    ],
    "fri": [
     "06:00",
-    "24:00"
+    "01:00"
    ],
    "sat": [
     "06:00",
-    "24:00"
+    "01:00"
    ],
    "sun": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "01:00"
    ]
   },
   "menu": [
@@ -25934,11 +24853,11 @@ window.KARAK_SPOTS = [
   "name": "Tea Time — Sanad",
   "city": "Sanad",
   "state": "BH",
-  "address": "Sanad, Capital Governorate, Bahrain",
-  "lat": 26.1502,
-  "lng": 50.5841,
-  "rating": null,
-  "reviews": null,
+  "address": "Sanad, Bahrain",
+  "lat": 26.14121,
+  "lng": 50.58716,
+  "rating": 4.0,
+  "reviews": 216,
   "hours": {
    "mon": [
     "00:00",
@@ -25997,39 +24916,39 @@ window.KARAK_SPOTS = [
   "name": "Chapati Bhai",
   "city": "Seef",
   "state": "BH",
-  "address": "Al Seef district, near Bahrain Financial Harbour, Manama",
-  "lat": 26.2287,
-  "lng": 50.5334,
-  "rating": null,
-  "reviews": null,
+  "address": "2836, Seef 428, Bahrain",
+  "lat": 26.23852,
+  "lng": 50.5381,
+  "rating": 3.9,
+  "reviews": 69,
   "hours": {
    "mon": [
-    "07:00",
-    "22:00"
+    "06:30",
+    "15:00"
    ],
    "tue": [
-    "07:00",
-    "22:00"
+    "06:30",
+    "15:00"
    ],
    "wed": [
-    "07:00",
-    "22:00"
+    "06:30",
+    "15:00"
    ],
    "thu": [
-    "07:00",
-    "22:00"
+    "06:30",
+    "15:00"
    ],
    "fri": [
-    "07:00",
-    "22:00"
+    "06:30",
+    "15:00"
    ],
    "sat": [
-    "07:00",
-    "22:00"
+    "06:30",
+    "15:00"
    ],
    "sun": [
-    "07:00",
-    "22:00"
+    "06:30",
+    "15:00"
    ]
   },
   "menu": [
@@ -26272,38 +25191,38 @@ window.KARAK_SPOTS = [
   "name": "Seef Corner",
   "city": "Seef",
   "state": "BH",
-  "address": "Seef district, Manama",
-  "lat": 26.2349,
-  "lng": 50.5473,
-  "rating": null,
-  "reviews": null,
+  "address": "6GMW+XW6, Al, Seef, Bahrain",
+  "lat": 26.23491,
+  "lng": 50.54728,
+  "rating": 4.1,
+  "reviews": 62,
   "hours": {
    "mon": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "tue": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "wed": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "thu": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "fri": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "sat": [
-    "06:00",
+    "00:00",
     "24:00"
    ],
    "sun": [
-    "06:00",
+    "00:00",
     "24:00"
    ]
   },
@@ -26328,70 +25247,6 @@ window.KARAK_SPOTS = [
   ],
   "note": "Seef cafeteria. Ask them to go easy on the sugar.",
   "priceEstimated": true,
-  "country": "BH",
-  "currency": "BHD"
- },
- {
-  "name": "Tea Time — Seef",
-  "city": "Seef",
-  "state": "BH",
-  "address": "Seef District, Manama, Bahrain",
-  "lat": 26.2326,
-  "lng": 50.5382,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "00:00",
-    "24:00"
-   ],
-   "tue": [
-    "00:00",
-    "24:00"
-   ],
-   "wed": [
-    "00:00",
-    "24:00"
-   ],
-   "thu": [
-    "00:00",
-    "24:00"
-   ],
-   "fri": [
-    "00:00",
-    "24:00"
-   ],
-   "sat": [
-    "00:00",
-    "24:00"
-   ],
-   "sun": [
-    "00:00",
-    "24:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak Tea (Small)",
-    "price": 0.1
-   },
-   {
-    "item": "Karak Zaffron Tea (Small)",
-    "price": 0.3
-   },
-   {
-    "item": "Chicken Double Burger Combo",
-    "price": 1.6
-   }
-  ],
-  "tags": [
-   "karak",
-   "cafe",
-   "cafeteria",
-   "24h",
-   "late-night"
-  ],
-  "note": "Seef branch covers Manama's mall and office district.",
   "country": "BH",
   "currency": "BHD"
  },
@@ -26521,38 +25376,38 @@ window.KARAK_SPOTS = [
   "name": "Karak 1977 — Sitra",
   "city": "Sitra",
   "state": "BH",
-  "address": "Avenue 6, Sitra",
-  "lat": 26.1694,
-  "lng": 50.601,
-  "rating": null,
-  "reviews": null,
+  "address": "5J96+3WJ, Avenue 6, Sitra, Bahrain",
+  "lat": 26.16771,
+  "lng": 50.61228,
+  "rating": 4.2,
+  "reviews": 74,
   "hours": {
    "mon": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "tue": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "wed": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "thu": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "fri": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "00:00",
     "24:00"
    ]
   },
@@ -27277,38 +26132,38 @@ window.KARAK_SPOTS = [
   "name": "Karak 1977 — Umm Al Hassam",
   "city": "Umm Al Hassam",
   "state": "BH",
-  "address": "Umm Al Hassam Avenue, Manama",
-  "lat": 26.2086,
-  "lng": 50.596,
-  "rating": null,
-  "reviews": null,
+  "address": "Um Al Hassam Ave, Manama, Bahrain",
+  "lat": 26.20252,
+  "lng": 50.59146,
+  "rating": 4.3,
+  "reviews": 310,
   "hours": {
    "mon": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "tue": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "wed": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "thu": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "fri": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "00:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "00:00",
     "24:00"
    ]
   },
@@ -27340,39 +26195,39 @@ window.KARAK_SPOTS = [
   "name": "King Karak — Umm Al Hassam",
   "city": "Umm Al Hassam",
   "state": "BH",
-  "address": "Umm Al Hassam, Manama",
-  "lat": 26.2095,
-  "lng": 50.5975,
-  "rating": null,
-  "reviews": null,
+  "address": "6H2R+MMV, Manama, Bahrain",
+  "lat": 26.20173,
+  "lng": 50.59167,
+  "rating": 4.1,
+  "reviews": 241,
   "hours": {
    "mon": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "01:00"
    ],
    "tue": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "01:00"
    ],
    "wed": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "01:00"
    ],
    "thu": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "01:00"
    ],
    "fri": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "01:00"
    ],
    "sat": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "01:00"
    ],
    "sun": [
-    "06:00",
-    "24:00"
+    "05:00",
+    "01:00"
    ]
   },
   "menu": [
@@ -27403,11 +26258,11 @@ window.KARAK_SPOTS = [
   "name": "Lamsi Karak",
   "city": "Umm Al Hassam",
   "state": "BH",
-  "address": "Road 3509, off Umm Al Hassam Avenue, Manama",
-  "lat": 26.2016,
-  "lng": 50.5918,
-  "rating": null,
-  "reviews": null,
+  "address": "Shop No.249, Bldg 249, 335 Road-338, المنامة، Bahrain",
+  "lat": 26.20157,
+  "lng": 50.59176,
+  "rating": 5.0,
+  "reviews": 12,
   "hours": {
    "mon": [
     "06:00",
@@ -27470,38 +26325,38 @@ window.KARAK_SPOTS = [
   "name": "Capital Karak",
   "city": "West Riffa",
   "state": "BH",
-  "address": "Hunainiyah Avenue, West Riffa",
-  "lat": 26.113,
-  "lng": 50.535,
-  "rating": null,
-  "reviews": null,
+  "address": "4GCV+972, Hunainiyah Ave, Riffa, Bahrain",
+  "lat": 26.12088,
+  "lng": 50.54315,
+  "rating": 3.9,
+  "reviews": 12,
   "hours": {
    "mon": [
-    "06:00",
+    "07:00",
     "24:00"
    ],
    "tue": [
-    "06:00",
+    "07:00",
     "24:00"
    ],
    "wed": [
-    "06:00",
+    "07:00",
     "24:00"
    ],
    "thu": [
-    "06:00",
+    "07:00",
     "24:00"
    ],
    "fri": [
-    "06:00",
-    "24:00"
+    "07:00",
+    "01:00"
    ],
    "sat": [
-    "06:00",
+    "05:00",
     "24:00"
    ],
    "sun": [
-    "06:00",
+    "07:00",
     "24:00"
    ]
   },
@@ -27563,69 +26418,6 @@ window.KARAK_SPOTS = [
   "menu": [],
   "tags": [],
   "note": "",
-  "country": "BH",
-  "currency": "BHD"
- },
- {
-  "name": "Habara Snacks and Fish",
-  "city": "Zallaq",
-  "state": "BH",
-  "address": "Zallaq Highway area, Zallaq",
-  "lat": 26.0465,
-  "lng": 50.489,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "07:00",
-    "24:00"
-   ],
-   "tue": [
-    "07:00",
-    "24:00"
-   ],
-   "wed": [
-    "07:00",
-    "24:00"
-   ],
-   "thu": [
-    "07:00",
-    "24:00"
-   ],
-   "fri": [
-    "07:00",
-    "24:00"
-   ],
-   "sat": [
-    "07:00",
-    "24:00"
-   ],
-   "sun": [
-    "07:00",
-    "24:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak",
-    "price": 0.1
-   },
-   {
-    "item": "Fish sandwich",
-    "price": 0.5
-   },
-   {
-    "item": "Fresh orange juice",
-    "price": 0.6
-   }
-  ],
-  "tags": [
-   "karak",
-   "cafeteria",
-   "late-night"
-  ],
-  "note": "Zallaq stop; fans drive across Bahrain for its karak.",
-  "priceEstimated": true,
   "country": "BH",
   "currency": "BHD"
  },
@@ -27784,39 +26576,39 @@ window.KARAK_SPOTS = [
   "name": "Knafeh Cafe",
   "city": "Anaheim",
   "state": "CA",
-  "address": "866 S Brookhurst St, Anaheim, CA 92804",
-  "lat": 33.8253,
-  "lng": -117.9533,
-  "rating": 4.6,
-  "reviews": 900,
+  "address": "866 S Brookhurst St, Anaheim, CA 92804, USA",
+  "lat": 33.82084,
+  "lng": -117.95825,
+  "rating": 4.2,
+  "reviews": 657,
   "hours": {
    "mon": [
-    "11:00",
-    "23:00"
+    "12:00",
+    "21:00"
    ],
    "tue": [
-    "11:00",
-    "23:00"
+    "12:00",
+    "21:00"
    ],
    "wed": [
-    "11:00",
-    "23:00"
+    "12:00",
+    "21:00"
    ],
    "thu": [
-    "11:00",
-    "23:00"
+    "12:00",
+    "21:00"
    ],
    "fri": [
-    "11:00",
-    "23:00"
+    "12:00",
+    "21:00"
    ],
    "sat": [
-    "11:00",
-    "23:00"
+    "12:00",
+    "21:00"
    ],
    "sun": [
-    "11:00",
-    "23:00"
+    "12:00",
+    "21:00"
    ]
   },
   "menu": [
@@ -27849,11 +26641,11 @@ window.KARAK_SPOTS = [
   "name": "Qahwah & Chapati Yemeni Coffee Shop",
   "city": "Anaheim",
   "state": "CA",
-  "address": "518 S Brookhurst St, Anaheim, CA 92804",
-  "lat": 33.829,
-  "lng": -117.9532,
-  "rating": 4.6,
-  "reviews": 300,
+  "address": "518 S Brookhurst St #3, Anaheim, CA 92804, USA",
+  "lat": 33.82564,
+  "lng": -117.9584,
+  "rating": 4.8,
+  "reviews": 373,
   "hours": {
    "mon": [
     "08:00",
@@ -27916,11 +26708,11 @@ window.KARAK_SPOTS = [
   "name": "Surati Farsan Mart",
   "city": "Artesia",
   "state": "CA",
-  "address": "11814 E 186th St, Artesia, CA 90701",
-  "lat": 33.8689,
-  "lng": -118.0801,
-  "rating": 4.3,
-  "reviews": 2200,
+  "address": "11814 186th St, Artesia, CA 90701, USA",
+  "lat": 33.86276,
+  "lng": -118.08166,
+  "rating": 4.1,
+  "reviews": 1781,
   "hours": {
    "tue": [
     "11:00",
@@ -27977,11 +26769,11 @@ window.KARAK_SPOTS = [
   "name": "Qamaria Yemeni Coffee Co.",
   "city": "Folsom",
   "state": "CA",
-  "address": "13405 Folsom Blvd, Folsom, CA 95630",
-  "lat": 38.6472,
-  "lng": -121.1805,
-  "rating": 4.6,
-  "reviews": 450,
+  "address": "13405 Folsom Blvd #950, Folsom, CA 95630, USA",
+  "lat": 38.65817,
+  "lng": -121.1831,
+  "rating": 4.7,
+  "reviews": 396,
   "hours": {
    "mon": [
     "08:00",
@@ -28043,27 +26835,27 @@ window.KARAK_SPOTS = [
   "name": "Karak Chai",
   "city": "Fremont",
   "state": "CA",
-  "address": "40559 Fremont Blvd, Fremont, CA 94538",
-  "lat": 37.5272,
-  "lng": -121.9667,
-  "rating": 4.8,
-  "reviews": 90,
+  "address": "40559 Fremont Blvd, Fremont, CA 94538, USA",
+  "lat": 37.5359,
+  "lng": -121.96542,
+  "rating": 4.5,
+  "reviews": 138,
   "hours": {
    "mon": [
     "12:00",
-    "02:00"
+    "01:00"
    ],
    "tue": [
     "12:00",
-    "02:00"
+    "01:00"
    ],
    "wed": [
     "12:00",
-    "02:00"
+    "01:00"
    ],
    "thu": [
     "12:00",
-    "02:00"
+    "01:00"
    ],
    "fri": [
     "12:00",
@@ -28072,6 +26864,10 @@ window.KARAK_SPOTS = [
    "sat": [
     "12:00",
     "02:00"
+   ],
+   "sun": [
+    "12:00",
+    "01:00"
    ]
   },
   "menu": [
@@ -28105,39 +26901,39 @@ window.KARAK_SPOTS = [
   "name": "Qamaria Yemeni Coffee Co.",
   "city": "Fremont",
   "state": "CA",
-  "address": "4193 Cushing Pkwy, Fremont, CA 94538",
-  "lat": 37.495,
-  "lng": -121.9475,
-  "rating": 4.6,
-  "reviews": 280,
+  "address": "4193 Cushing Pkwy, Fremont, CA 94538, USA",
+  "lat": 37.49082,
+  "lng": -121.95034,
+  "rating": 4.4,
+  "reviews": 849,
   "hours": {
    "mon": [
     "08:00",
-    "23:00"
+    "24:00"
    ],
    "tue": [
     "08:00",
-    "23:00"
+    "24:00"
    ],
    "wed": [
     "08:00",
-    "23:00"
+    "24:00"
    ],
    "thu": [
     "08:00",
-    "23:00"
+    "24:00"
    ],
    "fri": [
     "08:00",
-    "24:00"
+    "01:00"
    ],
    "sat": [
     "08:00",
-    "24:00"
+    "01:00"
    ],
    "sun": [
     "08:00",
-    "23:00"
+    "24:00"
    ]
   },
   "menu": [
@@ -28172,11 +26968,11 @@ window.KARAK_SPOTS = [
   "name": "Karak House Coffee Co.",
   "city": "Laguna Hills",
   "state": "CA",
-  "address": "25630 Alicia Pkwy, Laguna Hills, CA 92653",
-  "lat": 33.602,
-  "lng": -117.718,
-  "rating": 4.6,
-  "reviews": 700,
+  "address": "25630 Alicia Pkwy, Laguna Hills, CA 92653, USA",
+  "lat": 33.59046,
+  "lng": -117.69928,
+  "rating": 4.5,
+  "reviews": 562,
   "hours": {
    "mon": [
     "08:00",
@@ -28238,39 +27034,39 @@ window.KARAK_SPOTS = [
   "name": "Sana'a Cafe",
   "city": "Mountain View",
   "state": "CA",
-  "address": "650 Castro St, Ste 110, Mountain View, CA 94041",
-  "lat": 37.3879,
-  "lng": -122.0817,
-  "rating": 4.7,
-  "reviews": 220,
+  "address": "650 Castro St suit 110, Mountain View, CA 94041, USA",
+  "lat": 37.38776,
+  "lng": -122.08304,
+  "rating": 4.2,
+  "reviews": 57,
   "hours": {
    "mon": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "22:00"
    ],
    "tue": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "22:00"
    ],
    "wed": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "22:00"
    ],
    "thu": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "22:00"
    ],
    "fri": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "22:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "22:00"
    ],
    "sun": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "22:00"
    ]
   },
   "menu": [
@@ -28304,38 +27100,38 @@ window.KARAK_SPOTS = [
   "name": "Sana'a Cafe",
   "city": "Sacramento",
   "state": "CA",
-  "address": "901 K St, Sacramento, CA 95814",
-  "lat": 38.58,
-  "lng": -121.4938,
-  "rating": 4.5,
-  "reviews": 480,
+  "address": "901 K St, Sacramento, CA 95814, USA",
+  "lat": 38.57969,
+  "lng": -121.49501,
+  "rating": 4.8,
+  "reviews": 727,
   "hours": {
    "mon": [
-    "07:00",
+    "08:00",
     "22:00"
    ],
    "tue": [
-    "07:00",
+    "08:00",
     "22:00"
    ],
    "wed": [
-    "07:00",
+    "08:00",
     "22:00"
    ],
    "thu": [
-    "07:00",
+    "08:00",
     "22:00"
    ],
    "fri": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "sat": [
-    "08:00",
+    "09:00",
     "23:00"
    ],
    "sun": [
-    "08:00",
+    "09:00",
     "22:00"
    ]
   },
@@ -28370,11 +27166,11 @@ window.KARAK_SPOTS = [
   "name": "Karak House Coffee Co.",
   "city": "San Diego",
   "state": "CA",
-  "address": "9254 Scranton Rd, San Diego, CA 92121",
-  "lat": 32.8995,
-  "lng": -117.2,
-  "rating": 4.7,
-  "reviews": 400,
+  "address": "9254 Scranton Rd Ste 104, San Diego, CA 92121, USA",
+  "lat": 32.89099,
+  "lng": -117.20169,
+  "rating": 4.4,
+  "reviews": 343,
   "hours": {
    "mon": [
     "07:00",
@@ -28436,11 +27232,11 @@ window.KARAK_SPOTS = [
   "name": "Delah Coffee",
   "city": "San Francisco",
   "state": "CA",
-  "address": "370 4th St, San Francisco, CA 94107",
-  "lat": 37.7805,
-  "lng": -122.3995,
-  "rating": 4.6,
-  "reviews": 540,
+  "address": "370 4th St, San Francisco, CA 94107, USA",
+  "lat": 37.78102,
+  "lng": -122.40022,
+  "rating": 4.7,
+  "reviews": 1134,
   "hours": {
    "mon": [
     "06:00",
@@ -28451,7 +27247,7 @@ window.KARAK_SPOTS = [
     "23:00"
    ],
    "wed": [
-    "06:00",
+    "07:00",
     "23:00"
    ],
    "thu": [
@@ -28459,8 +27255,8 @@ window.KARAK_SPOTS = [
     "23:00"
    ],
    "fri": [
-    "06:00",
-    "23:00"
+    "07:00",
+    "24:00"
    ],
    "sat": [
     "07:00",
@@ -28503,11 +27299,11 @@ window.KARAK_SPOTS = [
   "name": "Chayakada Cafe",
   "city": "San Jose",
   "state": "CA",
-  "address": "117 Bernal Rd, Ste 80, San Jose, CA 95119",
-  "lat": 37.2356,
-  "lng": -121.7768,
+  "address": "117 Bernal Rd Ste 80, San Jose, CA 95119, USA",
+  "lat": 37.23066,
+  "lng": -121.77534,
   "rating": 4.5,
-  "reviews": 350,
+  "reviews": 310,
   "hours": {
    "mon": [
     "09:00",
@@ -28564,38 +27360,38 @@ window.KARAK_SPOTS = [
   "name": "Coffee & Chai",
   "city": "San Jose",
   "state": "CA",
-  "address": "31 Rio Robles E, San Jose, CA 95134",
-  "lat": 37.3992,
-  "lng": -121.944,
-  "rating": 4.6,
-  "reviews": 120,
+  "address": "31 Rio Robles E, San Jose, CA 95134, USA",
+  "lat": 37.40649,
+  "lng": -121.9418,
+  "rating": 4.4,
+  "reviews": 106,
   "hours": {
    "mon": [
-    "08:00",
-    "20:00"
+    "07:00",
+    "19:00"
    ],
    "tue": [
-    "08:00",
-    "20:00"
+    "07:00",
+    "19:00"
    ],
    "wed": [
-    "08:00",
+    "07:00",
     "20:00"
    ],
    "thu": [
-    "08:00",
+    "07:00",
     "20:00"
    ],
    "fri": [
-    "08:00",
+    "07:00",
     "20:00"
    ],
    "sat": [
-    "09:00",
+    "07:00",
     "20:00"
    ],
    "sun": [
-    "09:00",
+    "07:00",
     "20:00"
    ]
   },
@@ -28629,11 +27425,11 @@ window.KARAK_SPOTS = [
   "name": "Qamaria Yemeni Coffee Co.",
   "city": "Aurora",
   "state": "CO",
-  "address": "15464 E Hampden Ave, Aurora, CO 80013",
-  "lat": 39.6535,
-  "lng": -104.8065,
-  "rating": 4.7,
-  "reviews": 380,
+  "address": "15464 E Hampden Ave, Aurora, CO 80013, USA",
+  "lat": 39.65235,
+  "lng": -104.80801,
+  "rating": 4.9,
+  "reviews": 147,
   "hours": {
    "mon": [
     "09:00",
@@ -46095,27 +44891,27 @@ window.KARAK_SPOTS = [
   "name": "Jabal Coffee House",
   "city": "Orlando",
   "state": "FL",
-  "address": "8335 S John Young Pkwy, Orlando, FL 32819",
-  "lat": 28.4499,
-  "lng": -81.4258,
+  "address": "8335 S John Young Pkwy, Orlando, FL 32819, USA",
+  "lat": 28.44425,
+  "lng": -81.42682,
   "rating": 4.8,
-  "reviews": 800,
+  "reviews": 622,
   "hours": {
    "mon": [
     "08:00",
-    "00:00"
+    "24:00"
    ],
    "tue": [
     "08:00",
-    "00:00"
+    "24:00"
    ],
    "wed": [
     "08:00",
-    "00:00"
+    "24:00"
    ],
    "thu": [
     "08:00",
-    "00:00"
+    "24:00"
    ],
    "fri": [
     "08:00",
@@ -46127,7 +44923,7 @@ window.KARAK_SPOTS = [
    ],
    "sun": [
     "08:00",
-    "00:00"
+    "24:00"
    ]
   },
   "menu": [
@@ -46158,11 +44954,11 @@ window.KARAK_SPOTS = [
   "name": "Haraz Coffee House",
   "city": "Pembroke Pines",
   "state": "FL",
-  "address": "15811 Pines Blvd, Pembroke Pines, FL 33027",
-  "lat": 26.0073,
+  "address": "15811 Pines Blvd, Pembroke Pines, FL 33027, USA",
+  "lat": 26.0084,
   "lng": -80.3577,
-  "rating": 4.7,
-  "reviews": 400,
+  "rating": 4.8,
+  "reviews": 445,
   "hours": {
    "mon": [
     "07:00",
@@ -46222,11 +45018,11 @@ window.KARAK_SPOTS = [
   "name": "Qamaria Yemeni Coffee Co.",
   "city": "Temple Terrace",
   "state": "FL",
-  "address": "11301 N 56th St Suite 15, Temple Terrace, FL 33617",
-  "lat": 28.0536,
-  "lng": -82.3927,
+  "address": "11301 N 56th St Ste 15, Temple Terrace, FL 33617, USA",
+  "lat": 28.0519,
+  "lng": -82.39267,
   "rating": 4.8,
-  "reviews": 980,
+  "reviews": 924,
   "hours": {
    "mon": [
     "07:00",
@@ -46246,11 +45042,11 @@ window.KARAK_SPOTS = [
    ],
    "fri": [
     "07:00",
-    "00:00"
+    "24:00"
    ],
    "sat": [
     "07:00",
-    "00:00"
+    "24:00"
    ],
    "sun": [
     "07:00",
@@ -46285,11 +45081,11 @@ window.KARAK_SPOTS = [
   "name": "Haraz Coffee House",
   "city": "Wesley Chapel",
   "state": "FL",
-  "address": "1722 Bruce B Downs Blvd, Wesley Chapel, FL 33544",
-  "lat": 28.1909,
-  "lng": -82.3527,
-  "rating": 4.7,
-  "reviews": 300,
+  "address": "1722 Bruce B Downs Blvd, Wesley Chapel, FL 33544, USA",
+  "lat": 28.18235,
+  "lng": -82.35142,
+  "rating": 4.8,
+  "reviews": 949,
   "hours": {
    "mon": [
     "07:00",
@@ -46308,15 +45104,15 @@ window.KARAK_SPOTS = [
     "23:00"
    ],
    "fri": [
-    "09:00",
-    "23:00"
+    "07:00",
+    "24:00"
    ],
    "sat": [
-    "09:00",
-    "00:00"
+    "07:00",
+    "24:00"
    ],
    "sun": [
-    "09:00",
+    "07:00",
     "23:00"
    ]
   },
@@ -46348,15 +45144,15 @@ window.KARAK_SPOTS = [
   "name": "Shibam Coffee",
   "city": "Alpharetta",
   "state": "GA",
-  "address": "4000 North Point Pkwy Suite 900, Alpharetta, GA 30022",
-  "lat": 34.0543,
-  "lng": -84.2821,
-  "rating": 4.6,
-  "reviews": 350,
+  "address": "4000 North Point Pkwy Ste #900, Alpharetta, GA 30022, USA",
+  "lat": 34.06667,
+  "lng": -84.26132,
+  "rating": 4.7,
+  "reviews": 590,
   "hours": {
    "mon": [
     "08:00",
-    "22:00"
+    "24:00"
    ],
    "tue": [
     "08:00",
@@ -46364,23 +45160,23 @@ window.KARAK_SPOTS = [
    ],
    "wed": [
     "08:00",
-    "22:00"
+    "24:00"
    ],
    "thu": [
     "08:00",
-    "22:00"
+    "24:00"
    ],
    "fri": [
     "08:00",
-    "00:00"
+    "02:00"
    ],
    "sat": [
     "08:00",
-    "00:00"
+    "02:00"
    ],
    "sun": [
     "08:00",
-    "22:00"
+    "24:00"
    ]
   },
   "menu": [
@@ -46411,11 +45207,11 @@ window.KARAK_SPOTS = [
   "name": "Haraz Coffee House Midtown",
   "city": "Atlanta",
   "state": "GA",
-  "address": "930 Spring St NW Suite 5, Atlanta, GA 30309",
-  "lat": 33.7793,
-  "lng": -84.3886,
-  "rating": 4.8,
-  "reviews": 450,
+  "address": "930 Spring St NW Suite 5, Atlanta, GA 30309, USA",
+  "lat": 33.7804,
+  "lng": -84.38917,
+  "rating": 4.7,
+  "reviews": 214,
   "hours": {
    "mon": [
     "08:00",
@@ -46435,11 +45231,11 @@ window.KARAK_SPOTS = [
    ],
    "fri": [
     "08:00",
-    "00:00"
+    "24:00"
    ],
    "sat": [
     "08:00",
-    "00:00"
+    "24:00"
    ],
    "sun": [
     "08:00",
@@ -46475,39 +45271,39 @@ window.KARAK_SPOTS = [
   "name": "Qamaria Yemeni Coffee Co.",
   "city": "Duluth",
   "state": "GA",
-  "address": "2645 N Berkeley Lake Rd NW Ste 221, Duluth, GA 30096",
-  "lat": 33.9897,
-  "lng": -84.1675,
+  "address": "2645 N Berkeley Lake Rd NW Ste 221, Duluth, GA 30096, USA",
+  "lat": 33.97582,
+  "lng": -84.15938,
   "rating": 4.6,
-  "reviews": 300,
+  "reviews": 196,
   "hours": {
    "mon": [
-    "08:00",
-    "01:00"
+    "12:00",
+    "24:00"
    ],
    "tue": [
-    "08:00",
-    "01:00"
+    "12:00",
+    "24:00"
    ],
    "wed": [
-    "08:00",
-    "01:00"
+    "12:00",
+    "24:00"
    ],
    "thu": [
-    "08:00",
-    "01:00"
+    "12:00",
+    "24:00"
    ],
    "fri": [
-    "08:00",
-    "02:00"
+    "10:00",
+    "01:00"
    ],
    "sat": [
-    "08:00",
-    "02:00"
+    "10:00",
+    "01:00"
    ],
    "sun": [
-    "08:00",
-    "01:00"
+    "10:00",
+    "24:00"
    ]
   },
   "menu": [
@@ -46538,11 +45334,11 @@ window.KARAK_SPOTS = [
   "name": "Karachi Chaat House",
   "city": "Chicago",
   "state": "IL",
-  "address": "2301 W Devon Ave, Chicago, IL 60659",
-  "lat": 41.9975,
-  "lng": -87.6893,
+  "address": "2301 W Devon Ave, Chicago, IL 60659, USA",
+  "lat": 41.99759,
+  "lng": -87.68765,
   "rating": 4.2,
-  "reviews": 2000,
+  "reviews": 1689,
   "hours": {
    "mon": [
     "12:00",
@@ -46597,74 +45393,14 @@ window.KARAK_SPOTS = [
   "priceEstimated": true
  },
  {
-  "name": "Karak Cafe",
-  "city": "Lisle",
-  "state": "IL",
-  "address": "2004 Ogden Ave, Lisle, IL 60532",
-  "lat": 41.803,
-  "lng": -88.092,
-  "rating": 4.9,
-  "reviews": 216,
-  "hours": {
-   "tue": [
-    "11:00",
-    "23:00"
-   ],
-   "wed": [
-    "11:00",
-    "23:00"
-   ],
-   "thu": [
-    "11:00",
-    "23:00"
-   ],
-   "fri": [
-    "11:00",
-    "00:00"
-   ],
-   "sat": [
-    "11:00",
-    "00:00"
-   ],
-   "sun": [
-    "11:00",
-    "22:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Karak chai",
-    "price": 3.99
-   },
-   {
-    "item": "Masala chai",
-    "price": 4.25
-   },
-   {
-    "item": "Zaatar manakeesh",
-    "price": 7.99
-   }
-  ],
-  "tags": [
-   "karak",
-   "masala",
-   "indian",
-   "pakistani",
-   "cafe",
-   "late-night"
-  ],
-  "note": "Karak brewed to order on Ogden Avenue.",
-  "priceEstimated": true
- },
- {
   "name": "Qahwah House",
   "city": "Lombard",
   "state": "IL",
-  "address": "406 E Roosevelt Rd, Lombard, IL 60148",
-  "lat": 41.86,
-  "lng": -88.003,
+  "address": "406 E Roosevelt Rd, Lombard, IL 60148, USA",
+  "lat": 41.86089,
+  "lng": -88.00737,
   "rating": 4.5,
-  "reviews": 150,
+  "reviews": 2145,
   "hours": {
    "mon": [
     "07:00",
@@ -46684,14 +45420,14 @@ window.KARAK_SPOTS = [
    ],
    "fri": [
     "07:00",
-    "24:00"
+    "01:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sun": [
-    "07:00",
+    "08:00",
     "24:00"
    ]
   },
@@ -46724,39 +45460,39 @@ window.KARAK_SPOTS = [
   "name": "Haraz Coffee House",
   "city": "Niles",
   "state": "IL",
-  "address": "7007 W Dempster St, Niles, IL 60714",
-  "lat": 42.0409,
-  "lng": -87.803,
-  "rating": 4.6,
-  "reviews": 400,
+  "address": "7007 W Dempster St, Niles, IL 60714, USA",
+  "lat": 42.04021,
+  "lng": -87.80163,
+  "rating": 4.4,
+  "reviews": 509,
   "hours": {
    "mon": [
     "07:00",
-    "00:00"
+    "01:00"
    ],
    "tue": [
     "07:00",
-    "00:00"
+    "01:00"
    ],
    "wed": [
     "07:00",
-    "00:00"
+    "01:00"
    ],
    "thu": [
     "07:00",
-    "00:00"
+    "01:00"
    ],
    "fri": [
     "07:00",
-    "00:00"
+    "01:00"
    ],
    "sat": [
     "07:00",
-    "00:00"
+    "01:00"
    ],
    "sun": [
     "07:00",
-    "00:00"
+    "01:00"
    ]
   },
   "menu": [
@@ -46788,11 +45524,11 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Skokie",
   "state": "IL",
-  "address": "5238 Touhy Ave, Skokie, IL 60077",
-  "lat": 42.012,
-  "lng": -87.734,
-  "rating": 4.5,
-  "reviews": 80,
+  "address": "5238 W Touhy Ave, Skokie, IL 60077, USA",
+  "lat": 42.0124,
+  "lng": -87.75919,
+  "rating": 4.4,
+  "reviews": 965,
   "hours": {
    "mon": [
     "07:00",
@@ -46812,14 +45548,14 @@ window.KARAK_SPOTS = [
    ],
    "fri": [
     "07:00",
-    "24:00"
+    "01:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "09:00",
+    "01:00"
    ],
    "sun": [
-    "07:00",
+    "09:00",
     "24:00"
    ]
   },
@@ -46852,38 +45588,38 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Fishers",
   "state": "IN",
-  "address": "11680 Commercial Dr #800, Fishers, IN 46038",
-  "lat": 39.955,
-  "lng": -86.015,
+  "address": "11680 Commercial Dr #800, Fishers, IN 46038, USA",
+  "lat": 39.95927,
+  "lng": -86.01289,
   "rating": 4.6,
-  "reviews": 43,
+  "reviews": 301,
   "hours": {
    "mon": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "tue": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "wed": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "thu": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "fri": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sun": [
-    "07:00",
+    "08:00",
     "23:00"
    ]
   },
@@ -46915,11 +45651,11 @@ window.KARAK_SPOTS = [
   "name": "MOTW Coffee & Pastries",
   "city": "Indianapolis",
   "state": "IN",
-  "address": "4873 W 38th St, Indianapolis, IN 46254",
-  "lat": 39.8256,
-  "lng": -86.228,
+  "address": "4873 W 38th St, Indianapolis, IN 46254, USA",
+  "lat": 39.82307,
+  "lng": -86.24268,
   "rating": 4.8,
-  "reviews": 700,
+  "reviews": 693,
   "hours": {
    "mon": [
     "07:00",
@@ -46981,11 +45717,11 @@ window.KARAK_SPOTS = [
   "name": "Arwa Yemeni Coffee",
   "city": "Brookline",
   "state": "MA",
-  "address": "1333 Beacon St, Brookline, MA 02446",
-  "lat": 42.34216,
-  "lng": -71.12191,
+  "address": "1333 Beacon St, Brookline, MA 02446, USA",
+  "lat": 42.34179,
+  "lng": -71.12153,
   "rating": 4.6,
-  "reviews": 120,
+  "reviews": 181,
   "hours": {
    "mon": [
     "07:00",
@@ -47048,39 +45784,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Ann Arbor",
   "state": "MI",
-  "address": "211 N Maple Rd, Ann Arbor, MI 48103",
-  "lat": 42.287,
-  "lng": -83.779,
-  "rating": 4.5,
-  "reviews": 80,
+  "address": "211 N Maple Rd, Ann Arbor, MI 48103, USA",
+  "lat": 42.28354,
+  "lng": -83.78157,
+  "rating": 4.3,
+  "reviews": 163,
   "hours": {
    "mon": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "22:00"
    ],
    "tue": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "22:00"
    ],
    "wed": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "22:00"
    ],
    "thu": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "22:00"
    ],
    "fri": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "09:00",
+    "23:00"
    ],
    "sun": [
-    "07:00",
-    "23:00"
+    "09:00",
+    "22:00"
    ]
   },
   "menu": [
@@ -47111,39 +45847,39 @@ window.KARAK_SPOTS = [
   "name": "CupsnChai",
   "city": "Canton",
   "state": "MI",
-  "address": "43339 Joy Rd, Canton, MI 48187",
-  "lat": 42.3372,
-  "lng": -83.456,
+  "address": "43339 Joy Rd, Canton Township, MI 48187, USA",
+  "lat": 42.35007,
+  "lng": -83.46767,
   "rating": 4.8,
-  "reviews": 650,
+  "reviews": 641,
   "hours": {
    "mon": [
-    "12:00",
-    "23:00"
+    "10:00",
+    "22:00"
    ],
    "tue": [
-    "12:00",
-    "23:00"
+    "10:00",
+    "22:00"
    ],
    "wed": [
-    "12:00",
-    "23:00"
+    "10:00",
+    "22:00"
    ],
    "thu": [
-    "12:00",
-    "23:00"
+    "10:00",
+    "22:00"
    ],
    "fri": [
-    "12:00",
-    "23:00"
+    "10:00",
+    "24:00"
    ],
    "sat": [
-    "12:00",
-    "23:00"
+    "09:00",
+    "24:00"
    ],
    "sun": [
-    "12:00",
-    "23:00"
+    "09:00",
+    "22:00"
    ]
   },
   "menu": [
@@ -47178,39 +45914,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Canton",
   "state": "MI",
-  "address": "42051 Ford Rd, Canton, MI 48187",
-  "lat": 42.326,
-  "lng": -83.452,
-  "rating": 4.6,
-  "reviews": 90,
+  "address": "42051 Ford Rd, Canton Township, MI 48187, USA",
+  "lat": 42.32146,
+  "lng": -83.45645,
+  "rating": 4.4,
+  "reviews": 474,
   "hours": {
    "mon": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "tue": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "wed": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "thu": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "fri": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
-    "24:00"
+    "09:00",
+    "23:00"
    ]
   },
   "menu": [
@@ -47242,39 +45978,39 @@ window.KARAK_SPOTS = [
   "name": "Haraz Coffee House",
   "city": "Dearborn",
   "state": "MI",
-  "address": "13810 Michigan Ave, Dearborn, MI 48126",
-  "lat": 42.3065,
-  "lng": -83.1762,
+  "address": "13810 Michigan Ave, Dearborn, MI 48126, USA",
+  "lat": 42.3217,
+  "lng": -83.17865,
   "rating": 4.6,
-  "reviews": 1300,
+  "reviews": 1230,
   "hours": {
    "mon": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "23:00"
    ],
    "tue": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "23:00"
    ],
    "wed": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "23:00"
    ],
    "thu": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "23:00"
    ],
    "fri": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "23:30"
    ],
    "sat": [
-    "06:00",
-    "00:00"
+    "08:00",
+    "23:30"
    ],
    "sun": [
-    "06:00",
-    "00:00"
+    "08:00",
+    "23:30"
    ]
   },
   "menu": [
@@ -47309,9 +46045,9 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Dearborn",
   "state": "MI",
-  "address": "6655 Schaefer Rd, Dearborn, MI 48126",
-  "lat": 42.3344,
-  "lng": -83.1539,
+  "address": "5320 Oakman Blvd, Dearborn, MI 48126, USA",
+  "lat": 42.32728,
+  "lng": -83.16842,
   "rating": 4.6,
   "reviews": 293,
   "hours": {
@@ -47372,39 +46108,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House — The Canteen",
   "city": "Dearborn",
   "state": "MI",
-  "address": "720 Town Center Dr, Dearborn, MI 48126",
-  "lat": 42.322,
-  "lng": -83.176,
-  "rating": 4.5,
-  "reviews": 60,
+  "address": "720 Town Center Dr, Dearborn, MI 48126, USA",
+  "lat": 42.31346,
+  "lng": -83.2259,
+  "rating": 4.2,
+  "reviews": 29,
   "hours": {
    "mon": [
-    "07:00",
+    "11:00",
     "23:00"
    ],
    "tue": [
-    "07:00",
+    "11:00",
     "23:00"
    ],
    "wed": [
-    "07:00",
+    "11:00",
     "23:00"
    ],
    "thu": [
-    "07:00",
+    "11:00",
     "23:00"
    ],
    "fri": [
-    "07:00",
+    "11:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "12:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
-    "23:00"
+    "12:00",
+    "22:00"
    ]
   },
   "menu": [
@@ -47435,27 +46171,27 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House — West Dearborn",
   "city": "Dearborn",
   "state": "MI",
-  "address": "22000 Michigan Ave, Dearborn, MI 48124",
-  "lat": 42.311,
-  "lng": -83.241,
-  "rating": 4.6,
-  "reviews": 120,
+  "address": "22000 Michigan Ave, Dearborn, MI 48124, USA",
+  "lat": 42.30626,
+  "lng": -83.24444,
+  "rating": 4.7,
+  "reviews": 1442,
   "hours": {
    "mon": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "tue": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "wed": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "thu": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "fri": [
     "07:00",
@@ -47466,8 +46202,8 @@ window.KARAK_SPOTS = [
     "24:00"
    ],
    "sun": [
-    "07:00",
-    "24:00"
+    "09:00",
+    "23:00"
    ]
   },
   "menu": [
@@ -47498,39 +46234,39 @@ window.KARAK_SPOTS = [
   "name": "Qamaria Yemeni Coffee Co.",
   "city": "Dearborn",
   "state": "MI",
-  "address": "25245 Ford Rd, Ste B, Dearborn, MI 48127",
-  "lat": 42.3255,
-  "lng": -83.284,
-  "rating": 4.7,
-  "reviews": 500,
+  "address": "25245 Ford Rd Ste B, Dearborn, MI 48128, USA",
+  "lat": 42.32654,
+  "lng": -83.28564,
+  "rating": 4.4,
+  "reviews": 404,
   "hours": {
    "mon": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "22:00"
    ],
    "tue": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "22:00"
    ],
    "wed": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "22:00"
    ],
    "thu": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "22:00"
    ],
    "fri": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "23:00"
    ],
    "sat": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "23:00"
    ],
    "sun": [
-    "06:00",
-    "00:00"
+    "07:00",
+    "22:00"
    ]
   },
   "menu": [
@@ -47562,39 +46298,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Dearborn Heights",
   "state": "MI",
-  "address": "26713 Ford Rd, Dearborn Heights, MI 48127",
-  "lat": 42.329,
-  "lng": -83.311,
-  "rating": 4.5,
-  "reviews": 70,
+  "address": "26713 Ford Rd, Dearborn Heights, MI 48127, USA",
+  "lat": 42.32588,
+  "lng": -83.3035,
+  "rating": 4.6,
+  "reviews": 232,
   "hours": {
    "mon": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "tue": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "wed": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "thu": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "fri": [
     "07:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
-    "24:00"
+    "09:00",
+    "23:00"
    ]
   },
   "menu": [
@@ -47626,39 +46362,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Grand Rapids",
   "state": "MI",
-  "address": "2107 E Beltline Ave NE, Grand Rapids, MI 49525",
-  "lat": 42.997,
-  "lng": -85.59,
-  "rating": 4.5,
-  "reviews": 70,
+  "address": "2107 E Beltline Ave NE Ste A, Grand Rapids, MI 49525, USA",
+  "lat": 43.0009,
+  "lng": -85.59112,
+  "rating": 4.8,
+  "reviews": 303,
   "hours": {
    "mon": [
     "07:00",
-    "23:00"
+    "22:00"
    ],
    "tue": [
     "07:00",
-    "23:00"
+    "22:00"
    ],
    "wed": [
     "07:00",
-    "23:00"
+    "22:00"
    ],
    "thu": [
     "07:00",
-    "23:00"
+    "22:00"
    ],
    "fri": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "sat": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "sun": [
     "07:00",
-    "23:00"
+    "22:00"
    ]
   },
   "menu": [
@@ -47689,39 +46425,39 @@ window.KARAK_SPOTS = [
   "name": "Hakaya Cafe",
   "city": "Hamtramck",
   "state": "MI",
-  "address": "8902 Joseph Campau Ave, Hamtramck, MI 48212",
-  "lat": 42.3884,
-  "lng": -83.0555,
-  "rating": 4.8,
-  "reviews": 250,
+  "address": "8902 Joseph Campau Ave, Hamtramck, MI 48212, USA",
+  "lat": 42.39103,
+  "lng": -83.05385,
+  "rating": 4.7,
+  "reviews": 259,
   "hours": {
    "mon": [
     "07:00",
-    "00:00"
+    "24:00"
    ],
    "tue": [
     "07:00",
-    "00:00"
+    "24:00"
    ],
    "wed": [
     "07:00",
-    "00:00"
+    "24:00"
    ],
    "thu": [
     "07:00",
-    "00:00"
+    "24:00"
    ],
    "fri": [
     "07:00",
-    "00:00"
+    "24:00"
    ],
    "sat": [
     "07:00",
-    "00:00"
+    "24:00"
    ],
    "sun": [
     "07:00",
-    "00:00"
+    "24:00"
    ]
   },
   "menu": [
@@ -47752,39 +46488,39 @@ window.KARAK_SPOTS = [
   "name": "Yemen Cafe",
   "city": "Hamtramck",
   "state": "MI",
-  "address": "8740 Joseph Campau Ave, Hamtramck, MI 48212",
-  "lat": 42.3872,
-  "lng": -83.0548,
+  "address": "8740 Joseph Campau Ave, Hamtramck, MI 48212, USA",
+  "lat": 42.39018,
+  "lng": -83.05329,
   "rating": 4.4,
-  "reviews": 1900,
+  "reviews": 3543,
   "hours": {
    "mon": [
-    "09:00",
-    "23:00"
+    "08:00",
+    "01:00"
    ],
    "tue": [
-    "09:00",
-    "23:00"
+    "08:00",
+    "01:00"
    ],
    "wed": [
-    "09:00",
-    "23:00"
+    "08:00",
+    "01:00"
    ],
    "thu": [
-    "09:00",
-    "23:00"
+    "08:00",
+    "01:00"
    ],
    "fri": [
-    "09:00",
-    "23:00"
+    "08:00",
+    "01:00"
    ],
    "sat": [
-    "09:00",
-    "23:00"
+    "08:00",
+    "01:00"
    ],
    "sun": [
-    "09:00",
-    "23:00"
+    "08:00",
+    "01:00"
    ]
   },
   "menu": [
@@ -47812,39 +46548,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Sterling Heights",
   "state": "MI",
-  "address": "3743 15 Mile Rd, Sterling Heights, MI 48310",
-  "lat": 42.545,
-  "lng": -83.054,
-  "rating": 4.5,
-  "reviews": 60,
+  "address": "3743 15 Mile Rd, Sterling Heights, MI 48310, USA",
+  "lat": 42.5524,
+  "lng": -83.07116,
+  "rating": 4.2,
+  "reviews": 173,
   "hours": {
    "mon": [
-    "07:00",
-    "24:00"
+    "08:30",
+    "23:00"
    ],
    "tue": [
-    "07:00",
-    "24:00"
+    "08:30",
+    "23:00"
    ],
    "wed": [
-    "07:00",
-    "24:00"
+    "08:30",
+    "23:00"
    ],
    "thu": [
-    "07:00",
-    "24:00"
+    "08:30",
+    "23:00"
    ],
    "fri": [
-    "07:00",
+    "08:30",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "08:30",
     "24:00"
    ],
    "sun": [
-    "07:00",
-    "24:00"
+    "08:30",
+    "23:00"
    ]
   },
   "menu": [
@@ -47876,39 +46612,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "West Bloomfield",
   "state": "MI",
-  "address": "33260 W 14 Mile Rd, West Bloomfield Township, MI 48322",
-  "lat": 42.526,
-  "lng": -83.387,
-  "rating": 4.5,
-  "reviews": 60,
+  "address": "33260 W 14 Mile Rd, West Bloomfield Township, MI 48322, USA",
+  "lat": 42.52895,
+  "lng": -83.37823,
+  "rating": 4.4,
+  "reviews": 216,
   "hours": {
    "mon": [
     "07:00",
-    "23:00"
+    "22:00"
    ],
    "tue": [
     "07:00",
-    "23:00"
+    "22:00"
    ],
    "wed": [
     "07:00",
-    "23:00"
+    "22:00"
    ],
    "thu": [
     "07:00",
-    "23:00"
+    "22:00"
    ],
    "fri": [
     "07:00",
-    "24:00"
+    "22:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "sun": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "22:00"
    ]
   },
   "menu": [
@@ -47939,39 +46675,39 @@ window.KARAK_SPOTS = [
   "name": "Qamaria Yemeni Coffee Co.",
   "city": "Eden Prairie",
   "state": "MN",
-  "address": "582 Prairie Center Dr, Suite 260, Eden Prairie, MN 55344",
-  "lat": 44.8572,
-  "lng": -93.4286,
-  "rating": 4.7,
-  "reviews": 550,
+  "address": "582 Prairie Center Dr Ste #260, Eden Prairie, MN 55344, USA",
+  "lat": 44.85329,
+  "lng": -93.4292,
+  "rating": 4.6,
+  "reviews": 612,
   "hours": {
    "mon": [
-    "06:00",
+    "08:00",
     "23:00"
    ],
    "tue": [
-    "06:00",
+    "08:00",
     "23:00"
    ],
    "wed": [
-    "06:00",
+    "08:00",
     "23:00"
    ],
    "thu": [
-    "06:00",
+    "08:00",
     "23:00"
    ],
    "fri": [
-    "06:00",
-    "23:00"
+    "08:00",
+    "01:00"
    ],
    "sat": [
-    "06:00",
-    "23:00"
+    "08:00",
+    "01:00"
    ],
    "sun": [
-    "06:00",
-    "23:00"
+    "08:00",
+    "01:00"
    ]
   },
   "menu": [
@@ -48002,39 +46738,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Minneapolis",
   "state": "MN",
-  "address": "1851 Central Ave NE, Minneapolis, MN 55418",
-  "lat": 45.009,
-  "lng": -93.247,
-  "rating": 4.6,
-  "reviews": 120,
+  "address": "1851 Central Ave NE, Minneapolis, MN 55418, USA",
+  "lat": 45.00775,
+  "lng": -93.24706,
+  "rating": 4.7,
+  "reviews": 408,
   "hours": {
    "mon": [
     "07:00",
-    "23:00"
+    "24:00"
    ],
    "tue": [
     "07:00",
-    "23:00"
+    "24:00"
    ],
    "wed": [
     "07:00",
-    "23:00"
+    "24:00"
    ],
    "thu": [
     "07:00",
-    "23:00"
+    "24:00"
    ],
    "fri": [
     "07:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
-    "23:00"
+    "08:00",
+    "24:00"
    ]
   },
   "menu": [
@@ -48065,11 +46801,11 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Charlotte",
   "state": "NC",
-  "address": "1318 Pecan Ave Suite 101, Charlotte, NC 28205",
-  "lat": 35.216,
-  "lng": -80.805,
-  "rating": 4.5,
-  "reviews": 90,
+  "address": "1318 Pecan Ave, Charlotte, NC 28205, USA",
+  "lat": 35.221,
+  "lng": -80.81321,
+  "rating": 4.9,
+  "reviews": 694,
   "hours": {
    "mon": [
     "07:00",
@@ -48128,39 +46864,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Clifton",
   "state": "NJ",
-  "address": "441 Crooks Ave, Clifton, NJ 07011",
-  "lat": 40.868,
-  "lng": -74.149,
-  "rating": 4.5,
-  "reviews": 90,
+  "address": "441 Crooks Ave, Clifton, NJ 07011, USA",
+  "lat": 40.89025,
+  "lng": -74.14982,
+  "rating": 4.7,
+  "reviews": 1047,
   "hours": {
    "mon": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "tue": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "wed": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "thu": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "fri": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sun": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ]
   },
   "menu": [
@@ -48407,38 +47143,38 @@ window.KARAK_SPOTS = [
   "name": "Laree Adda",
   "city": "Jersey City",
   "state": "NJ",
-  "address": "287 Grove St, Jersey City, NJ 07302",
-  "lat": 40.71814,
-  "lng": -74.04404,
-  "rating": 4.3,
-  "reviews": 1200,
+  "address": "287 Grove St, Jersey City, NJ 07302, USA",
+  "lat": 40.71815,
+  "lng": -74.04409,
+  "rating": 4.2,
+  "reviews": 2003,
   "hours": {
    "mon": [
-    "09:00",
+    "10:00",
     "23:30"
    ],
    "tue": [
-    "09:00",
+    "10:00",
     "24:00"
    ],
    "wed": [
-    "09:00",
+    "10:00",
     "24:00"
    ],
    "thu": [
-    "09:00",
-    "24:00"
+    "10:00",
+    "23:30"
    ],
    "fri": [
-    "09:00",
+    "12:00",
     "24:00"
    ],
    "sat": [
-    "09:00",
+    "10:00",
     "23:30"
    ],
    "sun": [
-    "09:00",
+    "10:00",
     "22:00"
    ]
   },
@@ -48525,38 +47261,38 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Montclair",
   "state": "NJ",
-  "address": "493 Bloomfield Ave, Montclair, NJ 07042",
-  "lat": 40.812,
-  "lng": -74.22,
-  "rating": 4.5,
-  "reviews": 70,
+  "address": "493 Bloomfield Ave, Montclair, NJ 07042, USA",
+  "lat": 40.81466,
+  "lng": -74.21812,
+  "rating": 4.8,
+  "reviews": 319,
   "hours": {
    "mon": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "tue": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "wed": [
-    "07:00",
+    "10:00",
     "23:00"
    ],
    "thu": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "fri": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sun": [
-    "07:00",
+    "08:00",
     "23:00"
    ]
   },
@@ -48631,39 +47367,39 @@ window.KARAK_SPOTS = [
   "name": "Chai Chenak",
   "city": "New Brunswick",
   "state": "NJ",
-  "address": "349A George St, New Brunswick, NJ 08901",
-  "lat": 40.49454,
-  "lng": -74.44362,
-  "rating": 4.3,
-  "reviews": 350,
+  "address": "349A George St, New Brunswick, NJ 08901, USA",
+  "lat": 40.49458,
+  "lng": -74.44364,
+  "rating": 4.0,
+  "reviews": 2465,
   "hours": {
    "mon": [
-    "16:00",
-    "24:00"
+    "11:00",
+    "22:00"
    ],
    "tue": [
-    "16:00",
-    "24:00"
+    "11:00",
+    "22:00"
    ],
    "wed": [
-    "16:00",
-    "24:00"
+    "11:00",
+    "22:00"
    ],
    "thu": [
-    "16:00",
-    "24:00"
+    "11:00",
+    "22:00"
    ],
    "fri": [
-    "16:00",
-    "01:00"
+    "11:00",
+    "22:30"
    ],
    "sat": [
-    "16:00",
-    "01:00"
+    "11:00",
+    "22:30"
    ],
    "sun": [
-    "16:00",
-    "24:00"
+    "11:00",
+    "22:00"
    ]
   },
   "menu": [
@@ -48879,11 +47615,11 @@ window.KARAK_SPOTS = [
   "name": "Pakiza Restaurant",
   "city": "Brooklyn",
   "state": "NY",
-  "address": "1032 Coney Island Ave, Brooklyn, NY 11230",
-  "lat": 40.63237,
-  "lng": -73.96713,
+  "address": "1032 Coney Island Ave, Brooklyn, NY 11230, USA",
+  "lat": 40.6324,
+  "lng": -73.96706,
   "rating": 3.9,
-  "reviews": 1100,
+  "reviews": 515,
   "hours": {
    "mon": [
     "00:00",
@@ -48988,39 +47724,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House — Bay Ridge",
   "city": "Brooklyn",
   "state": "NY",
-  "address": "8602 4th Ave, Brooklyn, NY 11209",
-  "lat": 40.623,
-  "lng": -74.029,
-  "rating": 4.5,
-  "reviews": 100,
+  "address": "8602 4th Ave, Brooklyn, NY 11209, USA",
+  "lat": 40.62273,
+  "lng": -74.02865,
+  "rating": 4.7,
+  "reviews": 433,
   "hours": {
    "mon": [
-    "07:00",
-    "24:00"
+    "06:00",
+    "23:00"
    ],
    "tue": [
-    "07:00",
-    "24:00"
+    "06:00",
+    "23:00"
    ],
    "wed": [
-    "07:00",
-    "24:00"
+    "06:00",
+    "23:00"
    ],
    "thu": [
-    "07:00",
-    "24:00"
+    "06:00",
+    "23:00"
    ],
    "fri": [
-    "07:00",
-    "24:00"
+    "06:00",
+    "01:00"
    ],
    "sat": [
     "07:00",
-    "24:00"
+    "01:00"
    ],
    "sun": [
     "07:00",
-    "24:00"
+    "23:00"
    ]
   },
   "menu": [
@@ -49052,39 +47788,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House — Williamsburg",
   "city": "Brooklyn",
   "state": "NY",
-  "address": "162 Bedford Ave, Brooklyn, NY 11211",
-  "lat": 40.718,
-  "lng": -73.957,
-  "rating": 4.4,
-  "reviews": 537,
+  "address": "162 Bedford Ave, Brooklyn, NY 11211, USA",
+  "lat": 40.71858,
+  "lng": -73.95719,
+  "rating": 4.7,
+  "reviews": 2288,
   "hours": {
    "mon": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "tue": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "wed": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "thu": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "fri": [
     "07:00",
-    "24:00"
+    "01:00"
    ],
    "sat": [
     "07:00",
-    "24:00"
+    "01:00"
    ],
    "sun": [
     "07:00",
-    "24:00"
+    "23:00"
    ]
   },
   "menu": [
@@ -49245,38 +47981,38 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House — Collegetown",
   "city": "Ithaca",
   "state": "NY",
-  "address": "139 Dryden Rd, Ithaca, NY 14850",
-  "lat": 42.442,
-  "lng": -76.483,
-  "rating": null,
-  "reviews": null,
+  "address": "139 Dryden Rd, Ithaca, NY 14850, USA",
+  "lat": 42.44144,
+  "lng": -76.4861,
+  "rating": 4.9,
+  "reviews": 102,
   "hours": {
    "mon": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "tue": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "wed": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "thu": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "fri": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "08:00",
     "24:00"
    ]
   },
@@ -49309,11 +48045,11 @@ window.KARAK_SPOTS = [
   "name": "Qahwah Valley Cafe",
   "city": "Jackson Heights",
   "state": "NY",
-  "address": "75-15 37th Ave, Jackson Heights, NY 11372",
-  "lat": 40.74886,
-  "lng": -73.8929,
+  "address": "75-15 37th Ave, Jackson Heights, NY 11372, USA",
+  "lat": 40.74924,
+  "lng": -73.89023,
   "rating": 4.6,
-  "reviews": 200,
+  "reviews": 273,
   "hours": {
    "mon": [
     "08:00",
@@ -49333,15 +48069,15 @@ window.KARAK_SPOTS = [
    ],
    "fri": [
     "08:00",
-    "24:00"
+    "01:00"
    ],
    "sat": [
     "08:00",
-    "24:00"
+    "01:00"
    ],
    "sun": [
     "08:00",
-    "23:00"
+    "24:00"
    ]
   },
   "menu": [
@@ -49702,71 +48438,14 @@ window.KARAK_SPOTS = [
   "note": ""
  },
  {
-  "name": "ChaiWali",
-  "city": "New York",
-  "state": "NY",
-  "address": "174 Malcolm X Blvd, New York, NY 10026",
-  "lat": 40.80492,
-  "lng": -73.94673,
-  "rating": 4.3,
-  "reviews": 150,
-  "hours": {
-   "tue": [
-    "11:00",
-    "22:00"
-   ],
-   "wed": [
-    "11:00",
-    "22:00"
-   ],
-   "thu": [
-    "11:00",
-    "22:00"
-   ],
-   "fri": [
-    "11:00",
-    "23:00"
-   ],
-   "sat": [
-    "11:00",
-    "23:00"
-   ],
-   "sun": [
-    "11:00",
-    "22:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Masala chai",
-    "price": 5.0
-   },
-   {
-    "item": "Chai flight",
-    "price": 12.0
-   },
-   {
-    "item": "Samosa",
-    "price": 6.0
-   }
-  ],
-  "tags": [
-   "masala",
-   "indian",
-   "cafe"
-  ],
-  "note": "Harlem Indian spot built around made-from-scratch chai.",
-  "priceEstimated": true
- },
- {
   "name": "Haandi",
   "city": "New York",
   "state": "NY",
-  "address": "113 Lexington Ave, New York, NY 10016",
-  "lat": 40.74398,
-  "lng": -73.98204,
-  "rating": 4.0,
-  "reviews": 362,
+  "address": "113 Lexington Ave, New York, NY 10016, USA",
+  "lat": 40.74239,
+  "lng": -73.98236,
+  "rating": 3.9,
+  "reviews": 1490,
   "hours": {
    "mon": [
     "10:00",
@@ -49823,11 +48502,11 @@ window.KARAK_SPOTS = [
   "name": "Haraz Coffee House (SoHo)",
   "city": "New York",
   "state": "NY",
-  "address": "210 Spring St, New York, NY 10012",
-  "lat": 40.72554,
-  "lng": -74.00463,
-  "rating": 4.6,
-  "reviews": 639,
+  "address": "210 Spring St, New York, NY 10012, USA",
+  "lat": 40.72534,
+  "lng": -74.00378,
+  "rating": 4.5,
+  "reviews": 703,
   "hours": {
    "mon": [
     "08:00",
@@ -49928,39 +48607,39 @@ window.KARAK_SPOTS = [
   "name": "Hyderabadi Zaiqa",
   "city": "New York",
   "state": "NY",
-  "address": "105 Lexington Ave, New York, NY 10016",
-  "lat": 40.7437,
-  "lng": -73.98235,
-  "rating": 4.3,
-  "reviews": 250,
+  "address": "184 Lexington Ave, New York, NY 10016, USA",
+  "lat": 40.74489,
+  "lng": -73.98116,
+  "rating": 4.6,
+  "reviews": 608,
   "hours": {
    "mon": [
-    "11:00",
-    "23:00"
+    "11:30",
+    "22:00"
    ],
    "tue": [
-    "11:00",
-    "23:00"
+    "11:30",
+    "22:00"
    ],
    "wed": [
-    "11:00",
-    "23:00"
+    "11:30",
+    "22:00"
    ],
    "thu": [
-    "11:00",
-    "23:00"
+    "11:30",
+    "22:00"
    ],
    "fri": [
-    "11:00",
-    "24:00"
+    "11:30",
+    "22:00"
    ],
    "sat": [
-    "11:00",
-    "24:00"
+    "11:30",
+    "22:00"
    ],
    "sun": [
-    "11:00",
-    "23:00"
+    "11:30",
+    "21:30"
    ]
   },
   "menu": [
@@ -49990,39 +48669,39 @@ window.KARAK_SPOTS = [
   "name": "Kailash Parbat",
   "city": "New York",
   "state": "NY",
-  "address": "24 Lexington Ave, New York, NY 10010",
-  "lat": 40.73943,
-  "lng": -73.98428,
-  "rating": 4.2,
-  "reviews": 600,
+  "address": "99 Lexington Ave, New York, NY 10016, USA",
+  "lat": 40.74209,
+  "lng": -73.9827,
+  "rating": 4.1,
+  "reviews": 1644,
   "hours": {
    "mon": [
-    "11:30",
-    "22:30"
+    "12:00",
+    "21:45"
    ],
    "tue": [
-    "11:30",
-    "22:30"
+    "12:00",
+    "21:45"
    ],
    "wed": [
-    "11:30",
-    "22:30"
+    "12:00",
+    "21:45"
    ],
    "thu": [
-    "11:30",
-    "22:30"
+    "12:00",
+    "21:45"
    ],
    "fri": [
-    "11:30",
-    "23:00"
+    "12:00",
+    "21:45"
    ],
    "sat": [
-    "11:30",
-    "23:00"
+    "12:00",
+    "21:45"
    ],
    "sun": [
-    "11:30",
-    "22:30"
+    "12:00",
+    "21:45"
    ]
   },
   "menu": [
@@ -50050,11 +48729,11 @@ window.KARAK_SPOTS = [
   "name": "Kolkata Chai Co",
   "city": "New York",
   "state": "NY",
-  "address": "199 E 3rd St, New York, NY 10009",
-  "lat": 40.72292,
-  "lng": -73.98323,
-  "rating": 4.6,
-  "reviews": 900,
+  "address": "199 E 3rd St, New York, NY 10009, USA",
+  "lat": 40.72285,
+  "lng": -73.98312,
+  "rating": 4.4,
+  "reviews": 559,
   "hours": {
    "tue": [
     "09:00",
@@ -50111,11 +48790,11 @@ window.KARAK_SPOTS = [
   "name": "Kolkata Chai Co (Nolita)",
   "city": "New York",
   "state": "NY",
-  "address": "60 Kenmare St, New York, NY 10012",
-  "lat": 40.72133,
-  "lng": -73.99608,
-  "rating": 4.4,
-  "reviews": 96,
+  "address": "60 Kenmare St, New York, NY 10012, USA",
+  "lat": 40.72085,
+  "lng": -73.99601,
+  "rating": 4.5,
+  "reviews": 464,
   "hours": {
    "tue": [
     "09:00",
@@ -50208,38 +48887,34 @@ window.KARAK_SPOTS = [
   "name": "Lhasa Tibetan Restaurant",
   "city": "New York",
   "state": "NY",
-  "address": "177 1st Ave, New York, NY 10003",
-  "lat": 40.72996,
-  "lng": -73.98449,
-  "rating": 4.5,
-  "reviews": 130,
+  "address": "177 1st Ave, New York, NY 10003, USA",
+  "lat": 40.72939,
+  "lng": -73.98434,
+  "rating": 4.6,
+  "reviews": 353,
   "hours": {
    "mon": [
-    "11:30",
+    "12:00",
     "22:00"
    ],
    "tue": [
-    "11:30",
-    "22:00"
-   ],
-   "wed": [
-    "11:30",
+    "12:00",
     "22:00"
    ],
    "thu": [
-    "11:30",
+    "12:00",
     "22:00"
    ],
    "fri": [
-    "11:30",
-    "22:30"
+    "12:00",
+    "22:00"
    ],
    "sat": [
-    "11:30",
-    "22:30"
+    "12:00",
+    "22:00"
    ],
    "sun": [
-    "11:30",
+    "12:00",
     "22:00"
    ]
   },
@@ -50268,11 +48943,11 @@ window.KARAK_SPOTS = [
   "name": "Moka & Co",
   "city": "New York",
   "state": "NY",
-  "address": "2481 Broadway, New York, NY 10025",
-  "lat": 40.79221,
-  "lng": -73.97254,
-  "rating": 4.4,
-  "reviews": 36,
+  "address": "2481 Broadway, New York, NY 10025, USA",
+  "lat": 40.79248,
+  "lng": -73.97394,
+  "rating": 4.6,
+  "reviews": 51,
   "hours": {
    "mon": [
     "07:00",
@@ -50329,39 +49004,39 @@ window.KARAK_SPOTS = [
   "name": "Punjabi Junction of 87th",
   "city": "New York",
   "state": "NY",
-  "address": "1665 1st Ave, New York, NY 10028",
-  "lat": 40.77824,
-  "lng": -73.94865,
-  "rating": 4.3,
-  "reviews": 84,
+  "address": "1665 1st Ave, New York, NY 10028, USA",
+  "lat": 40.77752,
+  "lng": -73.94923,
+  "rating": 4.5,
+  "reviews": 168,
   "hours": {
    "mon": [
-    "11:00",
-    "21:00"
+    "08:00",
+    "22:00"
    ],
    "tue": [
-    "11:00",
-    "21:00"
+    "08:00",
+    "22:00"
    ],
    "wed": [
-    "11:00",
-    "21:00"
+    "08:00",
+    "22:00"
    ],
    "thu": [
-    "11:00",
-    "21:00"
+    "08:00",
+    "22:00"
    ],
    "fri": [
-    "11:00",
-    "21:00"
+    "08:00",
+    "22:00"
    ],
    "sat": [
-    "11:00",
-    "21:00"
+    "08:00",
+    "22:00"
    ],
    "sun": [
-    "11:00",
-    "21:00"
+    "08:00",
+    "20:00"
    ]
   },
   "menu": [
@@ -50433,39 +49108,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House — Morningside Heights",
   "city": "New York",
   "state": "NY",
-  "address": "2869 Broadway, New York, NY 10025",
-  "lat": 40.809,
-  "lng": -73.964,
-  "rating": 4.4,
-  "reviews": 90,
+  "address": "2869 Broadway, New York, NY 10025, USA",
+  "lat": 40.80523,
+  "lng": -73.96638,
+  "rating": 4.8,
+  "reviews": 607,
   "hours": {
    "mon": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "tue": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "wed": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "thu": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "fri": [
     "07:00",
-    "24:00"
+    "01:00"
    ],
    "sat": [
     "07:00",
-    "24:00"
+    "01:00"
    ],
    "sun": [
     "07:00",
-    "24:00"
+    "23:00"
    ]
   },
   "menu": [
@@ -50497,39 +49172,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House — West Village",
   "city": "New York",
   "state": "NY",
-  "address": "13 Carmine St, New York, NY 10014",
-  "lat": 40.73,
-  "lng": -74.003,
-  "rating": 4.4,
-  "reviews": 120,
+  "address": "13 Carmine St, New York, NY 10014, USA",
+  "lat": 40.7305,
+  "lng": -74.00234,
+  "rating": 4.7,
+  "reviews": 915,
   "hours": {
    "mon": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "tue": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "wed": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "thu": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "fri": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sun": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ]
   },
   "menu": [
@@ -50561,11 +49236,11 @@ window.KARAK_SPOTS = [
   "name": "Qahwah Valley",
   "city": "New York",
   "state": "NY",
-  "address": "630 1st Ave, New York, NY 10016",
-  "lat": 40.74449,
-  "lng": -73.97257,
-  "rating": 4.6,
-  "reviews": 250,
+  "address": "630 1st Ave, New York, NY 10016, USA",
+  "lat": 40.74521,
+  "lng": -73.9722,
+  "rating": 4.7,
+  "reviews": 372,
   "hours": {
    "mon": [
     "07:00",
@@ -50624,11 +49299,11 @@ window.KARAK_SPOTS = [
   "name": "Qamaria Yemeni Coffee Co.",
   "city": "New York",
   "state": "NY",
-  "address": "570 9th Ave, New York, NY 10036",
-  "lat": 40.75843,
-  "lng": -73.99382,
+  "address": "570 9th Ave, New York, NY 10036, USA",
+  "lat": 40.75792,
+  "lng": -73.99267,
   "rating": 4.6,
-  "reviews": 531,
+  "reviews": 547,
   "hours": {
    "mon": [
     "07:00",
@@ -50651,11 +49326,11 @@ window.KARAK_SPOTS = [
     "01:00"
    ],
    "sat": [
-    "07:00",
+    "10:00",
     "01:00"
    ],
    "sun": [
-    "07:00",
+    "08:00",
     "23:00"
    ]
   },
@@ -50686,38 +49361,38 @@ window.KARAK_SPOTS = [
   "name": "Saravanaa Bhavan",
   "city": "New York",
   "state": "NY",
-  "address": "81 Lexington Ave, New York, NY 10016",
-  "lat": 40.74338,
-  "lng": -73.98376,
-  "rating": 4.1,
-  "reviews": 900,
+  "address": "81 Lexington Ave, New York, NY 10016, USA",
+  "lat": 40.74142,
+  "lng": -73.98308,
+  "rating": 4.2,
+  "reviews": 5175,
   "hours": {
    "mon": [
-    "11:00",
+    "09:00",
     "22:00"
    ],
    "tue": [
-    "11:00",
+    "09:00",
     "22:00"
    ],
    "wed": [
-    "11:00",
+    "09:00",
     "22:00"
    ],
    "thu": [
-    "11:00",
+    "09:00",
     "22:00"
    ],
    "fri": [
-    "11:00",
+    "09:00",
     "22:30"
    ],
    "sat": [
-    "11:00",
+    "09:00",
     "22:30"
    ],
    "sun": [
-    "11:00",
+    "09:00",
     "22:00"
    ]
   },
@@ -50746,30 +49421,38 @@ window.KARAK_SPOTS = [
   "name": "The Chai Spot",
   "city": "New York",
   "state": "NY",
-  "address": "156 Mott St, New York, NY 10013",
-  "lat": 40.71942,
-  "lng": -73.99605,
-  "rating": 4.8,
-  "reviews": 400,
+  "address": "156 Mott St, New York, NY 10013, USA",
+  "lat": 40.71946,
+  "lng": -73.99616,
+  "rating": 3.9,
+  "reviews": 1230,
   "hours": {
+   "mon": [
+    "10:00",
+    "22:00"
+   ],
+   "tue": [
+    "13:00",
+    "20:00"
+   ],
    "wed": [
-    "15:00",
+    "10:00",
     "22:00"
    ],
    "thu": [
-    "15:00",
+    "10:00",
     "22:00"
    ],
    "fri": [
-    "15:00",
+    "10:00",
     "22:00"
    ],
    "sat": [
-    "12:00",
+    "10:00",
     "22:00"
    ],
    "sun": [
-    "12:00",
+    "10:00",
     "22:00"
    ]
   },
@@ -50877,39 +49560,39 @@ window.KARAK_SPOTS = [
   "name": "Thelewala",
   "city": "New York",
   "state": "NY",
-  "address": "112 MacDougal St, New York, NY 10012",
-  "lat": 40.73,
-  "lng": -74.00008,
-  "rating": 4.3,
-  "reviews": 300,
+  "address": "112 MacDougal St, New York, NY 10012, USA",
+  "lat": 40.7296,
+  "lng": -74.00061,
+  "rating": 4.2,
+  "reviews": 1008,
   "hours": {
    "mon": [
-    "12:00",
-    "02:00"
+    "11:00",
+    "03:00"
    ],
    "tue": [
-    "12:00",
-    "02:00"
+    "11:00",
+    "03:00"
    ],
    "wed": [
-    "12:00",
-    "02:00"
+    "11:00",
+    "03:00"
    ],
    "thu": [
-    "12:00",
-    "02:00"
+    "11:00",
+    "03:00"
    ],
    "fri": [
-    "12:00",
-    "02:00"
+    "11:00",
+    "03:00"
    ],
    "sat": [
-    "12:00",
-    "02:00"
+    "11:00",
+    "03:00"
    ],
    "sun": [
-    "12:00",
-    "02:00"
+    "11:00",
+    "03:00"
    ]
   },
   "menu": [
@@ -50981,11 +49664,11 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House — Astoria",
   "city": "Queens",
   "state": "NY",
-  "address": "2237 31st St, Astoria, NY 11105",
-  "lat": 40.774,
-  "lng": -73.915,
-  "rating": 4.5,
-  "reviews": 80,
+  "address": "22-37 31st St, Astoria, NY 11105, USA",
+  "lat": 40.77524,
+  "lng": -73.91155,
+  "rating": 4.8,
+  "reviews": 949,
   "hours": {
    "mon": [
     "07:00",
@@ -51005,11 +49688,11 @@ window.KARAK_SPOTS = [
    ],
    "fri": [
     "07:00",
-    "24:00"
+    "01:00"
    ],
    "sat": [
     "07:00",
-    "24:00"
+    "01:00"
    ],
    "sun": [
     "07:00",
@@ -51131,38 +49814,38 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House — Westbury",
   "city": "Westbury",
   "state": "NY",
-  "address": "541 Old Country Rd, Westbury, NY 11590",
-  "lat": 40.751,
-  "lng": -73.586,
+  "address": "541 Old Country Rd, Westbury, NY 11590, USA",
+  "lat": 40.74732,
+  "lng": -73.59332,
   "rating": 4.5,
-  "reviews": 105,
+  "reviews": 922,
   "hours": {
    "mon": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "tue": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "wed": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "thu": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "fri": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sun": [
-    "07:00",
+    "08:00",
     "23:00"
    ]
   },
@@ -51194,11 +49877,11 @@ window.KARAK_SPOTS = [
   "name": "Ebreeq Coffee House",
   "city": "Cleveland",
   "state": "OH",
-  "address": "200 Public Square #129, Cleveland, OH 44114",
-  "lat": 41.499,
-  "lng": -81.6915,
-  "rating": 4.7,
-  "reviews": 150,
+  "address": "241 Euclid Ave, Cleveland, OH 44114, USA",
+  "lat": 41.4997,
+  "lng": -81.69183,
+  "rating": 4.8,
+  "reviews": 252,
   "hours": {
    "mon": [
     "08:00",
@@ -51256,38 +49939,38 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Columbus",
   "state": "OH",
-  "address": "189 E Main St, Columbus, OH 43215",
-  "lat": 39.959,
-  "lng": -82.993,
-  "rating": 4.6,
-  "reviews": 82,
+  "address": "189 E Main St, Columbus, OH 43215, USA",
+  "lat": 39.95662,
+  "lng": -82.99424,
+  "rating": 4.8,
+  "reviews": 758,
   "hours": {
    "mon": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "tue": [
-    "07:00",
+    "07:30",
     "23:00"
    ],
    "wed": [
-    "07:00",
+    "07:30",
     "23:00"
    ],
    "thu": [
-    "07:00",
+    "07:30",
     "23:00"
    ],
    "fri": [
-    "07:00",
+    "07:30",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "09:00",
     "23:00"
    ]
   },
@@ -51316,77 +49999,14 @@ window.KARAK_SPOTS = [
   "priceEstimated": true
  },
  {
-  "name": "Qahwah House",
-  "city": "Hilliard",
-  "state": "OH",
-  "address": "4457 Trueman Blvd, Hilliard, OH 43026",
-  "lat": 40.033,
-  "lng": -83.136,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "07:00",
-    "23:00"
-   ],
-   "tue": [
-    "07:00",
-    "23:00"
-   ],
-   "wed": [
-    "07:00",
-    "23:00"
-   ],
-   "thu": [
-    "07:00",
-    "23:00"
-   ],
-   "fri": [
-    "07:00",
-    "24:00"
-   ],
-   "sat": [
-    "07:00",
-    "24:00"
-   ],
-   "sun": [
-    "07:00",
-    "23:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Adeni chai",
-    "price": 5.5
-   },
-   {
-    "item": "Mofawar",
-    "price": 6.0
-   },
-   {
-    "item": "Bint al Sahn",
-    "price": 7.0
-   }
-  ],
-  "tags": [
-   "adeni",
-   "karak",
-   "yemeni",
-   "cafe",
-   "dessert"
-  ],
-  "note": "Second Columbus-area store in TruePointe.",
-  "priceEstimated": true
- },
- {
   "name": "Qahwah House — North Olmsted",
   "city": "North Olmsted",
   "state": "OH",
-  "address": "25102 Brookpark Rd #146, North Olmsted, OH 44070",
-  "lat": 41.418,
-  "lng": -81.899,
-  "rating": 4.5,
-  "reviews": 70,
+  "address": "25102 Brookpark Rd #146, North Olmsted, OH 44070, USA",
+  "lat": 41.41943,
+  "lng": -81.89954,
+  "rating": 4.8,
+  "reviews": 469,
   "hours": {
    "mon": [
     "07:00",
@@ -51413,7 +50033,7 @@ window.KARAK_SPOTS = [
     "24:00"
    ],
    "sun": [
-    "07:00",
+    "08:00",
     "23:00"
    ]
   },
@@ -51445,39 +50065,39 @@ window.KARAK_SPOTS = [
   "name": "Shibam Coffee",
   "city": "Westerville",
   "state": "OH",
-  "address": "8310 Sancus Blvd, Westerville, OH 43081",
-  "lat": 40.1433,
-  "lng": -82.9805,
-  "rating": 4.8,
-  "reviews": 350,
+  "address": "8310 Sancus Blvd, Westerville, OH 43081, USA",
+  "lat": 40.13539,
+  "lng": -82.99106,
+  "rating": 4.7,
+  "reviews": 398,
   "hours": {
    "mon": [
     "07:00",
-    "00:00"
+    "23:00"
    ],
    "tue": [
     "07:00",
-    "00:00"
+    "23:00"
    ],
    "wed": [
     "07:00",
-    "00:00"
+    "23:00"
    ],
    "thu": [
     "07:00",
-    "01:00"
+    "23:00"
    ],
    "fri": [
     "07:00",
-    "01:00"
+    "24:00"
    ],
    "sat": [
     "07:00",
-    "01:00"
+    "24:00"
    ],
    "sun": [
     "07:00",
-    "00:00"
+    "23:00"
    ]
   },
   "menu": [
@@ -52883,38 +51503,38 @@ window.KARAK_SPOTS = [
   "name": "Karak Cha House",
   "city": "Philadelphia",
   "state": "PA",
-  "address": "4201 Chestnut St, Philadelphia, PA 19104",
-  "lat": 39.95652,
-  "lng": -75.20653,
-  "rating": 4.7,
-  "reviews": 300,
+  "address": "3748 Lancaster Ave, Philadelphia, PA 19104, USA",
+  "lat": 39.95966,
+  "lng": -75.19687,
+  "rating": 4.5,
+  "reviews": 294,
   "hours": {
    "mon": [
-    "15:00",
-    "24:00"
+    "11:00",
+    "23:00"
    ],
    "tue": [
-    "15:00",
+    "16:00",
     "24:00"
    ],
    "wed": [
-    "15:00",
+    "16:00",
     "24:00"
    ],
    "thu": [
-    "15:00",
+    "16:00",
     "24:00"
    ],
    "fri": [
-    "15:00",
+    "11:00",
     "24:00"
    ],
    "sat": [
-    "15:00",
+    "11:00",
     "24:00"
    ],
    "sun": [
-    "15:00",
+    "11:00",
     "24:00"
    ]
   },
@@ -52949,11 +51569,11 @@ window.KARAK_SPOTS = [
   "name": "Mood Cafe",
   "city": "Philadelphia",
   "state": "PA",
-  "address": "4618 Baltimore Ave, Philadelphia, PA 19143",
-  "lat": 39.94863,
-  "lng": -75.2158,
+  "address": "4618 Baltimore Ave, Philadelphia, PA 19143, USA",
+  "lat": 39.94864,
+  "lng": -75.21584,
   "rating": 4.7,
-  "reviews": 930,
+  "reviews": 411,
   "hours": {
    "mon": [
     "12:00",
@@ -53016,11 +51636,11 @@ window.KARAK_SPOTS = [
   "name": "Haraz Coffee House",
   "city": "Nashville",
   "state": "TN",
-  "address": "901 Woodland St Suite 105, Nashville, TN 37206",
-  "lat": 36.1772,
-  "lng": -86.7524,
-  "rating": 4.7,
-  "reviews": 440,
+  "address": "901 Woodland St #105, Nashville, TN 37206, USA",
+  "lat": 36.17535,
+  "lng": -86.75608,
+  "rating": 4.6,
+  "reviews": 414,
   "hours": {
    "mon": [
     "08:00",
@@ -53040,11 +51660,11 @@ window.KARAK_SPOTS = [
    ],
    "fri": [
     "08:00",
-    "00:00"
+    "24:00"
    ],
    "sat": [
     "08:00",
-    "00:00"
+    "24:00"
    ],
    "sun": [
     "08:00",
@@ -53077,72 +51697,14 @@ window.KARAK_SPOTS = [
   "priceEstimated": true
  },
  {
-  "name": "Arwa Yemeni Coffee",
-  "city": "Austin",
-  "state": "TX",
-  "address": "11331 N Lamar Blvd, Austin, TX 78753",
-  "lat": 30.3786,
-  "lng": -97.6932,
-  "rating": 4.6,
-  "reviews": 218,
-  "hours": {
-   "tue": [
-    "08:00",
-    "16:00"
-   ],
-   "wed": [
-    "08:00",
-    "16:00"
-   ],
-   "thu": [
-    "08:00",
-    "16:00"
-   ],
-   "fri": [
-    "08:00",
-    "20:00"
-   ],
-   "sat": [
-    "08:00",
-    "20:00"
-   ],
-   "sun": [
-    "08:00",
-    "19:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Adeni chai",
-    "price": 5.5
-   },
-   {
-    "item": "Mofawar coffee",
-    "price": 6.5
-   },
-   {
-    "item": "Honeycomb bun",
-    "price": 4.75
-   }
-  ],
-  "tags": [
-   "adeni",
-   "yemeni",
-   "cafe",
-   "dessert"
-  ],
-  "note": "Shares a North Lamar storefront with Sana Bakery.",
-  "priceEstimated": true
- },
- {
   "name": "Haraz Coffee House",
   "city": "Austin",
   "state": "TX",
-  "address": "500 W Martin Luther King Jr Blvd Ste A, Austin, TX 78701",
-  "lat": 30.2818,
-  "lng": -97.7448,
-  "rating": 4.7,
-  "reviews": 224,
+  "address": "500 W Martin Luther King Jr Blvd Ste A, Austin, TX 78701, USA",
+  "lat": 30.28234,
+  "lng": -97.74341,
+  "rating": 4.6,
+  "reviews": 256,
   "hours": {
    "mon": [
     "08:00",
@@ -53202,39 +51764,39 @@ window.KARAK_SPOTS = [
   "name": "Chai Shai Hillcroft",
   "city": "Houston",
   "state": "TX",
-  "address": "6632 Southwest Fwy, Houston, TX 77074",
-  "lat": 29.7272,
-  "lng": -95.5005,
-  "rating": 4.4,
-  "reviews": 1000,
+  "address": "6632 Southwest Fwy, Houston, TX 77074, USA",
+  "lat": 29.71698,
+  "lng": -95.50061,
+  "rating": 4.3,
+  "reviews": 429,
   "hours": {
    "mon": [
-    "11:00",
-    "22:00"
+    "10:00",
+    "21:00"
    ],
    "tue": [
-    "11:00",
-    "22:00"
+    "10:00",
+    "21:00"
    ],
    "wed": [
-    "11:00",
+    "10:00",
     "21:00"
    ],
    "thu": [
-    "11:00",
-    "22:00"
+    "10:00",
+    "21:00"
    ],
    "fri": [
-    "11:00",
-    "23:00"
+    "10:00",
+    "22:30"
    ],
    "sat": [
-    "11:00",
-    "23:00"
+    "10:00",
+    "22:30"
    ],
    "sun": [
-    "11:00",
-    "22:00"
+    "10:00",
+    "21:00"
    ]
   },
   "menu": [
@@ -53268,11 +51830,11 @@ window.KARAK_SPOTS = [
   "name": "FiLLi Cafe Hillcroft",
   "city": "Houston",
   "state": "TX",
-  "address": "5600 Hillcroft St, Houston, TX 77036",
-  "lat": 29.7186,
-  "lng": -95.4969,
-  "rating": 4.2,
-  "reviews": 400,
+  "address": "5600 Hillcroft St, Houston, TX 77036, USA",
+  "lat": 29.72188,
+  "lng": -95.50136,
+  "rating": 4.4,
+  "reviews": 421,
   "hours": {
    "mon": [
     "10:00",
@@ -53334,39 +51896,39 @@ window.KARAK_SPOTS = [
   "name": "Qamaria Yemeni Coffee Co.",
   "city": "Houston",
   "state": "TX",
-  "address": "12102 Westheimer Rd, Houston, TX 77077",
-  "lat": 29.7367,
-  "lng": -95.5896,
+  "address": "12102 Westheimer Rd, Houston, TX 77077, USA",
+  "lat": 29.73684,
+  "lng": -95.59303,
   "rating": 4.7,
-  "reviews": 1100,
+  "reviews": 1182,
   "hours": {
    "mon": [
     "08:00",
-    "22:00"
+    "23:00"
    ],
    "tue": [
     "08:00",
-    "22:00"
+    "23:00"
    ],
    "wed": [
     "08:00",
-    "22:00"
+    "23:00"
    ],
    "thu": [
     "08:00",
-    "22:00"
+    "23:00"
    ],
    "fri": [
     "08:00",
-    "23:00"
+    "24:00"
    ],
    "sat": [
     "08:00",
-    "23:00"
+    "24:00"
    ],
    "sun": [
     "08:00",
-    "22:00"
+    "23:00"
    ]
   },
   "menu": [
@@ -53400,11 +51962,11 @@ window.KARAK_SPOTS = [
   "name": "Haraz Coffee House",
   "city": "Irving",
   "state": "TX",
-  "address": "10009 N MacArthur Blvd Ste 101, Irving, TX 75063",
-  "lat": 32.9098,
-  "lng": -96.9619,
-  "rating": 4.8,
-  "reviews": 1300,
+  "address": "10009 N MacArthur Blvd #101, Irving, TX 75063, USA",
+  "lat": 32.94144,
+  "lng": -96.95273,
+  "rating": 4.7,
+  "reviews": 1356,
   "hours": {
    "mon": [
     "07:00",
@@ -53424,11 +51986,11 @@ window.KARAK_SPOTS = [
    ],
    "fri": [
     "07:00",
-    "00:00"
+    "01:00"
    ],
    "sat": [
     "07:00",
-    "00:00"
+    "01:00"
    ],
    "sun": [
     "07:00",
@@ -53463,27 +52025,27 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Leander",
   "state": "TX",
-  "address": "14300 Ronald Reagan Blvd, Leander, TX 78641",
-  "lat": 30.547,
-  "lng": -97.827,
-  "rating": null,
-  "reviews": null,
+  "address": "14300 Ronald Reagan Blvd Suite 305 & 306, Leander, TX 78641, USA",
+  "lat": 30.54843,
+  "lng": -97.79307,
+  "rating": 4.6,
+  "reviews": 254,
   "hours": {
    "mon": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "tue": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "wed": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "thu": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "fri": [
     "07:00",
@@ -53494,8 +52056,8 @@ window.KARAK_SPOTS = [
     "24:00"
    ],
    "sun": [
-    "07:00",
-    "24:00"
+    "09:00",
+    "23:00"
    ]
   },
   "menu": [
@@ -53527,39 +52089,39 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "McKinney",
   "state": "TX",
-  "address": "8880 State Hwy 121 Suite 164, McKinney, TX 75070",
-  "lat": 33.175,
-  "lng": -96.709,
-  "rating": 4.5,
-  "reviews": 41,
+  "address": "8880 State Hwy 121 Ste 164, McKinney, TX 75070, USA",
+  "lat": 33.12753,
+  "lng": -96.72979,
+  "rating": 4.7,
+  "reviews": 802,
   "hours": {
    "mon": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "tue": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "wed": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "thu": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ],
    "fri": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "sat": [
-    "07:00",
+    "08:00",
     "24:00"
    ],
    "sun": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "23:00"
    ]
   },
   "menu": [
@@ -53591,35 +52153,35 @@ window.KARAK_SPOTS = [
   "name": "Karak Tea Bakery & Cafe",
   "city": "Plano",
   "state": "TX",
-  "address": "1820 Coit Rd Ste 138, Plano, TX 75075",
-  "lat": 33.0182,
-  "lng": -96.7702,
-  "rating": 4.4,
-  "reviews": 150,
+  "address": "1820 Coit Rd #138, Plano, TX 75075, USA",
+  "lat": 33.02603,
+  "lng": -96.76867,
+  "rating": 4.6,
+  "reviews": 679,
   "hours": {
    "tue": [
     "16:00",
-    "02:00"
+    "24:00"
    ],
    "wed": [
     "16:00",
-    "02:00"
+    "24:00"
    ],
    "thu": [
     "16:00",
-    "02:00"
+    "24:00"
    ],
    "fri": [
-    "16:00",
-    "02:00"
+    "12:00",
+    "24:00"
    ],
    "sat": [
-    "16:00",
-    "02:00"
+    "12:00",
+    "24:00"
    ],
    "sun": [
     "12:00",
-    "00:00"
+    "24:00"
    ]
   },
   "menu": [
@@ -53653,11 +52215,11 @@ window.KARAK_SPOTS = [
   "name": "Arwa Yemeni Coffee",
   "city": "Richardson",
   "state": "TX",
-  "address": "888 S Greenville Ave Ste 223, Richardson, TX 75081",
-  "lat": 32.9387,
-  "lng": -96.7103,
+  "address": "888 S Greenville Ave Ste 223, Richardson, TX 75081, USA",
+  "lat": 32.93821,
+  "lng": -96.73462,
   "rating": 4.7,
-  "reviews": 1489,
+  "reviews": 1366,
   "hours": {
    "mon": [
     "10:00",
@@ -53677,11 +52239,11 @@ window.KARAK_SPOTS = [
    ],
    "fri": [
     "10:00",
-    "23:00"
+    "01:00"
    ],
    "sat": [
     "10:00",
-    "23:00"
+    "01:00"
    ],
    "sun": [
     "10:00",
@@ -53716,27 +52278,27 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Sugar Land",
   "state": "TX",
-  "address": "232 Hwy 6, Sugar Land, TX 77479",
-  "lat": 29.602,
-  "lng": -95.635,
-  "rating": 4.5,
-  "reviews": 90,
+  "address": "232 Hwy 6, Sugar Land, TX 77478, USA",
+  "lat": 29.61111,
+  "lng": -95.64871,
+  "rating": 4.6,
+  "reviews": 887,
   "hours": {
    "mon": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "tue": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "wed": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "thu": [
     "07:00",
-    "24:00"
+    "23:00"
    ],
    "fri": [
     "07:00",
@@ -53747,8 +52309,8 @@ window.KARAK_SPOTS = [
     "24:00"
    ],
    "sun": [
-    "07:00",
-    "24:00"
+    "09:00",
+    "23:00"
    ]
   },
   "menu": [
@@ -53780,11 +52342,11 @@ window.KARAK_SPOTS = [
   "name": "FiLLi Cafe",
   "city": "Chantilly",
   "state": "VA",
-  "address": "13881 Metrotech Dr Unit G, Chantilly, VA 20151",
-  "lat": 38.89414,
-  "lng": -77.42507,
+  "address": "13881 Metrotech Dr # G, Chantilly, VA 20151, USA",
+  "lat": 38.89428,
+  "lng": -77.4252,
   "rating": 4.6,
-  "reviews": 907,
+  "reviews": 934,
   "hours": {
    "mon": [
     "11:00",
@@ -53847,38 +52409,38 @@ window.KARAK_SPOTS = [
   "name": "Haraz Coffee House",
   "city": "Fairfax",
   "state": "VA",
-  "address": "11015 Lee Hwy, Fairfax, VA 22030",
-  "lat": 38.8537,
-  "lng": -77.3242,
+  "address": "11015 Main St, Fairfax, VA 22030, USA",
+  "lat": 38.85204,
+  "lng": -77.32551,
   "rating": 4.7,
-  "reviews": 350,
+  "reviews": 1755,
   "hours": {
    "mon": [
-    "09:30",
+    "08:00",
     "23:00"
    ],
    "tue": [
-    "09:30",
+    "08:00",
     "23:00"
    ],
    "wed": [
-    "09:30",
+    "08:00",
     "23:00"
    ],
    "thu": [
-    "09:30",
+    "08:00",
     "23:00"
    ],
    "fri": [
-    "09:30",
-    "23:00"
+    "08:00",
+    "24:00"
    ],
    "sat": [
-    "09:30",
-    "23:00"
+    "09:00",
+    "24:00"
    ],
    "sun": [
-    "09:30",
+    "09:00",
     "23:00"
    ]
   },
@@ -53911,77 +52473,14 @@ window.KARAK_SPOTS = [
   "priceEstimated": true
  },
  {
-  "name": "Qahwah House",
-  "city": "Richmond",
-  "state": "VA",
-  "address": "1601 Willow Lawn Dr, Richmond, VA 23230",
-  "lat": 37.581,
-  "lng": -77.496,
-  "rating": null,
-  "reviews": null,
-  "hours": {
-   "mon": [
-    "07:00",
-    "23:00"
-   ],
-   "tue": [
-    "07:00",
-    "23:00"
-   ],
-   "wed": [
-    "07:00",
-    "23:00"
-   ],
-   "thu": [
-    "07:00",
-    "23:00"
-   ],
-   "fri": [
-    "07:00",
-    "24:00"
-   ],
-   "sat": [
-    "07:00",
-    "24:00"
-   ],
-   "sun": [
-    "07:00",
-    "23:00"
-   ]
-  },
-  "menu": [
-   {
-    "item": "Adeni chai",
-    "price": 5.5
-   },
-   {
-    "item": "Qishr",
-    "price": 5.0
-   },
-   {
-    "item": "Sabaya with honey",
-    "price": 7.5
-   }
-  ],
-  "tags": [
-   "adeni",
-   "karak",
-   "yemeni",
-   "cafe",
-   "dessert"
-  ],
-  "note": "Richmond location serving central Virginia.",
-  "priceEstimated": true
- },
- {
   "name": "Chai N More",
   "city": "Bellevue",
   "state": "WA",
-  "address": "12865 Northup Way, Ste C, Bellevue, WA 98005",
-  "lat": 47.6315,
-  "lng": -122.167,
-  "rating": 4.5,
-  "reviews": 650,
+  "address": "12863 Northup Way Ste C, Bellevue, WA 98005, USA",
+  "lat": 47.62782,
+  "lng": -122.16905,
+  "rating": 4.4,
+  "reviews": 609,
   "hours": {
    "tue": [
     "09:30",
@@ -54038,38 +52537,38 @@ window.KARAK_SPOTS = [
   "name": "Qahwah House",
   "city": "Oak Creek",
   "state": "WI",
-  "address": "7981 S 6th St, Oak Creek, WI 53154",
-  "lat": 42.921,
-  "lng": -87.947,
+  "address": "7981 S 6th St, Oak Creek, WI 53154, USA",
+  "lat": 42.89959,
+  "lng": -87.9186,
   "rating": 4.6,
-  "reviews": 80,
+  "reviews": 285,
   "hours": {
    "mon": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "tue": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "wed": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "thu": [
-    "07:00",
+    "08:00",
     "23:00"
    ],
    "fri": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sat": [
-    "07:00",
-    "24:00"
+    "08:00",
+    "01:00"
    ],
    "sun": [
-    "07:00",
+    "08:00",
     "23:00"
    ]
   },

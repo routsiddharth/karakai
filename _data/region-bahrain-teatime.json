@@ -1,263 +1,770 @@
 [
-  {
-    "name": "Tea Time — Muharraq",
-    "city": "Muharraq",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Muharraq, Muharraq Governorate (near souq area), Bahrain",
-    "lat": 26.2520,
-    "lng": 50.6140,
-    "rating": 4.1,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Karak Zaffron Tea (Small)", "price": 0.3},
-      {"item": "Club Sandwich", "price": 1.2},
-      {"item": "Fried Ice Cream", "price": 1.1}
-    ],
-    "tags": ["karak","cafeteria","24h","late-night","dessert"],
-    "note": "Original Muharraq branch of the chain, open around the clock."
+ {
+  "name": "Tea Time — Muharraq",
+  "city": "Muharraq",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Muharraq, Bahrain",
+  "lat": 26.26436,
+  "lng": 50.61668,
+  "rating": 4,
+  "reviews": 1091,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Busaiteen",
-    "city": "Busaiteen",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Street 11, Block 225, Busaiteen (near King Hamad University Hospital), Bahrain",
-    "lat": 26.2720,
-    "lng": 50.6058,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Black Tea (Small)", "price": 0.1},
-      {"item": "Beef Burger Combo", "price": 1.1}
-    ],
-    "tags": ["karak","cafeteria","24h","late-night"],
-    "note": "Sits near King Hamad University Hospital on Street 11."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Karak Zaffron Tea (Small)",
+    "price": 0.3
+   },
+   {
+    "item": "Club Sandwich",
+    "price": 1.2
+   },
+   {
+    "item": "Fried Ice Cream",
+    "price": 1.1
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "24h",
+   "late-night",
+   "dessert"
+  ],
+  "note": "Original Muharraq branch of the chain, open around the clock."
+ },
+ {
+  "name": "Tea Time — Busaiteen",
+  "city": "Busaiteen",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "7JC4+MCX, Avenue 11, Busaiteen, Bahrain",
+  "lat": 26.27199,
+  "lng": 50.60581,
+  "rating": 4,
+  "reviews": 1159,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Arad",
-    "city": "Arad",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Arad, Muharraq Governorate, Bahrain",
-    "lat": 26.2536,
-    "lng": 50.6389,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Karak Tea (1L)", "price": 0.8},
-      {"item": "Chicken Double Burger Combo", "price": 1.6}
-    ],
-    "tags": ["karak","cafeteria","24h","late-night"],
-    "note": "Arad branch delivers via Talabat across Muharraq island."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Black Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Beef Burger Combo",
+    "price": 1.1
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "24h",
+   "late-night"
+  ],
+  "note": "Sits near King Hamad University Hospital on Street 11."
+ },
+ {
+  "name": "Tea Time — Arad",
+  "city": "Arad",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Rd No 4005, Al Hidd, Bahrain",
+  "lat": 26.25806,
+  "lng": 50.63253,
+  "rating": 4,
+  "reviews": 278,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — East Riffa",
-    "city": "Riffa",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Shaikh Isa Avenue, East Riffa, Bahrain",
-    "lat": 26.1290,
-    "lng": 50.5610,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Karak Zaffron Tea (Small)", "price": 0.3},
-      {"item": "Souffle (Small)", "price": 0.8}
-    ],
-    "tags": ["karak","cafeteria","24h","late-night","dessert"],
-    "note": "Found on Shaikh Isa Avenue in East Riffa."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Karak Tea (1L)",
+    "price": 0.8
+   },
+   {
+    "item": "Chicken Double Burger Combo",
+    "price": 1.6
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "24h",
+   "late-night"
+  ],
+  "note": "Arad branch delivers via Talabat across Muharraq island."
+ },
+ {
+  "name": "Tea Time — East Riffa",
+  "city": "Riffa",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Sh Isa Ave, Riffa, Bahrain",
+  "lat": 26.11503,
+  "lng": 50.57498,
+  "rating": 3.9,
+  "reviews": 272,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Sanad",
-    "city": "Sanad",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Sanad, Capital Governorate, Bahrain",
-    "lat": 26.1502,
-    "lng": 50.5841,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Green Tea (Small)", "price": 0.1},
-      {"item": "Club Sandwich", "price": 1.2}
-    ],
-    "tags": ["karak","cafeteria","24h","late-night"],
-    "note": "Serves Sanad and nearby Isa Town around the clock."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Karak Zaffron Tea (Small)",
+    "price": 0.3
+   },
+   {
+    "item": "Souffle (Small)",
+    "price": 0.8
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "24h",
+   "late-night",
+   "dessert"
+  ],
+  "note": "Found on Shaikh Isa Avenue in East Riffa."
+ },
+ {
+  "name": "Tea Time — Sanad",
+  "city": "Sanad",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Sanad, Bahrain",
+  "lat": 26.14121,
+  "lng": 50.58716,
+  "rating": 4,
+  "reviews": 216,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Hamad Town",
-    "city": "Hamad Town",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Hamad Town, Northern Governorate, Bahrain",
-    "lat": 26.1267,
-    "lng": 50.4983,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Cappuccino (Medium)", "price": 0.9},
-      {"item": "Fried Ice Cream", "price": 1.1}
-    ],
-    "tags": ["karak","cafeteria","24h","late-night","dessert"],
-    "note": "Main Hamad Town branch, one of two in the town."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Green Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Club Sandwich",
+    "price": 1.2
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "24h",
+   "late-night"
+  ],
+  "note": "Serves Sanad and nearby Isa Town around the clock."
+ },
+ {
+  "name": "Tea Time — Hamad Town",
+  "city": "Hamad Town",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "1203 Rd No 316, Hamad Town, Bahrain",
+  "lat": 26.14126,
+  "lng": 50.49831,
+  "rating": 4.1,
+  "reviews": 234,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Hamad Town Souq 2",
-    "city": "Hamad Town",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Souq area near Roundabout 2, Hamad Town, Bahrain",
-    "lat": 26.1390,
-    "lng": 50.5060,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Karak Tea (Medium)", "price": 0.2},
-      {"item": "Beef Burger Combo", "price": 1.1}
-    ],
-    "tags": ["karak","cafeteria","24h","late-night"],
-    "note": "Second Hamad Town outlet in the souq district."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Cappuccino (Medium)",
+    "price": 0.9
+   },
+   {
+    "item": "Fried Ice Cream",
+    "price": 1.1
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "24h",
+   "late-night",
+   "dessert"
+  ],
+  "note": "Main Hamad Town branch, one of two in the town."
+ },
+ {
+  "name": "Tea Time — Hamad Town Souq 2",
+  "city": "Hamad Town",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "1203 Rd No 316, Hamad Town, Bahrain",
+  "lat": 26.14126,
+  "lng": 50.49831,
+  "rating": 4.1,
+  "reviews": 234,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Galali",
-    "city": "Galali",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Galali, Muharraq Governorate, Bahrain",
-    "lat": 26.2742,
-    "lng": 50.6520,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Karak Zaffron Tea (Small)", "price": 0.3},
-      {"item": "Club Sandwich", "price": 1.2}
-    ],
-    "tags": ["karak","cafeteria","24h","late-night"],
-    "note": "Northernmost branch, near Galali village and the airport."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Karak Tea (Medium)",
+    "price": 0.2
+   },
+   {
+    "item": "Beef Burger Combo",
+    "price": 1.1
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "24h",
+   "late-night"
+  ],
+  "note": "Second Hamad Town outlet in the souq district."
+ },
+ {
+  "name": "Tea Time — Galali",
+  "city": "Galali",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "123, قلالي، Bahrain",
+  "lat": 26.2802,
+  "lng": 50.64441,
+  "rating": 3,
+  "reviews": 30,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Hidd",
-    "city": "Hidd",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Al Hidd, Muharraq Governorate, Bahrain",
-    "lat": 26.2441,
-    "lng": 50.6529,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Black Coffee (Small)", "price": 0.3},
-      {"item": "Souffle (Small)", "price": 0.8}
-    ],
-    "tags": ["karak","cafeteria","24h","late-night","dessert"],
-    "note": "Newer branch on the Hidd side of Muharraq island."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Karak Zaffron Tea (Small)",
+    "price": 0.3
+   },
+   {
+    "item": "Club Sandwich",
+    "price": 1.2
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "24h",
+   "late-night"
+  ],
+  "note": "Northernmost branch, near Galali village and the airport."
+ },
+ {
+  "name": "Tea Time — Hidd",
+  "city": "Hidd",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Shop 4, Building, 34 Road 30, Al Hidd, Bahrain",
+  "lat": 26.23119,
+  "lng": 50.64792,
+  "rating": 3.9,
+  "reviews": 231,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Juffair",
-    "city": "Juffair",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Juffair, Manama, Bahrain",
-    "lat": 26.2146,
-    "lng": 50.6041,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Cappuccino (Medium)", "price": 0.9},
-      {"item": "Lotus Dessert", "price": 1.7}
-    ],
-    "tags": ["karak","cafe","cafeteria","24h","late-night","dessert"],
-    "note": "Busy late-night stop in Juffair's restaurant district."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Black Coffee (Small)",
+    "price": 0.3
+   },
+   {
+    "item": "Souffle (Small)",
+    "price": 0.8
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "24h",
+   "late-night",
+   "dessert"
+  ],
+  "note": "Newer branch on the Hidd side of Muharraq island."
+ },
+ {
+  "name": "Tea Time — Juffair",
+  "city": "Juffair",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Building 783 Rd No 2412, Manama, Bahrain",
+  "lat": 26.21808,
+  "lng": 50.6011,
+  "rating": 4.1,
+  "reviews": 519,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Juffair Al Fateh",
-    "city": "Juffair",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Al Fateh area, Juffair, Manama, Bahrain",
-    "lat": 26.2190,
-    "lng": 50.5983,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Karak Tea (Large)", "price": 0.3},
-      {"item": "Hot Mocha (Medium)", "price": 0.9}
-    ],
-    "tags": ["karak","cafe","cafeteria","24h","late-night"],
-    "note": "Second Juffair outlet near Al Fateh Grand Mosque."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Cappuccino (Medium)",
+    "price": 0.9
+   },
+   {
+    "item": "Lotus Dessert",
+    "price": 1.7
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafe",
+   "cafeteria",
+   "24h",
+   "late-night",
+   "dessert"
+  ],
+  "note": "Busy late-night stop in Juffair's restaurant district."
+ },
+ {
+  "name": "Tea Time — Juffair Al Fateh",
+  "city": "Juffair",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Building 783 Rd No 2412, Manama, Bahrain",
+  "lat": 26.21808,
+  "lng": 50.6011,
+  "rating": 4.1,
+  "reviews": 519,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Seef",
-    "city": "Seef",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Seef District, Manama, Bahrain",
-    "lat": 26.2326,
-    "lng": 50.5382,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Karak Zaffron Tea (Small)", "price": 0.3},
-      {"item": "Chicken Double Burger Combo", "price": 1.6}
-    ],
-    "tags": ["karak","cafe","cafeteria","24h","late-night"],
-    "note": "Seef branch covers Manama's mall and office district."
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Karak Tea (Large)",
+    "price": 0.3
+   },
+   {
+    "item": "Hot Mocha (Medium)",
+    "price": 0.9
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafe",
+   "cafeteria",
+   "24h",
+   "late-night"
+  ],
+  "note": "Second Juffair outlet near Al Fateh Grand Mosque."
+ },
+ {
+  "name": "Tea Time — Malkiya",
+  "city": "Malkiya",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Shop: 2294, Club Building, 1033 Road: 106, المالكية، Bahrain",
+  "lat": 26.10149,
+  "lng": 50.48404,
+  "rating": 4.1,
+  "reviews": 11,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Tea Time — Malkiya",
-    "city": "Malkiya",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Malkiya, Northern Governorate, Bahrain",
-    "lat": 26.0996,
-    "lng": 50.4852,
-    "rating": null,
-    "reviews": null,
-    "hours": {"mon":["00:00","24:00"],"tue":["00:00","24:00"],"wed":["00:00","24:00"],"thu":["00:00","24:00"],"fri":["00:00","24:00"],"sat":["00:00","24:00"],"sun":["00:00","24:00"]},
-    "menu": [
-      {"item": "Karak Tea (Small)", "price": 0.1},
-      {"item": "Green Tea (Small)", "price": 0.1},
-      {"item": "Souffle (Small)", "price": 0.8}
-    ],
-    "tags": ["karak","cafeteria","24h","late-night","dessert"],
-    "note": "Westernmost branch in the coastal village of Malkiya."
-  }
+  "menu": [
+   {
+    "item": "Karak Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Green Tea (Small)",
+    "price": 0.1
+   },
+   {
+    "item": "Souffle (Small)",
+    "price": 0.8
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "24h",
+   "late-night",
+   "dessert"
+  ],
+  "note": "Westernmost branch in the coastal village of Malkiya."
+ }
 ]

@@ -1,1045 +1,1045 @@
 [
-  {
-    "name": "Karak Chai",
-    "city": "Fremont",
-    "state": "CA",
-    "address": "40559 Fremont Blvd, Fremont, CA 94538",
-    "lat": 37.5272,
-    "lng": -121.9667,
-    "rating": 4.8,
-    "reviews": 90,
-    "hours": {
-      "mon": [
-        "12:00",
-        "02:00"
-      ],
-      "tue": [
-        "12:00",
-        "02:00"
-      ],
-      "wed": [
-        "12:00",
-        "02:00"
-      ],
-      "thu": [
-        "12:00",
-        "02:00"
-      ],
-      "fri": [
-        "12:00",
-        "02:00"
-      ],
-      "sat": [
-        "12:00",
-        "02:00"
-      ],
-      "sun": null
-    },
-    "menu": [
-      {
-        "item": "Karak chai",
-        "price": 3.99
-      },
-      {
-        "item": "Irani chai",
-        "price": 3.49
-      },
-      {
-        "item": "Tandoori chai",
-        "price": 5.99
-      },
-      {
-        "item": "Bun maska",
-        "price": 3.99
-      }
-    ],
-    "tags": [
-      "karak",
-      "pakistani",
-      "indian",
-      "cafe",
-      "late-night"
-    ],
-    "note": "Each batch brews for nearly an hour. Open till 2 a.m."
+ {
+  "name": "Karak Chai",
+  "city": "Fremont",
+  "state": "CA",
+  "address": "40559 Fremont Blvd, Fremont, CA 94538, USA",
+  "lat": 37.5359,
+  "lng": -121.96542,
+  "rating": 4.5,
+  "reviews": 138,
+  "hours": {
+   "sun": [
+    "12:00",
+    "01:00"
+   ],
+   "mon": [
+    "12:00",
+    "01:00"
+   ],
+   "tue": [
+    "12:00",
+    "01:00"
+   ],
+   "wed": [
+    "12:00",
+    "01:00"
+   ],
+   "thu": [
+    "12:00",
+    "01:00"
+   ],
+   "fri": [
+    "12:00",
+    "02:00"
+   ],
+   "sat": [
+    "12:00",
+    "02:00"
+   ]
   },
-  {
-    "name": "Qamaria Yemeni Coffee Co.",
-    "city": "Fremont",
-    "state": "CA",
-    "address": "4193 Cushing Pkwy, Fremont, CA 94538",
-    "lat": 37.495,
-    "lng": -121.9475,
-    "rating": 4.6,
-    "reviews": 280,
-    "hours": {
-      "mon": [
-        "08:00",
-        "23:00"
-      ],
-      "tue": [
-        "08:00",
-        "23:00"
-      ],
-      "wed": [
-        "08:00",
-        "23:00"
-      ],
-      "thu": [
-        "08:00",
-        "23:00"
-      ],
-      "fri": [
-        "08:00",
-        "24:00"
-      ],
-      "sat": [
-        "08:00",
-        "24:00"
-      ],
-      "sun": [
-        "08:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 4.25
-      },
-      {
-        "item": "Adeni chai latte",
-        "price": 5.25
-      },
-      {
-        "item": "Pistachio latte",
-        "price": 6.5
-      },
-      {
-        "item": "Honeycomb bread",
-        "price": 5.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "karak",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Fremont Qamaria, near Pacific Commons.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak chai",
+    "price": 3.99
+   },
+   {
+    "item": "Irani chai",
+    "price": 3.49
+   },
+   {
+    "item": "Tandoori chai",
+    "price": 5.99
+   },
+   {
+    "item": "Bun maska",
+    "price": 3.99
+   }
+  ],
+  "tags": [
+   "karak",
+   "pakistani",
+   "indian",
+   "cafe",
+   "late-night"
+  ],
+  "note": "Each batch brews for nearly an hour. Open till 2 a.m."
+ },
+ {
+  "name": "Qamaria Yemeni Coffee Co.",
+  "city": "Fremont",
+  "state": "CA",
+  "address": "4193 Cushing Pkwy, Fremont, CA 94538, USA",
+  "lat": 37.49082,
+  "lng": -121.95034,
+  "rating": 4.4,
+  "reviews": 849,
+  "hours": {
+   "sun": [
+    "08:00",
+    "24:00"
+   ],
+   "mon": [
+    "08:00",
+    "24:00"
+   ],
+   "tue": [
+    "08:00",
+    "24:00"
+   ],
+   "wed": [
+    "08:00",
+    "24:00"
+   ],
+   "thu": [
+    "08:00",
+    "24:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "Delah Coffee",
-    "city": "San Francisco",
-    "state": "CA",
-    "address": "370 4th St, San Francisco, CA 94107",
-    "lat": 37.7805,
-    "lng": -122.3995,
-    "rating": 4.6,
-    "reviews": 540,
-    "hours": {
-      "mon": [
-        "06:00",
-        "23:00"
-      ],
-      "tue": [
-        "06:00",
-        "23:00"
-      ],
-      "wed": [
-        "06:00",
-        "23:00"
-      ],
-      "thu": [
-        "06:00",
-        "23:00"
-      ],
-      "fri": [
-        "06:00",
-        "23:00"
-      ],
-      "sat": [
-        "07:00",
-        "23:00"
-      ],
-      "sun": [
-        "07:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 5.75
-      },
-      {
-        "item": "Yemeni ginger coffee",
-        "price": 6.0
-      },
-      {
-        "item": "Pistachio latte",
-        "price": 6.75
-      },
-      {
-        "item": "Rose milk cake",
-        "price": 8.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "dessert",
-      "late-night"
-    ],
-    "note": "SoMa Yemeni coffee, heavy on the cardamom.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 4.25
+   },
+   {
+    "item": "Adeni chai latte",
+    "price": 5.25
+   },
+   {
+    "item": "Pistachio latte",
+    "price": 6.5
+   },
+   {
+    "item": "Honeycomb bread",
+    "price": 5.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "karak",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Fremont Qamaria, near Pacific Commons.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Delah Coffee",
+  "city": "San Francisco",
+  "state": "CA",
+  "address": "370 4th St, San Francisco, CA 94107, USA",
+  "lat": 37.78102,
+  "lng": -122.40022,
+  "rating": 4.7,
+  "reviews": 1134,
+  "hours": {
+   "sun": [
+    "07:00",
+    "23:00"
+   ],
+   "mon": [
+    "06:00",
+    "23:00"
+   ],
+   "tue": [
+    "06:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "06:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "07:00",
+    "23:00"
+   ]
   },
-  {
-    "name": "Chayakada Cafe",
-    "city": "San Jose",
-    "state": "CA",
-    "address": "117 Bernal Rd, Ste 80, San Jose, CA 95119",
-    "lat": 37.2356,
-    "lng": -121.7768,
-    "rating": 4.5,
-    "reviews": 350,
-    "hours": {
-      "mon": [
-        "09:00",
-        "19:00"
-      ],
-      "tue": null,
-      "wed": [
-        "09:00",
-        "21:00"
-      ],
-      "thu": [
-        "09:00",
-        "21:00"
-      ],
-      "fri": [
-        "09:00",
-        "21:00"
-      ],
-      "sat": [
-        "09:00",
-        "21:00"
-      ],
-      "sun": [
-        "09:00",
-        "21:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Kerala chaya",
-        "price": 3.5
-      },
-      {
-        "item": "Masala chai",
-        "price": 4.0
-      },
-      {
-        "item": "Saffron chai",
-        "price": 4.5
-      },
-      {
-        "item": "Parippu vada",
-        "price": 3.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "cafe"
-    ],
-    "note": "Claims to be America's first Kerala-style chayakada tea shop.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.75
+   },
+   {
+    "item": "Yemeni ginger coffee",
+    "price": 6.0
+   },
+   {
+    "item": "Pistachio latte",
+    "price": 6.75
+   },
+   {
+    "item": "Rose milk cake",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "note": "SoMa Yemeni coffee, heavy on the cardamom.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Chayakada Cafe",
+  "city": "San Jose",
+  "state": "CA",
+  "address": "117 Bernal Rd Ste 80, San Jose, CA 95119, USA",
+  "lat": 37.23066,
+  "lng": -121.77534,
+  "rating": 4.5,
+  "reviews": 310,
+  "hours": {
+   "sun": [
+    "09:00",
+    "21:00"
+   ],
+   "mon": [
+    "09:00",
+    "19:00"
+   ],
+   "wed": [
+    "09:00",
+    "21:00"
+   ],
+   "thu": [
+    "09:00",
+    "21:00"
+   ],
+   "fri": [
+    "09:00",
+    "21:00"
+   ],
+   "sat": [
+    "09:00",
+    "21:00"
+   ]
   },
-  {
-    "name": "Coffee & Chai",
-    "city": "San Jose",
-    "state": "CA",
-    "address": "31 Rio Robles E, San Jose, CA 95134",
-    "lat": 37.3992,
-    "lng": -121.944,
-    "rating": 4.6,
-    "reviews": 120,
-    "hours": {
-      "mon": [
-        "08:00",
-        "20:00"
-      ],
-      "tue": [
-        "08:00",
-        "20:00"
-      ],
-      "wed": [
-        "08:00",
-        "20:00"
-      ],
-      "thu": [
-        "08:00",
-        "20:00"
-      ],
-      "fri": [
-        "08:00",
-        "20:00"
-      ],
-      "sat": [
-        "09:00",
-        "20:00"
-      ],
-      "sun": [
-        "09:00",
-        "20:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Desi masala chai",
-        "price": 4.5
-      },
-      {
-        "item": "Kadak ginger chai",
-        "price": 4.5
-      },
-      {
-        "item": "Chicken kati roll",
-        "price": 9.0
-      },
-      {
-        "item": "Veg puff",
-        "price": 3.5
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "cafe"
-    ],
-    "note": "Masala chai for the North San Jose tech parks.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Kerala chaya",
+    "price": 3.5
+   },
+   {
+    "item": "Masala chai",
+    "price": 4.0
+   },
+   {
+    "item": "Saffron chai",
+    "price": 4.5
+   },
+   {
+    "item": "Parippu vada",
+    "price": 3.0
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "cafe"
+  ],
+  "note": "Claims to be America's first Kerala-style chayakada tea shop.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Coffee & Chai",
+  "city": "San Jose",
+  "state": "CA",
+  "address": "31 Rio Robles E, San Jose, CA 95134, USA",
+  "lat": 37.40649,
+  "lng": -121.9418,
+  "rating": 4.4,
+  "reviews": 106,
+  "hours": {
+   "sun": [
+    "07:00",
+    "20:00"
+   ],
+   "mon": [
+    "07:00",
+    "19:00"
+   ],
+   "tue": [
+    "07:00",
+    "19:00"
+   ],
+   "wed": [
+    "07:00",
+    "20:00"
+   ],
+   "thu": [
+    "07:00",
+    "20:00"
+   ],
+   "fri": [
+    "07:00",
+    "20:00"
+   ],
+   "sat": [
+    "07:00",
+    "20:00"
+   ]
   },
-  {
-    "name": "Sana'a Cafe",
-    "city": "Mountain View",
-    "state": "CA",
-    "address": "650 Castro St, Ste 110, Mountain View, CA 94041",
-    "lat": 37.3879,
-    "lng": -122.0817,
-    "rating": 4.7,
-    "reviews": 220,
-    "hours": {
-      "mon": [
-        "07:00",
-        "23:00"
-      ],
-      "tue": [
-        "07:00",
-        "23:00"
-      ],
-      "wed": [
-        "07:00",
-        "23:00"
-      ],
-      "thu": [
-        "07:00",
-        "23:00"
-      ],
-      "fri": [
-        "07:00",
-        "24:00"
-      ],
-      "sat": [
-        "07:00",
-        "24:00"
-      ],
-      "sun": [
-        "07:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 5.5
-      },
-      {
-        "item": "Qishr (coffee husk tea)",
-        "price": 5.5
-      },
-      {
-        "item": "Pistachio latte",
-        "price": 6.75
-      },
-      {
-        "item": "Honeycomb bread",
-        "price": 6.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Castro Street spot for Yemeni coffee, adeni chai, milk cakes.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Desi masala chai",
+    "price": 4.5
+   },
+   {
+    "item": "Kadak ginger chai",
+    "price": 4.5
+   },
+   {
+    "item": "Chicken kati roll",
+    "price": 9.0
+   },
+   {
+    "item": "Veg puff",
+    "price": 3.5
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "cafe"
+  ],
+  "note": "Masala chai for the North San Jose tech parks.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Sana'a Cafe",
+  "city": "Mountain View",
+  "state": "CA",
+  "address": "650 Castro St suit 110, Mountain View, CA 94041, USA",
+  "lat": 37.38776,
+  "lng": -122.08304,
+  "rating": 4.2,
+  "reviews": 57,
+  "hours": {
+   "sun": [
+    "08:00",
+    "22:00"
+   ],
+   "mon": [
+    "08:00",
+    "22:00"
+   ],
+   "tue": [
+    "08:00",
+    "22:00"
+   ],
+   "wed": [
+    "08:00",
+    "22:00"
+   ],
+   "thu": [
+    "08:00",
+    "22:00"
+   ],
+   "fri": [
+    "08:00",
+    "22:00"
+   ],
+   "sat": [
+    "08:00",
+    "22:00"
+   ]
   },
-  {
-    "name": "Surati Farsan Mart",
-    "city": "Artesia",
-    "state": "CA",
-    "address": "11814 E 186th St, Artesia, CA 90701",
-    "lat": 33.8689,
-    "lng": -118.0801,
-    "rating": 4.3,
-    "reviews": 2200,
-    "hours": {
-      "mon": null,
-      "tue": [
-        "11:00",
-        "21:00"
-      ],
-      "wed": [
-        "11:00",
-        "21:00"
-      ],
-      "thu": [
-        "11:00",
-        "21:00"
-      ],
-      "fri": [
-        "11:00",
-        "21:30"
-      ],
-      "sat": [
-        "11:00",
-        "21:30"
-      ],
-      "sun": [
-        "11:00",
-        "21:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Masala chai",
-        "price": 2.99
-      },
-      {
-        "item": "Dhokla",
-        "price": 7.99
-      },
-      {
-        "item": "Pani puri",
-        "price": 6.5
-      },
-      {
-        "item": "Jalebi",
-        "price": 5.99
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "dessert"
-    ],
-    "note": "Little India institution for Gujarati snacks and masala chai.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Qishr (coffee husk tea)",
+    "price": 5.5
+   },
+   {
+    "item": "Pistachio latte",
+    "price": 6.75
+   },
+   {
+    "item": "Honeycomb bread",
+    "price": 6.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Castro Street spot for Yemeni coffee, adeni chai, milk cakes.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Surati Farsan Mart",
+  "city": "Artesia",
+  "state": "CA",
+  "address": "11814 186th St, Artesia, CA 90701, USA",
+  "lat": 33.86276,
+  "lng": -118.08166,
+  "rating": 4.1,
+  "reviews": 1781,
+  "hours": {
+   "sun": [
+    "11:00",
+    "21:00"
+   ],
+   "tue": [
+    "11:00",
+    "21:00"
+   ],
+   "wed": [
+    "11:00",
+    "21:00"
+   ],
+   "thu": [
+    "11:00",
+    "21:00"
+   ],
+   "fri": [
+    "11:00",
+    "21:30"
+   ],
+   "sat": [
+    "11:00",
+    "21:30"
+   ]
   },
-  {
-    "name": "Qahwah & Chapati Yemeni Coffee Shop",
-    "city": "Anaheim",
-    "state": "CA",
-    "address": "518 S Brookhurst St, Anaheim, CA 92804",
-    "lat": 33.829,
-    "lng": -117.9532,
-    "rating": 4.6,
-    "reviews": 300,
-    "hours": {
-      "mon": [
-        "08:00",
-        "24:00"
-      ],
-      "tue": [
-        "08:00",
-        "24:00"
-      ],
-      "wed": [
-        "08:00",
-        "24:00"
-      ],
-      "thu": [
-        "08:00",
-        "24:00"
-      ],
-      "fri": [
-        "08:00",
-        "24:00"
-      ],
-      "sat": [
-        "08:00",
-        "24:00"
-      ],
-      "sun": [
-        "08:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak chai",
-        "price": 5.0
-      },
-      {
-        "item": "Adeni chai",
-        "price": 5.5
-      },
-      {
-        "item": "Iced pistachio latte",
-        "price": 8.0
-      },
-      {
-        "item": "Dubai konafa cheesecake",
-        "price": 14.0
-      }
-    ],
-    "tags": [
-      "karak",
-      "adeni",
-      "yemeni",
-      "cafe",
-      "late-night"
-    ],
-    "note": "Karak with honey chapati in Little Arabia.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Masala chai",
+    "price": 2.99
+   },
+   {
+    "item": "Dhokla",
+    "price": 7.99
+   },
+   {
+    "item": "Pani puri",
+    "price": 6.5
+   },
+   {
+    "item": "Jalebi",
+    "price": 5.99
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "dessert"
+  ],
+  "note": "Little India institution for Gujarati snacks and masala chai.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Qahwah & Chapati Yemeni Coffee Shop",
+  "city": "Anaheim",
+  "state": "CA",
+  "address": "518 S Brookhurst St #3, Anaheim, CA 92804, USA",
+  "lat": 33.82564,
+  "lng": -117.9584,
+  "rating": 4.8,
+  "reviews": 373,
+  "hours": {
+   "sun": [
+    "08:00",
+    "24:00"
+   ],
+   "mon": [
+    "08:00",
+    "24:00"
+   ],
+   "tue": [
+    "08:00",
+    "24:00"
+   ],
+   "wed": [
+    "08:00",
+    "24:00"
+   ],
+   "thu": [
+    "08:00",
+    "24:00"
+   ],
+   "fri": [
+    "08:00",
+    "24:00"
+   ],
+   "sat": [
+    "08:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Knafeh Cafe",
-    "city": "Anaheim",
-    "state": "CA",
-    "address": "866 S Brookhurst St, Anaheim, CA 92804",
-    "lat": 33.8253,
-    "lng": -117.9533,
-    "rating": 4.6,
-    "reviews": 900,
-    "hours": {
-      "mon": [
-        "11:00",
-        "23:00"
-      ],
-      "tue": [
-        "11:00",
-        "23:00"
-      ],
-      "wed": [
-        "11:00",
-        "23:00"
-      ],
-      "thu": [
-        "11:00",
-        "23:00"
-      ],
-      "fri": [
-        "11:00",
-        "23:00"
-      ],
-      "sat": [
-        "11:00",
-        "23:00"
-      ],
-      "sun": [
-        "11:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 3.5
-      },
-      {
-        "item": "Knafeh nabulsieh slice",
-        "price": 10.0
-      },
-      {
-        "item": "Dubai chocolate knafeh",
-        "price": 12.0
-      },
-      {
-        "item": "Baklava assortment",
-        "price": 9.0
-      }
-    ],
-    "tags": [
-      "karak",
-      "dessert",
-      "cafe"
-    ],
-    "note": "Knafeh first, karak to wash it down.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak chai",
+    "price": 5.0
+   },
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Iced pistachio latte",
+    "price": 8.0
+   },
+   {
+    "item": "Dubai konafa cheesecake",
+    "price": 14.0
+   }
+  ],
+  "tags": [
+   "karak",
+   "adeni",
+   "yemeni",
+   "cafe",
+   "late-night"
+  ],
+  "note": "Karak with honey chapati in Little Arabia.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Knafeh Cafe",
+  "city": "Anaheim",
+  "state": "CA",
+  "address": "866 S Brookhurst St, Anaheim, CA 92804, USA",
+  "lat": 33.82084,
+  "lng": -117.95825,
+  "rating": 4.2,
+  "reviews": 657,
+  "hours": {
+   "sun": [
+    "12:00",
+    "21:00"
+   ],
+   "mon": [
+    "12:00",
+    "21:00"
+   ],
+   "tue": [
+    "12:00",
+    "21:00"
+   ],
+   "wed": [
+    "12:00",
+    "21:00"
+   ],
+   "thu": [
+    "12:00",
+    "21:00"
+   ],
+   "fri": [
+    "12:00",
+    "21:00"
+   ],
+   "sat": [
+    "12:00",
+    "21:00"
+   ]
   },
-  {
-    "name": "Karak House Coffee Co.",
-    "city": "Laguna Hills",
-    "state": "CA",
-    "address": "25630 Alicia Pkwy, Laguna Hills, CA 92653",
-    "lat": 33.602,
-    "lng": -117.718,
-    "rating": 4.6,
-    "reviews": 700,
-    "hours": {
-      "mon": [
-        "08:00",
-        "22:00"
-      ],
-      "tue": [
-        "08:00",
-        "22:00"
-      ],
-      "wed": [
-        "08:00",
-        "22:00"
-      ],
-      "thu": [
-        "08:00",
-        "23:00"
-      ],
-      "fri": [
-        "08:00",
-        "24:00"
-      ],
-      "sat": [
-        "09:00",
-        "24:00"
-      ],
-      "sun": [
-        "09:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Signature karak chai",
-        "price": 4.5
-      },
-      {
-        "item": "Karak latte",
-        "price": 6.25
-      },
-      {
-        "item": "Date cardamom latte",
-        "price": 6.5
-      },
-      {
-        "item": "Pistachio knafeh cookie",
-        "price": 5.5
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafe",
-      "dessert",
-      "late-night"
-    ],
-    "note": "The original Karak House.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak tea",
+    "price": 3.5
+   },
+   {
+    "item": "Knafeh nabulsieh slice",
+    "price": 10.0
+   },
+   {
+    "item": "Dubai chocolate knafeh",
+    "price": 12.0
+   },
+   {
+    "item": "Baklava assortment",
+    "price": 9.0
+   }
+  ],
+  "tags": [
+   "karak",
+   "dessert",
+   "cafe"
+  ],
+  "note": "Knafeh first, karak to wash it down.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Karak House Coffee Co.",
+  "city": "Laguna Hills",
+  "state": "CA",
+  "address": "25630 Alicia Pkwy, Laguna Hills, CA 92653, USA",
+  "lat": 33.59046,
+  "lng": -117.69928,
+  "rating": 4.5,
+  "reviews": 562,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "22:00"
+   ],
+   "tue": [
+    "08:00",
+    "22:00"
+   ],
+   "wed": [
+    "08:00",
+    "22:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "24:00"
+   ],
+   "sat": [
+    "09:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Karak House Coffee Co.",
-    "city": "San Diego",
-    "state": "CA",
-    "address": "9254 Scranton Rd, San Diego, CA 92121",
-    "lat": 32.8995,
-    "lng": -117.2,
-    "rating": 4.7,
-    "reviews": 400,
-    "hours": {
-      "mon": [
-        "07:00",
-        "22:00"
-      ],
-      "tue": [
-        "07:00",
-        "22:00"
-      ],
-      "wed": [
-        "07:00",
-        "22:00"
-      ],
-      "thu": [
-        "07:00",
-        "23:00"
-      ],
-      "fri": [
-        "07:00",
-        "24:00"
-      ],
-      "sat": [
-        "09:00",
-        "24:00"
-      ],
-      "sun": [
-        "09:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Signature karak chai",
-        "price": 4.5
-      },
-      {
-        "item": "Karak mint tea",
-        "price": 4.75
-      },
-      {
-        "item": "Iced pistachio Spanish latte",
-        "price": 7.0
-      },
-      {
-        "item": "Milk cake slice",
-        "price": 7.5
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafe",
-      "dessert",
-      "late-night"
-    ],
-    "note": "The Sorrento Valley Karak House.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Signature karak chai",
+    "price": 4.5
+   },
+   {
+    "item": "Karak latte",
+    "price": 6.25
+   },
+   {
+    "item": "Date cardamom latte",
+    "price": 6.5
+   },
+   {
+    "item": "Pistachio knafeh cookie",
+    "price": 5.5
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "note": "The original Karak House.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Karak House Coffee Co.",
+  "city": "San Diego",
+  "state": "CA",
+  "address": "9254 Scranton Rd Ste 104, San Diego, CA 92121, USA",
+  "lat": 32.89099,
+  "lng": -117.20169,
+  "rating": 4.4,
+  "reviews": 343,
+  "hours": {
+   "sun": [
+    "09:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "22:00"
+   ],
+   "tue": [
+    "07:00",
+    "22:00"
+   ],
+   "wed": [
+    "07:00",
+    "22:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "24:00"
+   ],
+   "sat": [
+    "09:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Sana'a Cafe",
-    "city": "Sacramento",
-    "state": "CA",
-    "address": "901 K St, Sacramento, CA 95814",
-    "lat": 38.58,
-    "lng": -121.4938,
-    "rating": 4.5,
-    "reviews": 480,
-    "hours": {
-      "mon": [
-        "07:00",
-        "22:00"
-      ],
-      "tue": [
-        "07:00",
-        "22:00"
-      ],
-      "wed": [
-        "07:00",
-        "22:00"
-      ],
-      "thu": [
-        "07:00",
-        "22:00"
-      ],
-      "fri": [
-        "07:00",
-        "23:00"
-      ],
-      "sat": [
-        "08:00",
-        "23:00"
-      ],
-      "sun": [
-        "08:00",
-        "22:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 5.5
-      },
-      {
-        "item": "Hawaij coffee",
-        "price": 5.75
-      },
-      {
-        "item": "Rose milk cake",
-        "price": 8.0
-      },
-      {
-        "item": "Sabaya pastry",
-        "price": 6.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Yemeni cafe on K Street, steps from the Capitol.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Signature karak chai",
+    "price": 4.5
+   },
+   {
+    "item": "Karak mint tea",
+    "price": 4.75
+   },
+   {
+    "item": "Iced pistachio Spanish latte",
+    "price": 7.0
+   },
+   {
+    "item": "Milk cake slice",
+    "price": 7.5
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafe",
+   "dessert",
+   "late-night"
+  ],
+  "note": "The Sorrento Valley Karak House.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Sana'a Cafe",
+  "city": "Sacramento",
+  "state": "CA",
+  "address": "901 K St, Sacramento, CA 95814, USA",
+  "lat": 38.57969,
+  "lng": -121.49501,
+  "rating": 4.8,
+  "reviews": 727,
+  "hours": {
+   "sun": [
+    "09:00",
+    "22:00"
+   ],
+   "mon": [
+    "08:00",
+    "22:00"
+   ],
+   "tue": [
+    "08:00",
+    "22:00"
+   ],
+   "wed": [
+    "08:00",
+    "22:00"
+   ],
+   "thu": [
+    "08:00",
+    "22:00"
+   ],
+   "fri": [
+    "08:00",
+    "23:00"
+   ],
+   "sat": [
+    "09:00",
+    "23:00"
+   ]
   },
-  {
-    "name": "Qamaria Yemeni Coffee Co.",
-    "city": "Folsom",
-    "state": "CA",
-    "address": "13405 Folsom Blvd, Folsom, CA 95630",
-    "lat": 38.6472,
-    "lng": -121.1805,
-    "rating": 4.6,
-    "reviews": 450,
-    "hours": {
-      "mon": [
-        "08:00",
-        "23:00"
-      ],
-      "tue": [
-        "08:00",
-        "23:00"
-      ],
-      "wed": [
-        "08:00",
-        "23:00"
-      ],
-      "thu": [
-        "08:00",
-        "23:00"
-      ],
-      "fri": [
-        "08:00",
-        "24:00"
-      ],
-      "sat": [
-        "08:00",
-        "24:00"
-      ],
-      "sun": [
-        "08:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 4.25
-      },
-      {
-        "item": "Iced adeni",
-        "price": 5.25
-      },
-      {
-        "item": "Mofawar coffee",
-        "price": 5.5
-      },
-      {
-        "item": "Honeycomb cake",
-        "price": 5.5
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "dessert"
-    ],
-    "note": "First Yemeni coffee shop in the Sacramento region.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 5.5
+   },
+   {
+    "item": "Hawaij coffee",
+    "price": 5.75
+   },
+   {
+    "item": "Rose milk cake",
+    "price": 8.0
+   },
+   {
+    "item": "Sabaya pastry",
+    "price": 6.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Yemeni cafe on K Street, steps from the Capitol.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Qamaria Yemeni Coffee Co.",
+  "city": "Folsom",
+  "state": "CA",
+  "address": "13405 Folsom Blvd #950, Folsom, CA 95630, USA",
+  "lat": 38.65817,
+  "lng": -121.1831,
+  "rating": 4.7,
+  "reviews": 396,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "08:00",
+    "23:00"
+   ],
+   "tue": [
+    "08:00",
+    "23:00"
+   ],
+   "wed": [
+    "08:00",
+    "23:00"
+   ],
+   "thu": [
+    "08:00",
+    "23:00"
+   ],
+   "fri": [
+    "08:00",
+    "24:00"
+   ],
+   "sat": [
+    "08:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Chai N More",
-    "city": "Bellevue",
-    "state": "WA",
-    "address": "12865 Northup Way, Ste C, Bellevue, WA 98005",
-    "lat": 47.6315,
-    "lng": -122.167,
-    "rating": 4.5,
-    "reviews": 650,
-    "hours": {
-      "mon": null,
-      "tue": [
-        "09:30",
-        "21:00"
-      ],
-      "wed": [
-        "09:30",
-        "21:00"
-      ],
-      "thu": [
-        "09:30",
-        "21:00"
-      ],
-      "fri": [
-        "09:30",
-        "21:00"
-      ],
-      "sat": [
-        "09:30",
-        "21:00"
-      ],
-      "sun": [
-        "09:30",
-        "20:30"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Kadak ginger chai",
-        "price": 5.0
-      },
-      {
-        "item": "Masala chai",
-        "price": 5.0
-      },
-      {
-        "item": "Kashmiri pink chai",
-        "price": 6.0
-      },
-      {
-        "item": "Bun maska",
-        "price": 4.5
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "cafe"
-    ],
-    "note": "Ten-plus regional chais on one Bellevue menu.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 4.25
+   },
+   {
+    "item": "Iced adeni",
+    "price": 5.25
+   },
+   {
+    "item": "Mofawar coffee",
+    "price": 5.5
+   },
+   {
+    "item": "Honeycomb cake",
+    "price": 5.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "note": "First Yemeni coffee shop in the Sacramento region.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Chai N More",
+  "city": "Bellevue",
+  "state": "WA",
+  "address": "12863 Northup Way Ste C, Bellevue, WA 98005, USA",
+  "lat": 47.62782,
+  "lng": -122.16905,
+  "rating": 4.4,
+  "reviews": 609,
+  "hours": {
+   "sun": [
+    "09:30",
+    "20:30"
+   ],
+   "tue": [
+    "09:30",
+    "21:00"
+   ],
+   "wed": [
+    "09:30",
+    "21:00"
+   ],
+   "thu": [
+    "09:30",
+    "21:00"
+   ],
+   "fri": [
+    "09:30",
+    "21:00"
+   ],
+   "sat": [
+    "09:30",
+    "21:00"
+   ]
   },
-  {
-    "name": "Aden Tea & Coffee House",
-    "city": "Tempe",
-    "state": "AZ",
-    "address": "977 E Apache Blvd, Ste 101, Tempe, AZ 85282",
-    "lat": 33.4147,
-    "lng": -111.9282,
-    "rating": 4.8,
-    "reviews": 200,
-    "hours": {
-      "mon": [
-        "09:00",
-        "21:00"
-      ],
-      "tue": [
-        "09:00",
-        "21:00"
-      ],
-      "wed": [
-        "09:00",
-        "21:00"
-      ],
-      "thu": [
-        "09:00",
-        "21:00"
-      ],
-      "fri": [
-        "09:00",
-        "24:00"
-      ],
-      "sat": [
-        "09:00",
-        "24:00"
-      ],
-      "sun": [
-        "09:00",
-        "21:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni shai",
-        "price": 4.5
-      },
-      {
-        "item": "Pakistani karak chai",
-        "price": 4.5
-      },
-      {
-        "item": "Turkish coffee",
-        "price": 5.0
-      },
-      {
-        "item": "Turkish pastry",
-        "price": 5.5
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "karak",
-      "pakistani",
-      "cafe"
-    ],
-    "note": "Arizona's first traditional Yemeni coffee house, near ASU.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Kadak ginger chai",
+    "price": 5.0
+   },
+   {
+    "item": "Masala chai",
+    "price": 5.0
+   },
+   {
+    "item": "Kashmiri pink chai",
+    "price": 6.0
+   },
+   {
+    "item": "Bun maska",
+    "price": 4.5
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "cafe"
+  ],
+  "note": "Ten-plus regional chais on one Bellevue menu.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Aden Tea & Coffee House",
+  "city": "Tempe",
+  "state": "AZ",
+  "address": "977 E Apache Blvd Ste 101, Tempe, AZ 85281, USA",
+  "lat": 33.41457,
+  "lng": -111.92417,
+  "rating": 4.8,
+  "reviews": 97,
+  "hours": {
+   "sun": [
+    "09:00",
+    "21:00"
+   ],
+   "mon": [
+    "09:00",
+    "21:00"
+   ],
+   "tue": [
+    "09:00",
+    "21:00"
+   ],
+   "wed": [
+    "09:00",
+    "21:00"
+   ],
+   "thu": [
+    "09:00",
+    "21:00"
+   ],
+   "fri": [
+    "09:00",
+    "24:00"
+   ],
+   "sat": [
+    "09:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Qamaria Yemeni Coffee Co.",
-    "city": "Aurora",
-    "state": "CO",
-    "address": "15464 E Hampden Ave, Aurora, CO 80013",
-    "lat": 39.6535,
-    "lng": -104.8065,
-    "rating": 4.7,
-    "reviews": 380,
-    "hours": {
-      "mon": [
-        "09:00",
-        "22:00"
-      ],
-      "tue": [
-        "09:00",
-        "22:00"
-      ],
-      "wed": [
-        "09:00",
-        "22:00"
-      ],
-      "thu": [
-        "09:00",
-        "22:00"
-      ],
-      "fri": [
-        "09:00",
-        "23:00"
-      ],
-      "sat": [
-        "09:00",
-        "23:00"
-      ],
-      "sun": [
-        "10:00",
-        "22:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 4.25
-      },
-      {
-        "item": "Iced adeni",
-        "price": 5.25
-      },
-      {
-        "item": "Qishr",
-        "price": 4.75
-      },
-      {
-        "item": "Milk cake",
-        "price": 6.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Adeni and milk cake for the Denver metro.",
-    "priceEstimated": true
-  }
+  "menu": [
+   {
+    "item": "Adeni shai",
+    "price": 4.5
+   },
+   {
+    "item": "Pakistani karak chai",
+    "price": 4.5
+   },
+   {
+    "item": "Turkish coffee",
+    "price": 5.0
+   },
+   {
+    "item": "Turkish pastry",
+    "price": 5.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "karak",
+   "pakistani",
+   "cafe"
+  ],
+  "note": "Arizona's first traditional Yemeni coffee house, near ASU.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Qamaria Yemeni Coffee Co.",
+  "city": "Aurora",
+  "state": "CO",
+  "address": "15464 E Hampden Ave, Aurora, CO 80013, USA",
+  "lat": 39.65235,
+  "lng": -104.80801,
+  "rating": 4.9,
+  "reviews": 147,
+  "hours": {
+   "sun": [
+    "10:00",
+    "22:00"
+   ],
+   "mon": [
+    "09:00",
+    "22:00"
+   ],
+   "tue": [
+    "09:00",
+    "22:00"
+   ],
+   "wed": [
+    "09:00",
+    "22:00"
+   ],
+   "thu": [
+    "09:00",
+    "22:00"
+   ],
+   "fri": [
+    "09:00",
+    "23:00"
+   ],
+   "sat": [
+    "09:00",
+    "23:00"
+   ]
+  },
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 4.25
+   },
+   {
+    "item": "Iced adeni",
+    "price": 5.25
+   },
+   {
+    "item": "Qishr",
+    "price": 4.75
+   },
+   {
+    "item": "Milk cake",
+    "price": 6.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Adeni and milk cake for the Denver metro.",
+  "priceEstimated": true
+ }
 ]

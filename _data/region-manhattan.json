@@ -1,943 +1,883 @@
 [
-  {
-    "name": "Kolkata Chai Co",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "199 E 3rd St, New York, NY 10009",
-    "lat": 40.722182,
-    "lng": -73.982971,
-    "rating": 4.5,
-    "reviews": 175,
-    "hours": {
-      "mon": null,
-      "tue": [
-        "09:00",
-        "19:00"
-      ],
-      "wed": [
-        "09:00",
-        "19:00"
-      ],
-      "thu": [
-        "09:00",
-        "19:00"
-      ],
-      "fri": [
-        "09:00",
-        "19:00"
-      ],
-      "sat": [
-        "09:00",
-        "19:00"
-      ],
-      "sun": [
-        "09:00",
-        "17:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Masala chai",
-        "price": 5.0
-      },
-      {
-        "item": "Kesar chai",
-        "price": 5.5
-      },
-      {
-        "item": "Samosa",
-        "price": 4.0
-      },
-      {
-        "item": "Paratha pocket",
-        "price": 8.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "cafe"
-    ],
-    "note": "Original East Village cafe simmering chai from scratch."
+ {
+  "name": "Kolkata Chai Co",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "199 E 3rd St, New York, NY 10009, USA",
+  "lat": 40.72285,
+  "lng": -73.98312,
+  "rating": 4.4,
+  "reviews": 559,
+  "hours": {
+   "sun": [
+    "09:00",
+    "17:00"
+   ],
+   "tue": [
+    "09:00",
+    "19:00"
+   ],
+   "wed": [
+    "09:00",
+    "19:00"
+   ],
+   "thu": [
+    "09:00",
+    "19:00"
+   ],
+   "fri": [
+    "09:00",
+    "19:00"
+   ],
+   "sat": [
+    "09:00",
+    "19:00"
+   ]
   },
-  {
-    "name": "Kolkata Chai Co (Nolita)",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "60 Kenmare St, New York, NY 10012",
-    "lat": 40.721325,
-    "lng": -73.996079,
-    "rating": 4.4,
-    "reviews": 96,
-    "hours": {
-      "mon": null,
-      "tue": [
-        "09:00",
-        "19:00"
-      ],
-      "wed": [
-        "09:00",
-        "19:00"
-      ],
-      "thu": [
-        "09:00",
-        "19:00"
-      ],
-      "fri": [
-        "09:00",
-        "19:00"
-      ],
-      "sat": [
-        "09:00",
-        "19:00"
-      ],
-      "sun": [
-        "09:00",
-        "17:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Masala chai",
-        "price": 5.0
-      },
-      {
-        "item": "Iced chai with saffron",
-        "price": 6.5
-      },
-      {
-        "item": "Chai soft serve",
-        "price": 6.0
-      },
-      {
-        "item": "Samosa",
-        "price": 4.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Nolita branch known for chai soft serve and masala chai."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Masala chai",
+    "price": 5.0
+   },
+   {
+    "item": "Kesar chai",
+    "price": 5.5
+   },
+   {
+    "item": "Samosa",
+    "price": 4.0
+   },
+   {
+    "item": "Paratha pocket",
+    "price": 8.0
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "cafe"
+  ],
+  "note": "Original East Village cafe simmering chai from scratch."
+ },
+ {
+  "name": "Kolkata Chai Co (Nolita)",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "60 Kenmare St, New York, NY 10012, USA",
+  "lat": 40.72085,
+  "lng": -73.99601,
+  "rating": 4.5,
+  "reviews": 464,
+  "hours": {
+   "sun": [
+    "09:00",
+    "17:00"
+   ],
+   "tue": [
+    "09:00",
+    "19:00"
+   ],
+   "wed": [
+    "09:00",
+    "19:00"
+   ],
+   "thu": [
+    "09:00",
+    "19:00"
+   ],
+   "fri": [
+    "09:00",
+    "19:00"
+   ],
+   "sat": [
+    "09:00",
+    "19:00"
+   ]
   },
-  {
-    "name": "The Chai Spot",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "156 Mott St, New York, NY 10013",
-    "lat": 40.719387,
-    "lng": -73.99617,
-    "rating": 3.9,
-    "reviews": 440,
-    "hours": {
-      "mon": null,
-      "tue": null,
-      "wed": [
-        "15:00",
-        "22:00"
-      ],
-      "thu": [
-        "15:00",
-        "22:00"
-      ],
-      "fri": [
-        "15:00",
-        "22:00"
-      ],
-      "sat": [
-        "12:00",
-        "22:00"
-      ],
-      "sun": [
-        "12:00",
-        "22:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Cardamom chai",
-        "price": 7.0
-      },
-      {
-        "item": "Sulaimani chai",
-        "price": 6.0
-      },
-      {
-        "item": "Samosa",
-        "price": 5.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "pakistani",
-      "cafe"
-    ],
-    "note": "Cushioned Sufi-style lounge pouring cardamom and Sulaimani chai."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Masala chai",
+    "price": 5.0
+   },
+   {
+    "item": "Iced chai with saffron",
+    "price": 6.5
+   },
+   {
+    "item": "Chai soft serve",
+    "price": 6.0
+   },
+   {
+    "item": "Samosa",
+    "price": 4.0
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "cafe",
+   "dessert"
+  ],
+  "note": "Nolita branch known for chai soft serve and masala chai."
+ },
+ {
+  "name": "The Chai Spot",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "156 Mott St, New York, NY 10013, USA",
+  "lat": 40.71946,
+  "lng": -73.99616,
+  "rating": 3.9,
+  "reviews": 1230,
+  "hours": {
+   "sun": [
+    "10:00",
+    "22:00"
+   ],
+   "mon": [
+    "10:00",
+    "22:00"
+   ],
+   "tue": [
+    "13:00",
+    "20:00"
+   ],
+   "wed": [
+    "10:00",
+    "22:00"
+   ],
+   "thu": [
+    "10:00",
+    "22:00"
+   ],
+   "fri": [
+    "10:00",
+    "22:00"
+   ],
+   "sat": [
+    "10:00",
+    "22:00"
+   ]
   },
-  {
-    "name": "Qahwah Valley",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "630 1st Ave, New York, NY 10016",
-    "lat": 40.74266,
-    "lng": -73.97332,
-    "rating": 4.6,
-    "reviews": 120,
-    "hours": {
-      "mon": [
-        "07:00",
-        "23:00"
-      ],
-      "tue": [
-        "07:00",
-        "23:00"
-      ],
-      "wed": [
-        "07:00",
-        "23:00"
-      ],
-      "thu": [
-        "07:00",
-        "23:00"
-      ],
-      "fri": [
-        "07:00",
-        "01:00"
-      ],
-      "sat": [
-        "08:00",
-        "01:00"
-      ],
-      "sun": [
-        "08:00",
-        "23:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 6.0
-      },
-      {
-        "item": "Qishr",
-        "price": 5.5
-      },
-      {
-        "item": "Sana'ani coffee",
-        "price": 5.5
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "late-night"
-    ],
-    "note": "Murray Hill Yemeni cafe pouring adeni chai near Grand Central."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Cardamom chai",
+    "price": 7.0
+   },
+   {
+    "item": "Sulaimani chai",
+    "price": 6.0
+   },
+   {
+    "item": "Samosa",
+    "price": 5.0
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "pakistani",
+   "cafe"
+  ],
+  "note": "Cushioned Sufi-style lounge pouring cardamom and Sulaimani chai."
+ },
+ {
+  "name": "Qahwah Valley",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "630 1st Ave, New York, NY 10016, USA",
+  "lat": 40.74521,
+  "lng": -73.9722,
+  "rating": 4.7,
+  "reviews": 372,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "Qamaria Yemeni Coffee Co.",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "570 9th Ave, New York, NY 10036",
-    "lat": 40.75843,
-    "lng": -73.99382,
-    "rating": 4.6,
-    "reviews": 531,
-    "hours": {
-      "mon": [
-        "07:00",
-        "23:00"
-      ],
-      "tue": [
-        "07:00",
-        "23:00"
-      ],
-      "wed": [
-        "07:00",
-        "23:00"
-      ],
-      "thu": [
-        "07:00",
-        "23:00"
-      ],
-      "fri": [
-        "07:00",
-        "01:00"
-      ],
-      "sat": [
-        "07:00",
-        "01:00"
-      ],
-      "sun": [
-        "07:00",
-        "23:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Aden chai",
-        "price": 6.0
-      },
-      {
-        "item": "Qishr",
-        "price": 5.5
-      },
-      {
-        "item": "Mofawar coffee",
-        "price": 6.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "late-night"
-    ],
-    "note": "Midtown Yemeni cafe near Times Square serving aden chai."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.0
+   },
+   {
+    "item": "Qishr",
+    "price": 5.5
+   },
+   {
+    "item": "Sana'ani coffee",
+    "price": 5.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "late-night"
+  ],
+  "note": "Murray Hill Yemeni cafe pouring adeni chai near Grand Central."
+ },
+ {
+  "name": "Qamaria Yemeni Coffee Co.",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "570 9th Ave, New York, NY 10036, USA",
+  "lat": 40.75792,
+  "lng": -73.99267,
+  "rating": 4.6,
+  "reviews": 547,
+  "hours": {
+   "sun": [
+    "08:00",
+    "23:00"
+   ],
+   "mon": [
+    "07:00",
+    "23:00"
+   ],
+   "tue": [
+    "07:00",
+    "23:00"
+   ],
+   "wed": [
+    "07:00",
+    "23:00"
+   ],
+   "thu": [
+    "07:00",
+    "23:00"
+   ],
+   "fri": [
+    "07:00",
+    "01:00"
+   ],
+   "sat": [
+    "10:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "Haraz Coffee House (SoHo)",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "210 Spring St, New York, NY 10012",
-    "lat": 40.72554,
-    "lng": -74.00463,
-    "rating": 4.6,
-    "reviews": 639,
-    "hours": {
-      "mon": [
-        "08:00",
-        "24:00"
-      ],
-      "tue": [
-        "08:00",
-        "24:00"
-      ],
-      "wed": [
-        "08:00",
-        "24:00"
-      ],
-      "thu": [
-        "08:00",
-        "24:00"
-      ],
-      "fri": [
-        "08:00",
-        "01:00"
-      ],
-      "sat": [
-        "08:00",
-        "01:00"
-      ],
-      "sun": [
-        "08:00",
-        "24:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Adeni chai",
-        "price": 6.5
-      },
-      {
-        "item": "Haraz signature coffee",
-        "price": 6.0
-      },
-      {
-        "item": "Sabaya",
-        "price": 5.0
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe",
-      "late-night"
-    ],
-    "note": "Modern Yemeni chain branch pouring adeni chai with haraz spice."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Aden chai",
+    "price": 6.0
+   },
+   {
+    "item": "Qishr",
+    "price": 5.5
+   },
+   {
+    "item": "Mofawar coffee",
+    "price": 6.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "late-night"
+  ],
+  "note": "Midtown Yemeni cafe near Times Square serving aden chai."
+ },
+ {
+  "name": "Haraz Coffee House (SoHo)",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "210 Spring St, New York, NY 10012, USA",
+  "lat": 40.72534,
+  "lng": -74.00378,
+  "rating": 4.5,
+  "reviews": 703,
+  "hours": {
+   "sun": [
+    "08:00",
+    "24:00"
+   ],
+   "mon": [
+    "08:00",
+    "24:00"
+   ],
+   "tue": [
+    "08:00",
+    "24:00"
+   ],
+   "wed": [
+    "08:00",
+    "24:00"
+   ],
+   "thu": [
+    "08:00",
+    "24:00"
+   ],
+   "fri": [
+    "08:00",
+    "01:00"
+   ],
+   "sat": [
+    "08:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "Moka & Co",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "2481 Broadway, New York, NY 10025",
-    "lat": 40.79221,
-    "lng": -73.97254,
-    "rating": 4.4,
-    "reviews": 36,
-    "hours": {
-      "mon": [
-        "07:00",
-        "20:00"
-      ],
-      "tue": [
-        "07:00",
-        "20:00"
-      ],
-      "wed": [
-        "07:00",
-        "20:00"
-      ],
-      "thu": [
-        "07:00",
-        "20:00"
-      ],
-      "fri": [
-        "07:00",
-        "20:00"
-      ],
-      "sat": [
-        "07:00",
-        "20:00"
-      ],
-      "sun": [
-        "07:00",
-        "20:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Shai Yemeni (adeni chai)",
-        "price": 5.5
-      },
-      {
-        "item": "Maleki coffee",
-        "price": 6.0
-      },
-      {
-        "item": "Basbousa",
-        "price": 4.5
-      }
-    ],
-    "tags": [
-      "adeni",
-      "yemeni",
-      "cafe"
-    ],
-    "note": "Upper West Side Yemeni shop serving spiced black tea."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Adeni chai",
+    "price": 6.5
+   },
+   {
+    "item": "Haraz signature coffee",
+    "price": 6.0
+   },
+   {
+    "item": "Sabaya",
+    "price": 5.0
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe",
+   "late-night"
+  ],
+  "note": "Modern Yemeni chain branch pouring adeni chai with haraz spice."
+ },
+ {
+  "name": "Moka & Co",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "2481 Broadway, New York, NY 10025, USA",
+  "lat": 40.79248,
+  "lng": -73.97394,
+  "rating": 4.6,
+  "reviews": 51,
+  "hours": {
+   "sun": [
+    "07:00",
+    "20:00"
+   ],
+   "mon": [
+    "07:00",
+    "20:00"
+   ],
+   "tue": [
+    "07:00",
+    "20:00"
+   ],
+   "wed": [
+    "07:00",
+    "20:00"
+   ],
+   "thu": [
+    "07:00",
+    "20:00"
+   ],
+   "fri": [
+    "07:00",
+    "20:00"
+   ],
+   "sat": [
+    "07:00",
+    "20:00"
+   ]
   },
-  {
-    "name": "ChaiWali",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "174 Malcolm X Blvd, New York, NY 10026",
-    "lat": 40.80492,
-    "lng": -73.94673,
-    "rating": 4.3,
-    "reviews": 150,
-    "hours": {
-      "mon": null,
-      "tue": [
-        "11:00",
-        "22:00"
-      ],
-      "wed": [
-        "11:00",
-        "22:00"
-      ],
-      "thu": [
-        "11:00",
-        "22:00"
-      ],
-      "fri": [
-        "11:00",
-        "23:00"
-      ],
-      "sat": [
-        "11:00",
-        "23:00"
-      ],
-      "sun": [
-        "11:00",
-        "22:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Masala chai",
-        "price": 5.0
-      },
-      {
-        "item": "Chai flight",
-        "price": 12.0
-      },
-      {
-        "item": "Samosa",
-        "price": 6.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "cafe"
-    ],
-    "note": "Harlem Indian spot built around made-from-scratch chai."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Shai Yemeni (adeni chai)",
+    "price": 5.5
+   },
+   {
+    "item": "Maleki coffee",
+    "price": 6.0
+   },
+   {
+    "item": "Basbousa",
+    "price": 4.5
+   }
+  ],
+  "tags": [
+   "adeni",
+   "yemeni",
+   "cafe"
+  ],
+  "note": "Upper West Side Yemeni shop serving spiced black tea."
+ },
+ {
+  "name": "Punjabi Junction of 87th",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "1665 1st Ave, New York, NY 10028, USA",
+  "lat": 40.77752,
+  "lng": -73.94923,
+  "rating": 4.5,
+  "reviews": 168,
+  "hours": {
+   "sun": [
+    "08:00",
+    "20:00"
+   ],
+   "mon": [
+    "08:00",
+    "22:00"
+   ],
+   "tue": [
+    "08:00",
+    "22:00"
+   ],
+   "wed": [
+    "08:00",
+    "22:00"
+   ],
+   "thu": [
+    "08:00",
+    "22:00"
+   ],
+   "fri": [
+    "08:00",
+    "22:00"
+   ],
+   "sat": [
+    "08:00",
+    "22:00"
+   ]
   },
-  {
-    "name": "Punjabi Junction of 87th",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "1665 1st Ave, New York, NY 10028",
-    "lat": 40.77824,
-    "lng": -73.94865,
-    "rating": 4.3,
-    "reviews": 84,
-    "hours": {
-      "mon": [
-        "11:00",
-        "21:00"
-      ],
-      "tue": [
-        "11:00",
-        "21:00"
-      ],
-      "wed": [
-        "11:00",
-        "21:00"
-      ],
-      "thu": [
-        "11:00",
-        "21:00"
-      ],
-      "fri": [
-        "11:00",
-        "21:00"
-      ],
-      "sat": [
-        "11:00",
-        "21:00"
-      ],
-      "sun": [
-        "11:00",
-        "21:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Desi masala chai (large)",
-        "price": 5.0
-      },
-      {
-        "item": "Desi masala chai (small)",
-        "price": 3.0
-      },
-      {
-        "item": "Samosa",
-        "price": 3.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "pakistani"
-    ],
-    "note": "Upper East Side counter serving cheap desi masala chai."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Desi masala chai (large)",
+    "price": 5.0
+   },
+   {
+    "item": "Desi masala chai (small)",
+    "price": 3.0
+   },
+   {
+    "item": "Samosa",
+    "price": 3.0
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "pakistani"
+  ],
+  "note": "Upper East Side counter serving cheap desi masala chai."
+ },
+ {
+  "name": "Haandi",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "113 Lexington Ave, New York, NY 10016, USA",
+  "lat": 40.74239,
+  "lng": -73.98236,
+  "rating": 3.9,
+  "reviews": 1490,
+  "hours": {
+   "sun": [
+    "10:00",
+    "01:00"
+   ],
+   "mon": [
+    "10:00",
+    "01:00"
+   ],
+   "tue": [
+    "10:00",
+    "01:00"
+   ],
+   "wed": [
+    "10:00",
+    "01:00"
+   ],
+   "thu": [
+    "10:00",
+    "01:00"
+   ],
+   "fri": [
+    "10:00",
+    "01:00"
+   ],
+   "sat": [
+    "10:00",
+    "01:00"
+   ]
   },
-  {
-    "name": "Haandi",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "113 Lexington Ave, New York, NY 10016",
-    "lat": 40.74398,
-    "lng": -73.98204,
-    "rating": 4.0,
-    "reviews": 362,
-    "hours": {
-      "mon": [
-        "10:00",
-        "01:00"
-      ],
-      "tue": [
-        "10:00",
-        "01:00"
-      ],
-      "wed": [
-        "10:00",
-        "01:00"
-      ],
-      "thu": [
-        "10:00",
-        "01:00"
-      ],
-      "fri": [
-        "10:00",
-        "01:00"
-      ],
-      "sat": [
-        "10:00",
-        "01:00"
-      ],
-      "sun": [
-        "10:00",
-        "01:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Doodh-patti chai",
-        "price": 3.0
-      },
-      {
-        "item": "Lamb nihari",
-        "price": 14.99
-      },
-      {
-        "item": "Chicken karahi",
-        "price": 13.0
-      }
-    ],
-    "tags": [
-      "pakistani",
-      "indian",
-      "late-night"
-    ],
-    "note": "Curry Hill Pakistani spot with doodh-patti chai, open late."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Doodh-patti chai",
+    "price": 3.0
+   },
+   {
+    "item": "Lamb nihari",
+    "price": 14.99
+   },
+   {
+    "item": "Chicken karahi",
+    "price": 13.0
+   }
+  ],
+  "tags": [
+   "pakistani",
+   "indian",
+   "late-night"
+  ],
+  "note": "Curry Hill Pakistani spot with doodh-patti chai, open late."
+ },
+ {
+  "name": "Thelewala",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "112 MacDougal St, New York, NY 10012, USA",
+  "lat": 40.7296,
+  "lng": -74.00061,
+  "rating": 4.2,
+  "reviews": 1008,
+  "hours": {
+   "sun": [
+    "11:00",
+    "03:00"
+   ],
+   "mon": [
+    "11:00",
+    "03:00"
+   ],
+   "tue": [
+    "11:00",
+    "03:00"
+   ],
+   "wed": [
+    "11:00",
+    "03:00"
+   ],
+   "thu": [
+    "11:00",
+    "03:00"
+   ],
+   "fri": [
+    "11:00",
+    "03:00"
+   ],
+   "sat": [
+    "11:00",
+    "03:00"
+   ]
   },
-  {
-    "name": "Thelewala",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "112 MacDougal St, New York, NY 10012",
-    "lat": 40.73,
-    "lng": -74.00008,
-    "rating": 4.3,
-    "reviews": 300,
-    "hours": {
-      "mon": [
-        "12:00",
-        "02:00"
-      ],
-      "tue": [
-        "12:00",
-        "02:00"
-      ],
-      "wed": [
-        "12:00",
-        "02:00"
-      ],
-      "thu": [
-        "12:00",
-        "02:00"
-      ],
-      "fri": [
-        "12:00",
-        "02:00"
-      ],
-      "sat": [
-        "12:00",
-        "02:00"
-      ],
-      "sun": [
-        "12:00",
-        "02:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Masala chai",
-        "price": 4.0
-      },
-      {
-        "item": "Kathi roll",
-        "price": 8.0
-      },
-      {
-        "item": "Puchka/chaat",
-        "price": 7.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "late-night"
-    ],
-    "note": "Greenwich Village street-food counter with ginger masala chai."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Masala chai",
+    "price": 4.0
+   },
+   {
+    "item": "Kathi roll",
+    "price": 8.0
+   },
+   {
+    "item": "Puchka/chaat",
+    "price": 7.0
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "late-night"
+  ],
+  "note": "Greenwich Village street-food counter with ginger masala chai."
+ },
+ {
+  "name": "Lhasa Tibetan Restaurant",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "177 1st Ave, New York, NY 10003, USA",
+  "lat": 40.72939,
+  "lng": -73.98434,
+  "rating": 4.6,
+  "reviews": 353,
+  "hours": {
+   "sun": [
+    "12:00",
+    "22:00"
+   ],
+   "mon": [
+    "12:00",
+    "22:00"
+   ],
+   "tue": [
+    "12:00",
+    "22:00"
+   ],
+   "thu": [
+    "12:00",
+    "22:00"
+   ],
+   "fri": [
+    "12:00",
+    "22:00"
+   ],
+   "sat": [
+    "12:00",
+    "22:00"
+   ]
   },
-  {
-    "name": "Lhasa Tibetan Restaurant",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "177 1st Ave, New York, NY 10003",
-    "lat": 40.72996,
-    "lng": -73.98449,
-    "rating": 4.5,
-    "reviews": 130,
-    "hours": {
-      "mon": [
-        "11:30",
-        "22:00"
-      ],
-      "tue": [
-        "11:30",
-        "22:00"
-      ],
-      "wed": [
-        "11:30",
-        "22:00"
-      ],
-      "thu": [
-        "11:30",
-        "22:00"
-      ],
-      "fri": [
-        "11:30",
-        "22:30"
-      ],
-      "sat": [
-        "11:30",
-        "22:30"
-      ],
-      "sun": [
-        "11:30",
-        "22:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Tibetan butter tea (po cha)",
-        "price": 4.0
-      },
-      {
-        "item": "Sweet milk tea",
-        "price": 3.5
-      },
-      {
-        "item": "Beef momo",
-        "price": 9.0
-      }
-    ],
-    "tags": [
-      "nepali",
-      "cafe"
-    ],
-    "note": "East Village Tibetan spot serving butter tea with momos."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Tibetan butter tea (po cha)",
+    "price": 4.0
+   },
+   {
+    "item": "Sweet milk tea",
+    "price": 3.5
+   },
+   {
+    "item": "Beef momo",
+    "price": 9.0
+   }
+  ],
+  "tags": [
+   "nepali",
+   "cafe"
+  ],
+  "note": "East Village Tibetan spot serving butter tea with momos."
+ },
+ {
+  "name": "Saravanaa Bhavan",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "81 Lexington Ave, New York, NY 10016, USA",
+  "lat": 40.74142,
+  "lng": -73.98308,
+  "rating": 4.2,
+  "reviews": 5175,
+  "hours": {
+   "sun": [
+    "09:00",
+    "22:00"
+   ],
+   "mon": [
+    "09:00",
+    "22:00"
+   ],
+   "tue": [
+    "09:00",
+    "22:00"
+   ],
+   "wed": [
+    "09:00",
+    "22:00"
+   ],
+   "thu": [
+    "09:00",
+    "22:00"
+   ],
+   "fri": [
+    "09:00",
+    "22:30"
+   ],
+   "sat": [
+    "09:00",
+    "22:30"
+   ]
   },
-  {
-    "name": "Saravanaa Bhavan",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "81 Lexington Ave, New York, NY 10016",
-    "lat": 40.74338,
-    "lng": -73.98376,
-    "rating": 4.1,
-    "reviews": 900,
-    "hours": {
-      "mon": [
-        "11:00",
-        "22:00"
-      ],
-      "tue": [
-        "11:00",
-        "22:00"
-      ],
-      "wed": [
-        "11:00",
-        "22:00"
-      ],
-      "thu": [
-        "11:00",
-        "22:00"
-      ],
-      "fri": [
-        "11:00",
-        "22:30"
-      ],
-      "sat": [
-        "11:00",
-        "22:30"
-      ],
-      "sun": [
-        "11:00",
-        "22:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Masala chai",
-        "price": 3.5
-      },
-      {
-        "item": "Madras filter coffee",
-        "price": 3.5
-      },
-      {
-        "item": "Masala dosa",
-        "price": 11.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian"
-    ],
-    "note": "Curry Hill South Indian chain with masala chai and filter coffee."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Masala chai",
+    "price": 3.5
+   },
+   {
+    "item": "Madras filter coffee",
+    "price": 3.5
+   },
+   {
+    "item": "Masala dosa",
+    "price": 11.0
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian"
+  ],
+  "note": "Curry Hill South Indian chain with masala chai and filter coffee."
+ },
+ {
+  "name": "Kailash Parbat",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "99 Lexington Ave, New York, NY 10016, USA",
+  "lat": 40.74209,
+  "lng": -73.9827,
+  "rating": 4.1,
+  "reviews": 1644,
+  "hours": {
+   "sun": [
+    "12:00",
+    "21:45"
+   ],
+   "mon": [
+    "12:00",
+    "21:45"
+   ],
+   "tue": [
+    "12:00",
+    "21:45"
+   ],
+   "wed": [
+    "12:00",
+    "21:45"
+   ],
+   "thu": [
+    "12:00",
+    "21:45"
+   ],
+   "fri": [
+    "12:00",
+    "21:45"
+   ],
+   "sat": [
+    "12:00",
+    "21:45"
+   ]
   },
-  {
-    "name": "Kailash Parbat",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "24 Lexington Ave, New York, NY 10010",
-    "lat": 40.73943,
-    "lng": -73.98428,
-    "rating": 4.2,
-    "reviews": 600,
-    "hours": {
-      "mon": [
-        "11:30",
-        "22:30"
-      ],
-      "tue": [
-        "11:30",
-        "22:30"
-      ],
-      "wed": [
-        "11:30",
-        "22:30"
-      ],
-      "thu": [
-        "11:30",
-        "22:30"
-      ],
-      "fri": [
-        "11:30",
-        "23:00"
-      ],
-      "sat": [
-        "11:30",
-        "23:00"
-      ],
-      "sun": [
-        "11:30",
-        "22:30"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Masala chai",
-        "price": 3.5
-      },
-      {
-        "item": "Chaat",
-        "price": 8.0
-      },
-      {
-        "item": "Pav bhaji",
-        "price": 12.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian"
-    ],
-    "note": "Curry Hill Sindhi vegetarian spot pouring aromatic masala chai."
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Masala chai",
+    "price": 3.5
+   },
+   {
+    "item": "Chaat",
+    "price": 8.0
+   },
+   {
+    "item": "Pav bhaji",
+    "price": 12.0
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian"
+  ],
+  "note": "Curry Hill Sindhi vegetarian spot pouring aromatic masala chai."
+ },
+ {
+  "name": "Hyderabadi Zaiqa",
+  "city": "New York",
+  "state": "NY",
+  "country": "US",
+  "currency": "USD",
+  "address": "184 Lexington Ave, New York, NY 10016, USA",
+  "lat": 40.74489,
+  "lng": -73.98116,
+  "rating": 4.6,
+  "reviews": 608,
+  "hours": {
+   "sun": [
+    "11:30",
+    "21:30"
+   ],
+   "mon": [
+    "11:30",
+    "22:00"
+   ],
+   "tue": [
+    "11:30",
+    "22:00"
+   ],
+   "wed": [
+    "11:30",
+    "22:00"
+   ],
+   "thu": [
+    "11:30",
+    "22:00"
+   ],
+   "fri": [
+    "11:30",
+    "22:00"
+   ],
+   "sat": [
+    "11:30",
+    "22:00"
+   ]
   },
-  {
-    "name": "Hyderabadi Zaiqa",
-    "city": "New York",
-    "state": "NY",
-    "country": "US",
-    "currency": "USD",
-    "address": "105 Lexington Ave, New York, NY 10016",
-    "lat": 40.7437,
-    "lng": -73.98235,
-    "rating": 4.3,
-    "reviews": 250,
-    "hours": {
-      "mon": [
-        "11:00",
-        "23:00"
-      ],
-      "tue": [
-        "11:00",
-        "23:00"
-      ],
-      "wed": [
-        "11:00",
-        "23:00"
-      ],
-      "thu": [
-        "11:00",
-        "23:00"
-      ],
-      "fri": [
-        "11:00",
-        "24:00"
-      ],
-      "sat": [
-        "11:00",
-        "24:00"
-      ],
-      "sun": [
-        "11:00",
-        "23:00"
-      ]
-    },
-    "priceEstimated": true,
-    "menu": [
-      {
-        "item": "Irani chai",
-        "price": 3.5
-      },
-      {
-        "item": "Hyderabadi biryani",
-        "price": 15.0
-      },
-      {
-        "item": "Osmania biscuits",
-        "price": 4.0
-      }
-    ],
-    "tags": [
-      "masala",
-      "indian",
-      "pakistani",
-      "late-night"
-    ],
-    "note": "Curry Hill Hyderabadi spot serving Irani chai with biscuits."
-  }
+  "priceEstimated": true,
+  "menu": [
+   {
+    "item": "Irani chai",
+    "price": 3.5
+   },
+   {
+    "item": "Hyderabadi biryani",
+    "price": 15.0
+   },
+   {
+    "item": "Osmania biscuits",
+    "price": 4.0
+   }
+  ],
+  "tags": [
+   "masala",
+   "indian",
+   "pakistani",
+   "late-night"
+  ],
+  "note": "Curry Hill Hyderabadi spot serving Irani chai with biscuits."
+ }
 ]

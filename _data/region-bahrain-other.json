@@ -1,821 +1,446 @@
 [
-  {
-    "name": "Haji Gahwa (Haji's Traditional Cafe)",
-    "city": "Manama",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Souq alley off Shaikh Abdulla Avenue, Manama Souq, Block 304, Manama",
-    "lat": 26.2336,
-    "lng": 50.5749,
-    "rating": 4.1,
-    "reviews": 4473,
-    "hours": {
-      "mon": [
-        "05:30",
-        "21:00"
-      ],
-      "tue": [
-        "05:30",
-        "21:00"
-      ],
-      "wed": [
-        "05:30",
-        "21:00"
-      ],
-      "thu": [
-        "05:30",
-        "21:00"
-      ],
-      "fri": [
-        "05:30",
-        "21:00"
-      ],
-      "sat": [
-        "05:30",
-        "21:00"
-      ],
-      "sun": [
-        "05:30",
-        "21:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak chai",
-        "price": 0.2
-      },
-      {
-        "item": "Chai haleeb",
-        "price": 0.2
-      },
-      {
-        "item": "Balaleet plate",
-        "price": 0.8
-      },
-      {
-        "item": "Khubz with egg",
-        "price": 0.5
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafe",
-      "cafeteria"
-    ],
-    "note": "Manama Souq institution; chai served here since 1950.",
-    "priceEstimated": true
+ {
+  "name": "Haji Gahwa (Haji's Traditional Cafe)",
+  "city": "Manama",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "150 شارع الحكومة، Manama, Bahrain",
+  "lat": 26.23341,
+  "lng": 50.57445,
+  "rating": 4.1,
+  "reviews": 4649,
+  "hours": {
+   "sun": [
+    "06:00",
+    "20:00"
+   ],
+   "mon": [
+    "06:00",
+    "20:00"
+   ],
+   "tue": [
+    "06:00",
+    "20:00"
+   ],
+   "wed": [
+    "06:00",
+    "20:00"
+   ],
+   "thu": [
+    "06:00",
+    "20:00"
+   ],
+   "fri": [
+    "06:00",
+    "20:00"
+   ],
+   "sat": [
+    "06:00",
+    "20:00"
+   ]
   },
-  {
-    "name": "Naseef Cafe",
-    "city": "Manama",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Shop 13, Building 16, Road 350, Bab Al Bahrain Souq, Manama",
-    "lat": 26.2342,
-    "lng": 50.5758,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "08:00",
-        "23:00"
-      ],
-      "tue": [
-        "08:00",
-        "23:00"
-      ],
-      "wed": [
-        "08:00",
-        "23:00"
-      ],
-      "thu": [
-        "08:00",
-        "23:00"
-      ],
-      "fri": [
-        "08:00",
-        "23:00"
-      ],
-      "sat": [
-        "08:00",
-        "23:00"
-      ],
-      "sun": [
-        "08:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 0.3
-      },
-      {
-        "item": "Mango ice cream",
-        "price": 0.8
-      },
-      {
-        "item": "Breakfast platter for two",
-        "price": 4.0
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafe",
-      "dessert"
-    ],
-    "note": "Open since 1920; karak alongside famous mango ice cream.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak chai",
+    "price": 0.2
+   },
+   {
+    "item": "Chai haleeb",
+    "price": 0.2
+   },
+   {
+    "item": "Balaleet plate",
+    "price": 0.8
+   },
+   {
+    "item": "Khubz with egg",
+    "price": 0.5
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafe",
+   "cafeteria"
+  ],
+  "note": "Manama Souq institution; chai served here since 1950.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Golden Star Karak",
+  "city": "Manama",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Rd No 1511, Muharraq, Bahrain",
+  "lat": 26.24869,
+  "lng": 50.61121,
+  "rating": 3.8,
+  "reviews": 18,
+  "hours": {
+   "sun": [
+    "00:00",
+    "24:00"
+   ],
+   "mon": [
+    "00:00",
+    "24:00"
+   ],
+   "tue": [
+    "00:00",
+    "24:00"
+   ],
+   "wed": [
+    "00:00",
+    "24:00"
+   ],
+   "thu": [
+    "00:00",
+    "24:00"
+   ],
+   "fri": [
+    "00:00",
+    "24:00"
+   ],
+   "sat": [
+    "00:00",
+    "24:00"
+   ]
   },
-  {
-    "name": "Saffron by Jena Bakery",
-    "city": "Muharraq",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Souq Al Qaysariya, Old Muharraq, Muharraq",
-    "lat": 26.2566,
-    "lng": 50.6118,
-    "rating": 4.1,
-    "reviews": 53,
-    "hours": {
-      "mon": [
-        "06:30",
-        "11:00"
-      ],
-      "tue": [
-        "06:30",
-        "11:00"
-      ],
-      "wed": [
-        "06:30",
-        "11:00"
-      ],
-      "thu": [
-        "06:30",
-        "11:00"
-      ],
-      "fri": null,
-      "sat": [
-        "06:30",
-        "11:00"
-      ],
-      "sun": null
-    },
-    "menu": [
-      {
-        "item": "Karak tea",
-        "price": 0.2
-      },
-      {
-        "item": "Saffron tea",
-        "price": 0.3
-      },
-      {
-        "item": "Khubz with cheese and egg",
-        "price": 0.5
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafe",
-      "cafeteria"
-    ],
-    "note": "Breakfast bakery inside Muharraq's restored Souq Al Qaysariya.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak",
+    "price": 0.1
+   },
+   {
+    "item": "Sulaimani tea",
+    "price": 0.1
+   },
+   {
+    "item": "Chapati",
+    "price": 0.2
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "chapati"
+  ],
+  "note": "No-frills karak counter; delivers across central Manama and Muharraq.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Roti Shoti Sarbjeet's Kitchen ON WHEELS",
+  "city": "Juffair",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Road 2469، Manama, Bahrain",
+  "lat": 26.22689,
+  "lng": 50.61142,
+  "rating": 4.6,
+  "reviews": 541,
+  "hours": {
+   "sun": [
+    "18:00",
+    "23:00"
+   ],
+   "tue": [
+    "18:00",
+    "23:00"
+   ],
+   "wed": [
+    "18:00",
+    "23:00"
+   ],
+   "thu": [
+    "18:00",
+    "24:00"
+   ],
+   "fri": [
+    "18:00",
+    "23:00"
+   ],
+   "sat": [
+    "18:00",
+    "23:00"
+   ]
   },
-  {
-    "name": "Dilla Qahwa and Karak",
-    "city": "Hidd",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Road 12, near Super Meva Mart, Al Hidd, Muharraq Governorate",
-    "lat": 26.2462,
-    "lng": 50.654,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "06:00",
-        "22:00"
-      ],
-      "tue": [
-        "06:00",
-        "22:00"
-      ],
-      "wed": [
-        "06:00",
-        "22:00"
-      ],
-      "thu": [
-        "06:00",
-        "22:00"
-      ],
-      "fri": [
-        "06:00",
-        "22:00"
-      ],
-      "sat": [
-        "06:00",
-        "22:00"
-      ],
-      "sun": [
-        "06:00",
-        "22:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak (cup)",
-        "price": 0.1
-      },
-      {
-        "item": "Karak dallah (pot)",
-        "price": 0.8
-      },
-      {
-        "item": "Gahwa",
-        "price": 0.3
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafeteria"
-    ],
-    "note": "Hidd coffee shop; the karak dallah is the bestseller.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Homemade karak chai",
+    "price": 0.2
+   },
+   {
+    "item": "Vada pav",
+    "price": 0.6
+   },
+   {
+    "item": "Dahi papdi chaat",
+    "price": 1.0
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafe",
+   "late-night"
+  ],
+  "note": "Family food truck by Juffair beach; top-voted homemade karak.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Lamsi Karak",
+  "city": "Umm Al Hassam",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "Shop No.249, Bldg 249, 335 Road-338, المنامة، Bahrain",
+  "lat": 26.20157,
+  "lng": 50.59176,
+  "rating": 5,
+  "reviews": 12,
+  "hours": {
+   "mon": [
+    "06:00",
+    "22:00"
+   ],
+   "tue": [
+    "06:00",
+    "22:00"
+   ],
+   "wed": [
+    "06:00",
+    "22:00"
+   ],
+   "thu": [
+    "06:00",
+    "22:00"
+   ],
+   "fri": [
+    "06:00",
+    "22:00"
+   ],
+   "sat": [
+    "06:00",
+    "22:00"
+   ],
+   "sun": [
+    "06:00",
+    "22:00"
+   ]
   },
-  {
-    "name": "Krk Hut",
-    "city": "East Riffa",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "East Riffa, Riffa",
-    "lat": 26.119,
-    "lng": 50.571,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "16:00",
-        "24:00"
-      ],
-      "tue": [
-        "16:00",
-        "24:00"
-      ],
-      "wed": [
-        "16:00",
-        "24:00"
-      ],
-      "thu": [
-        "16:00",
-        "24:00"
-      ],
-      "fri": [
-        "16:00",
-        "24:00"
-      ],
-      "sat": [
-        "16:00",
-        "24:00"
-      ],
-      "sun": [
-        "16:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak",
-        "price": 0.1
-      },
-      {
-        "item": "Saffron karak",
-        "price": 0.2
-      },
-      {
-        "item": "Chapati",
-        "price": 0.3
-      }
-    ],
-    "tags": [
-      "karak",
-      "late-night",
-      "chapati"
-    ],
-    "note": "East Riffa hut known for saffron and flavored karak.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak",
+    "price": 0.1
+   },
+   {
+    "item": "Sahlab",
+    "price": 0.3
+   },
+   {
+    "item": "Saffron milk",
+    "price": 0.3
+   },
+   {
+    "item": "Muhallabia",
+    "price": 0.4
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "dessert"
+  ],
+  "note": "Small Umm Al Hassam shop; sahlab and saffron milk too.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Golden Karak Restaurant",
+  "city": "Adliya",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "6H9P+9V8, Rd No 2631, Manama, Bahrain",
+  "lat": 26.21849,
+  "lng": 50.58734,
+  "rating": 4.1,
+  "reviews": 39,
+  "hours": {
+   "sun": [
+    "11:00",
+    "04:00"
+   ],
+   "mon": [
+    "11:00",
+    "04:00"
+   ],
+   "tue": [
+    "11:00",
+    "04:00"
+   ],
+   "wed": [
+    "11:00",
+    "04:00"
+   ],
+   "thu": [
+    "11:00",
+    "04:00"
+   ],
+   "fri": [
+    "11:00",
+    "04:00"
+   ],
+   "sat": [
+    "11:00",
+    "04:00"
+   ]
   },
-  {
-    "name": "Karak and Al-Ghazali",
-    "city": "North Riffa",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Riffa Al Shamali, North Riffa, Riffa",
-    "lat": 26.137,
-    "lng": 50.561,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "05:00",
-        "23:00"
-      ],
-      "tue": [
-        "05:00",
-        "23:00"
-      ],
-      "wed": [
-        "05:00",
-        "23:00"
-      ],
-      "thu": [
-        "05:00",
-        "23:00"
-      ],
-      "fri": [
-        "05:00",
-        "23:00"
-      ],
-      "sat": [
-        "05:00",
-        "23:00"
-      ],
-      "sun": [
-        "05:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak",
-        "price": 0.1
-      },
-      {
-        "item": "Ghazali bread",
-        "price": 0.3
-      },
-      {
-        "item": "Halloumi chapati",
-        "price": 0.4
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafeteria",
-      "chapati"
-    ],
-    "note": "North Riffa spot for karak and sweet ghazali bread.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak",
+    "price": 0.1
+   },
+   {
+    "item": "Chapati",
+    "price": 0.2
+   },
+   {
+    "item": "Paratha roll",
+    "price": 0.4
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafeteria",
+   "chapati"
+  ],
+  "note": "Budget karak and chapati joint in Adliya block 326.",
+  "priceEstimated": true
+ },
+ {
+  "name": "House of Coffee (Razji)",
+  "city": "Muharraq",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "7J36+JC8 House of Coffee, near Shaikh Ebrahim Centre In the Renovated Houses of، Muharraq, Bahrain",
+  "lat": 26.25404,
+  "lng": 50.61107,
+  "rating": 4.1,
+  "reviews": 288,
+  "hours": {
+   "sun": [
+    "08:00",
+    "22:00"
+   ],
+   "mon": [
+    "08:00",
+    "22:00"
+   ],
+   "tue": [
+    "08:00",
+    "22:00"
+   ],
+   "wed": [
+    "08:00",
+    "22:00"
+   ],
+   "thu": [
+    "08:00",
+    "22:00"
+   ],
+   "fri": [
+    "08:00",
+    "22:00"
+   ],
+   "sat": [
+    "08:00",
+    "22:00"
+   ]
   },
-  {
-    "name": "Golden Star Karak",
-    "city": "Manama",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Manama Center, Manama",
-    "lat": 26.2285,
-    "lng": 50.586,
-    "rating": 3.7,
-    "reviews": 67,
-    "hours": {
-      "mon": [
-        "06:00",
-        "23:00"
-      ],
-      "tue": [
-        "06:00",
-        "23:00"
-      ],
-      "wed": [
-        "06:00",
-        "23:00"
-      ],
-      "thu": [
-        "06:00",
-        "23:00"
-      ],
-      "fri": [
-        "06:00",
-        "23:00"
-      ],
-      "sat": [
-        "06:00",
-        "23:00"
-      ],
-      "sun": [
-        "06:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak",
-        "price": 0.1
-      },
-      {
-        "item": "Sulaimani tea",
-        "price": 0.1
-      },
-      {
-        "item": "Chapati",
-        "price": 0.2
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafeteria",
-      "chapati"
-    ],
-    "note": "No-frills karak counter; delivers across central Manama and Muharraq.",
-    "priceEstimated": true
+  "menu": [
+   {
+    "item": "Karak chai",
+    "price": 0.3
+   },
+   {
+    "item": "Gahwa with dates",
+    "price": 0.5
+   },
+   {
+    "item": "Lemon mint",
+    "price": 0.8
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafe"
+  ],
+  "note": "Heritage coffee house on Muharraq's old-town pearling path.",
+  "priceEstimated": true
+ },
+ {
+  "name": "Chapati Bhai",
+  "city": "Seef",
+  "state": "BH",
+  "country": "BH",
+  "currency": "BHD",
+  "address": "2836, Seef 428, Bahrain",
+  "lat": 26.23852,
+  "lng": 50.5381,
+  "rating": 3.9,
+  "reviews": 69,
+  "hours": {
+   "sun": [
+    "06:30",
+    "15:00"
+   ],
+   "mon": [
+    "06:30",
+    "15:00"
+   ],
+   "tue": [
+    "06:30",
+    "15:00"
+   ],
+   "wed": [
+    "06:30",
+    "15:00"
+   ],
+   "thu": [
+    "06:30",
+    "15:00"
+   ],
+   "fri": [
+    "06:30",
+    "15:00"
+   ],
+   "sat": [
+    "06:30",
+    "15:00"
+   ]
   },
-  {
-    "name": "Habara Snacks and Fish",
-    "city": "Zallaq",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Zallaq Highway area, Zallaq",
-    "lat": 26.0465,
-    "lng": 50.489,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "07:00",
-        "24:00"
-      ],
-      "tue": [
-        "07:00",
-        "24:00"
-      ],
-      "wed": [
-        "07:00",
-        "24:00"
-      ],
-      "thu": [
-        "07:00",
-        "24:00"
-      ],
-      "fri": [
-        "07:00",
-        "24:00"
-      ],
-      "sat": [
-        "07:00",
-        "24:00"
-      ],
-      "sun": [
-        "07:00",
-        "24:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak",
-        "price": 0.1
-      },
-      {
-        "item": "Fish sandwich",
-        "price": 0.5
-      },
-      {
-        "item": "Fresh orange juice",
-        "price": 0.6
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafeteria",
-      "late-night"
-    ],
-    "note": "Zallaq stop; fans drive across Bahrain for its karak.",
-    "priceEstimated": true
-  },
-  {
-    "name": "Roti Shoti Sarbjeet's Kitchen ON WHEELS",
-    "city": "Juffair",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Road 2469, near Juffair beachfront, Juffair, Manama",
-    "lat": 26.2125,
-    "lng": 50.614,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "16:30",
-        "22:30"
-      ],
-      "tue": [
-        "16:30",
-        "22:30"
-      ],
-      "wed": [
-        "16:30",
-        "22:30"
-      ],
-      "thu": [
-        "16:30",
-        "22:30"
-      ],
-      "fri": [
-        "16:30",
-        "22:30"
-      ],
-      "sat": [
-        "16:30",
-        "22:30"
-      ],
-      "sun": [
-        "16:30",
-        "22:30"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Homemade karak chai",
-        "price": 0.2
-      },
-      {
-        "item": "Vada pav",
-        "price": 0.6
-      },
-      {
-        "item": "Dahi papdi chaat",
-        "price": 1.0
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafe",
-      "late-night"
-    ],
-    "note": "Family food truck by Juffair beach; top-voted homemade karak.",
-    "priceEstimated": true
-  },
-  {
-    "name": "Lamsi Karak",
-    "city": "Umm Al Hassam",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Road 3509, off Umm Al Hassam Avenue, Manama",
-    "lat": 26.2016,
-    "lng": 50.5918,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "06:00",
-        "22:00"
-      ],
-      "tue": [
-        "06:00",
-        "22:00"
-      ],
-      "wed": [
-        "06:00",
-        "22:00"
-      ],
-      "thu": [
-        "06:00",
-        "22:00"
-      ],
-      "fri": [
-        "06:00",
-        "22:00"
-      ],
-      "sat": [
-        "06:00",
-        "22:00"
-      ],
-      "sun": [
-        "06:00",
-        "22:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak",
-        "price": 0.1
-      },
-      {
-        "item": "Sahlab",
-        "price": 0.3
-      },
-      {
-        "item": "Saffron milk",
-        "price": 0.3
-      },
-      {
-        "item": "Muhallabia",
-        "price": 0.4
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafeteria",
-      "dessert"
-    ],
-    "note": "Small Umm Al Hassam shop; sahlab and saffron milk too.",
-    "priceEstimated": true
-  },
-  {
-    "name": "Golden Karak Restaurant",
-    "city": "Adliya",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Building 52, Road 352, Block 326, Adliya, Manama",
-    "lat": 26.2128,
-    "lng": 50.5852,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "05:00",
-        "23:00"
-      ],
-      "tue": [
-        "05:00",
-        "23:00"
-      ],
-      "wed": [
-        "05:00",
-        "23:00"
-      ],
-      "thu": [
-        "05:00",
-        "23:00"
-      ],
-      "fri": [
-        "05:00",
-        "23:00"
-      ],
-      "sat": [
-        "05:00",
-        "23:00"
-      ],
-      "sun": [
-        "05:00",
-        "23:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak",
-        "price": 0.1
-      },
-      {
-        "item": "Chapati",
-        "price": 0.2
-      },
-      {
-        "item": "Paratha roll",
-        "price": 0.4
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafeteria",
-      "chapati"
-    ],
-    "note": "Budget karak and chapati joint in Adliya block 326.",
-    "priceEstimated": true
-  },
-  {
-    "name": "House of Coffee (Razji)",
-    "city": "Muharraq",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Pearling Path, Old Muharraq, Muharraq",
-    "lat": 26.254,
-    "lng": 50.6111,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "08:00",
-        "22:00"
-      ],
-      "tue": [
-        "08:00",
-        "22:00"
-      ],
-      "wed": [
-        "08:00",
-        "22:00"
-      ],
-      "thu": [
-        "08:00",
-        "22:00"
-      ],
-      "fri": [
-        "08:00",
-        "22:00"
-      ],
-      "sat": [
-        "08:00",
-        "22:00"
-      ],
-      "sun": [
-        "08:00",
-        "22:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak chai",
-        "price": 0.3
-      },
-      {
-        "item": "Gahwa with dates",
-        "price": 0.5
-      },
-      {
-        "item": "Lemon mint",
-        "price": 0.8
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafe"
-    ],
-    "note": "Heritage coffee house on Muharraq's old-town pearling path.",
-    "priceEstimated": true
-  },
-  {
-    "name": "Chapati Bhai",
-    "city": "Seef",
-    "state": "BH",
-    "country": "BH",
-    "currency": "BHD",
-    "address": "Al Seef district, near Bahrain Financial Harbour, Manama",
-    "lat": 26.2287,
-    "lng": 50.5334,
-    "rating": null,
-    "reviews": null,
-    "hours": {
-      "mon": [
-        "07:00",
-        "22:00"
-      ],
-      "tue": [
-        "07:00",
-        "22:00"
-      ],
-      "wed": [
-        "07:00",
-        "22:00"
-      ],
-      "thu": [
-        "07:00",
-        "22:00"
-      ],
-      "fri": [
-        "07:00",
-        "22:00"
-      ],
-      "sat": [
-        "07:00",
-        "22:00"
-      ],
-      "sun": [
-        "07:00",
-        "22:00"
-      ]
-    },
-    "menu": [
-      {
-        "item": "Karak",
-        "price": 0.2
-      },
-      {
-        "item": "Stuffed chapati",
-        "price": 0.5
-      },
-      {
-        "item": "Croissant",
-        "price": 0.4
-      }
-    ],
-    "tags": [
-      "karak",
-      "cafe",
-      "chapati"
-    ],
-    "note": "Seef food truck. Free karak on Tuesdays.",
-    "priceEstimated": true
-  }
+  "menu": [
+   {
+    "item": "Karak",
+    "price": 0.2
+   },
+   {
+    "item": "Stuffed chapati",
+    "price": 0.5
+   },
+   {
+    "item": "Croissant",
+    "price": 0.4
+   }
+  ],
+  "tags": [
+   "karak",
+   "cafe",
+   "chapati"
+  ],
+  "note": "Seef food truck. Free karak on Tuesdays.",
+  "priceEstimated": true
+ }
 ]
